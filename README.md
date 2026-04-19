@@ -18,13 +18,15 @@ While the official LLaVA-Rad model generates fluent radiological findings from f
 │   └── scripts/               # Data preparation and subset building scripts
 ├── data/
 │   ├── lists/                 # Filtered image filenames (e.g., 1500 subset)
-│   ├── mimic-cxr-jpg/         # Image directory (downloaded via PhysioNet)
-│   └── queries/               # JSON configuration for inference queries
+│   ├── images/                # Image directory (downloaded via PhysioNet)
+│   ├── queries/               # JSON configuration for inference queries
+│   └── refs/                  # LlaVA-Rad MIMIC-CXR Annotations 
 ├── notebooks_v2/              # Core evaluation pipeline (Jupyter Notebooks)
 │   ├── 01_validate_pilot.ipynb
 │   ├── 02_align_subset_to_inference.ipynb
 │   ├── 03_run_radgraph_extraction_from_aligned_input.ipynb
 │   ├── 04_analyze_radgraph_results.ipynb
+│   ├── 05_pymc_explainability_model_A.ipynb
 │   ├── 05.1_create_template_for_manual_review.ipynb
 │   ├── 05.2_create_hallucination-subset.ipynb
 │   └── 05.3_pymc_explainability_final.ipynb
@@ -42,8 +44,8 @@ Due to the heavy computational requirements of LLaVA-Rad, a dedicated GPU enviro
 
 ### 1. Clone this Repository
 ```bash
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone https://github.com/JoelK27/Explainable_LlaVA-Rad.git
+cd Explainable_LlaVA-Rad
 ```
 
 ### 2. Setup the Python Environment
@@ -57,7 +59,6 @@ pip install --upgrade pip
 ### 3. Install LLaVA-Rad
 Clone the official LLaVA-Rad repository directly into the `code` directory and install its dependencies:
 ```bash
-mkdir -p code
 cd code
 git clone https://github.com/microsoft/LLaVA-Rad.git
 cd LLaVA-Rad
@@ -82,26 +83,109 @@ pip install jupyterlab pandas numpy scikit-learn pymc pytensor transformers torc
 
 Before running inference, you must acquire the necessary clinical datasets and model weights. **Note: MIMIC-CXR requires a signed data use agreement on PhysioNet.**
 
-1. **Images:** Download the [MIMIC-CXR-JPG images](https://physionet.org/content/mimic-cxr-jpg/2.0.0/) and place them in `data/mimic-cxr-jpg/`.
-2. **Text Annotations:** Download the [LLaVA-Rad MIMIC-CXR Annotations](https://physionet.org/content/llava-rad-mimic-cxr-annotation/1.0.0/) which include reports with extracted sections in LLaVA format.
+1. **Images:** Download the [MIMIC-CXR-JPG images](https://physionet.org/content/mimic-cxr-jpg/2.1.0/) and place them in `data/images/`.
+2. **Text Annotations:** Download the [LLaVA-Rad MIMIC-CXR Annotations](https://physionet.org/content/llava-rad-mimic-cxr-annotation/1.0.0/) which include reports with extracted sections in LLaVA format and place them in `data/refs/`.
 3. **Model Weights:** Download the pretrained model weights for BiomedCLIP-CXR and LLaVA-Rad from HuggingFace at [microsoft/llava-rad](https://huggingface.co/microsoft/llava-rad).
 
 ---
 
 ## 🚀 Execution Pipeline
 
-This thesis treats LLaVA-Rad as a fixed generative backbone. Therefore, we **skip model training/fine-tuning** and proceed directly to inference and evaluation.
+This thesis treats LLaVA-Rad as a fixed generative backbone. Therefore, we **skip model training/fine-tuning** and proceed directly to data preparation, inference, and evaluation.
 
-### Stage 1: Model Inference (LLaVA-Rad)
-Execute the generative model to produce raw clinical findings. Update the `eval.sh` script to point to your specific query subset and image folder.
+### Stage 1: Data Preparation & Subset Generation
+The full MIMIC-CXR image dataset and LLaVA-Rad reference annotations are massive. To avoid downloading hundreds of gigabytes of data and to allow efficient evaluation on manageable subsets, the pipeline provides scripts to slice the reference data and identify only the specifically needed image files.
+
+#### 1a. Build the JSON Subset
+First, extract a specific baseline subset (e.g., 1500 cases) from the massive raw LLaVA-Rad PhysioNet annotation file.
+```bash
+# From the project root path
+python code/scripts/build_json_subset.py
+```
+
+#### 1b. Identify Required Images
+Next, scan the generated JSON subset to extract a text list of exactly which chest X-ray images are required for inference. You can then use this list to selectively download only those images from PhysioNet.
+```bash
+python code/scripts/build_needed_images_from_query.py \
+    --query data/queries/subset_1500.json \
+    --out data/lists/needed_images_1500.txt
+```
+
+#### 1c. Validate and Prepare Final Subset
+Once the images are downloaded, use `prepare_subset.py` to ensure all referenced images exist on the disk. This script will filter out any missing images and generate the final randomized or ordered subset (e.g., for sizes like 20, 300, 600, or 1500) that guarantees a crash-free inference.
+```bash
+python code/scripts/prepare_subset.py \
+    --input_jsonl data/queries/subset_1500.json \
+    --image_folder data/images/mimic-cxr-jpg/ \
+    --output_jsonl data/queries/final_inference_subset.jsonl \
+    --n 1500 \
+    --mode random
+```
+
+### Stage 2: Model Inference (LLaVA-Rad)
+Execute the generative model to produce raw clinical findings. This uses the official `eval.sh` script from the cloned LLaVA-Rad repository.
+
+<details>
+<summary><b>Click here to see the required modifications to <code>scripts/eval.sh</code></b></summary>
+
+To replicate the inference step for this thesis, the official `eval.sh` script needs to be pointed to your specific query file and image folder. The core execution logic remains untouched.
+
+Update `code/LLaVA-Rad/scripts/eval.sh` as follows (uncomment and adjust paths):
+
+```bash
+#!/bin/bash
+set -e
+set -o pipefail
+
+model_base=lmsys/vicuna-7b-v1.5
+model_path=microsoft/llava-rad
+run_name=llavarad_300_run
+
+# --- MODIFIED PATHS FOR THESIS EVALUATION ---
+query_file=/workspace/thesis/data/queries/<your_chosen_subset>.json
+image_folder=/workspace/thesis/data/images/mimic-cxr-jpg/2.1.0/files/mimic
+prediction_dir=/workspace/thesis/outputs_raw/main
+prediction_prefix=${prediction_dir}/<your_chosen_subset>_run
+# --------------------------------------------
+
+loader="mimic_test_findings"
+conv_mode="v1"
+
+mkdir -p "${prediction_dir}"
+
+CHUNKS=$(nvidia-smi --query-gpu=name --format=csv,noheader | wc -l)
+
+for (( idx=0; idx<CHUNKS; idx++ ))
+do
+    CUDA_VISIBLE_DEVICES=$idx python -m llava.eval.model_mimic_cxr \
+        --query_file "${query_file}" \
+        --loader "${loader}" \
+        --image_folder "${image_folder}" \
+        --conv_mode "${conv_mode}" \
+        --prediction_file "${prediction_prefix}_${idx}.jsonl" \
+        --temperature 0 \
+        --model_path "${model_path}" \
+        --model_base "${model_base}" \
+        --chunk_idx "${idx}" \
+        --num_chunks "${CHUNKS}" \
+        --batch_size 8 \
+        --group_by_length &
+done
+
+wait
+
+cat "${prediction_prefix}"_*.jsonl > "${prediction_prefix}.jsonl"
+```
+</details>
+
+Once the script is updated, run it:
 ```bash
 cd code/LLaVA-Rad
-# Ensure query_file and image_folder paths are uncommented and correctly set in scripts/eval.sh
 bash scripts/eval.sh
 cd ../..
 ```
 
-### Stage 2: Bayesian Evaluation Pipeline
+### Stage 3: Bayesian Evaluation Pipeline
 Once the raw inference file is generated, the evaluation is executed sequentially via the Jupyter Notebooks in `notebooks_v2/`.
 
 | Notebook | Description |

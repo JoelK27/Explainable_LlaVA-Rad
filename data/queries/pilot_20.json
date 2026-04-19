@@ -1,0 +1,742 @@
+[
+  {
+    "id": "10046166_50051329",
+    "image": "mimic/p10/p10046166/s50051329/427446c1-881f5cce-85191ce1-91a58ba9-0a57d3f5.jpg",
+    "generate_method": "gpt4",
+    "reason": "___-year-old male with history of metastatic melanoma, presenting with confusion and somnolence. evaluate for acute cardiopulmonary process.",
+    "impression": "No evidence of acute cardiopulmonary process.",
+    "indication": null,
+    "history": null,
+    "view": "LATERAL",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Lateral view somewhat limited due to overlying motion artifact. The lungs are low in volume. There is no focal airspace consolidation to suggest pneumonia. A 1.2-cm calcified granuloma just below the medial aspect of the right hemidiaphragm. No pleural effusions or pulmonary edema. There is no pneumothorax. The inferior sternotomy wire is fractured. Surgical clips and vascular markers in the thorax."
+      }
+    ]
+  },
+  {
+    "id": "10046166_50051329",
+    "image": "mimic/p10/p10046166/s50051329/427446c1-881f5cce-85191ce1-91a58ba9-0a57d3f5.jpg",
+    "generate_method": "rule-based",
+    "reason": "___-year-old male with history of metastatic melanoma, presenting\n with confusion and somnolence.  evaluate for acute cardiopulmonary process.",
+    "impression": "No evidence of acute cardiopulmonary process.",
+    "indication": "___-year-old male with history of metastatic melanoma, presenting\n with confusion and somnolence.  Evaluate for acute cardiopulmonary process.",
+    "history": null,
+    "view": "LATERAL",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Lateral view somewhat limited due to overlying motion artifact. The\n lungs are low in volume.  There is no focal airspace consolidation to suggest\n pneumonia.  A 1.2-cm calcified granuloma just below the medial aspect of the\n right hemidiaphragm is unchanged from prior study.  No pleural effusions or\n pulmonary edema. There is no pneumothorax.\n \n The inferior sternotomy wire is fractured but unchanged. Surgical clips and\n vascular markers in the thorax are related to prior CABG surgery."
+      }
+    ]
+  },
+  {
+    "id": "10046166_50051329",
+    "image": "mimic/p10/p10046166/s50051329/abea5eb9-b7c32823-3a14c5ca-77868030-69c83139.jpg",
+    "generate_method": "gpt4",
+    "reason": "___-year-old male with history of metastatic melanoma, presenting with confusion and somnolence. evaluate for acute cardiopulmonary process.",
+    "impression": "No evidence of acute cardiopulmonary process.",
+    "indication": null,
+    "history": null,
+    "view": "AP",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Lateral view somewhat limited due to overlying motion artifact. The lungs are low in volume. There is no focal airspace consolidation to suggest pneumonia. A 1.2-cm calcified granuloma just below the medial aspect of the right hemidiaphragm. No pleural effusions or pulmonary edema. There is no pneumothorax. The inferior sternotomy wire is fractured. Surgical clips and vascular markers in the thorax."
+      }
+    ]
+  },
+  {
+    "id": "10046166_50051329",
+    "image": "mimic/p10/p10046166/s50051329/abea5eb9-b7c32823-3a14c5ca-77868030-69c83139.jpg",
+    "generate_method": "rule-based",
+    "reason": "___-year-old male with history of metastatic melanoma, presenting\n with confusion and somnolence.  evaluate for acute cardiopulmonary process.",
+    "impression": "No evidence of acute cardiopulmonary process.",
+    "indication": "___-year-old male with history of metastatic melanoma, presenting\n with confusion and somnolence.  Evaluate for acute cardiopulmonary process.",
+    "history": null,
+    "view": "AP",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Lateral view somewhat limited due to overlying motion artifact. The\n lungs are low in volume.  There is no focal airspace consolidation to suggest\n pneumonia.  A 1.2-cm calcified granuloma just below the medial aspect of the\n right hemidiaphragm is unchanged from prior study.  No pleural effusions or\n pulmonary edema. There is no pneumothorax.\n \n The inferior sternotomy wire is fractured but unchanged. Surgical clips and\n vascular markers in the thorax are related to prior CABG surgery."
+      }
+    ]
+  },
+  {
+    "id": "10046166_51738740",
+    "image": "mimic/p10/p10046166/s51738740/3a8a17fc-3cd357d9-83466363-91dc5a06-a401e5ed.jpg",
+    "generate_method": "gpt4",
+    "reason": "___-year-old with near syncope, low blood pressure on steroids, assess for pneumonia.",
+    "impression": "No acute intrathoracic process.",
+    "indication": null,
+    "history": null,
+    "view": "AP",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "The lungs are low in volume, which obscure the right lower lung calcified granuloma. No focal consolidation is seen. There is no pleural effusion or pneumothorax. The heart is normal in size with post-surgical changes including intact mediastinal wires."
+      }
+    ]
+  },
+  {
+    "id": "10046166_51738740",
+    "image": "mimic/p10/p10046166/s51738740/6130440f-929f5fae-e4b47406-634aedcb-3dd112ec.jpg",
+    "generate_method": "gpt4",
+    "reason": "___-year-old with near syncope, low blood pressure on steroids, assess for pneumonia.",
+    "impression": "No acute intrathoracic process.",
+    "indication": null,
+    "history": null,
+    "view": "LATERAL",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "The lungs are low in volume, which obscure the right lower lung calcified granuloma. No focal consolidation is seen. There is no pleural effusion or pneumothorax. The heart is normal in size with post-surgical changes including intact mediastinal wires."
+      }
+    ]
+  },
+  {
+    "id": "10046166_51738740",
+    "image": "mimic/p10/p10046166/s51738740/6fde5b65-a0efc54f-dbd690f2-5f9f941a-2b770631.jpg",
+    "generate_method": "gpt4",
+    "reason": "___-year-old with near syncope, low blood pressure on steroids, assess for pneumonia.",
+    "impression": "No acute intrathoracic process.",
+    "indication": null,
+    "history": null,
+    "view": "LATERAL",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "The lungs are low in volume, which obscure the right lower lung calcified granuloma. No focal consolidation is seen. There is no pleural effusion or pneumothorax. The heart is normal in size with post-surgical changes including intact mediastinal wires."
+      }
+    ]
+  },
+  {
+    "id": "10046166_53492798",
+    "image": "mimic/p10/p10046166/s53492798/18f0fd6d-f513afc9-e4aa8de2-bc5ac0d6-ea3daaff.jpg",
+    "generate_method": "gpt4",
+    "reason": "___-year-old male with history of metastatic melanoma, now with recurrent seizures and lethargy, comes here to evaluate for pneumonia.",
+    "impression": "No acute cardiopulmonary process.",
+    "indication": null,
+    "history": null,
+    "view": "PA",
+    "orientation": "Recumbent",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Frontal and lateral radiographs of the chest redemonstrate a round calcified pulmonary nodule in the posterior right lung base, consistent with prior granulomatous disease. A known enlarged right hilar lymph node. A known right mediastinal lymph node conglomerate accounts for the fullness at the right paratracheal region. No pleural effusion, pneumothorax or focal consolidation is present. The patient is status post median sternotomy and CABG with wires intact. The cardiac silhouette is normal in size. The mediastinal and hilar contours are unchanged."
+      }
+    ]
+  },
+  {
+    "id": "10046166_53492798",
+    "image": "mimic/p10/p10046166/s53492798/18f0fd6d-f513afc9-e4aa8de2-bc5ac0d6-ea3daaff.jpg",
+    "generate_method": "rule-based",
+    "reason": "___-year-old male with history of metastatic melanoma, now with\n recurrent seizures and lethargy, comes here to evaluate for pneumonia.",
+    "impression": "No acute cardiopulmonary process.",
+    "indication": "___-year-old male with history of metastatic melanoma, now with\n recurrent seizures and lethargy, comes here to evaluate for pneumonia.",
+    "history": null,
+    "view": "PA",
+    "orientation": "Recumbent",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Frontal and lateral radiographs of the chest redemonstrate a round\n calcified pulmonary nodule in the posterior right lung base, unchanged from\n multiple priors and consistent with prior granulomatous disease.  A known\n enlarged right hilar lymph node seen on CT of ___ likely accounts for the\n increased opacity at the right hilum.  A known right mediastinal lymph node\n conglomerate accounts for the fullness at the right paratracheal region.  No\n pleural effusion, pneumothorax or focal consolidation is present.  The patient\n is status post median sternotomy and CABG with wires intact.  The cardiac\n silhouette is normal in size.  The mediastinal and hilar contours are\n unchanged from the preceding radiograph."
+      }
+    ]
+  },
+  {
+    "id": "10046166_53492798",
+    "image": "mimic/p10/p10046166/s53492798/7d5ef12b-34d86e32-207566d6-d5ed6f02-cd868f2c.jpg",
+    "generate_method": "gpt4",
+    "reason": "___-year-old male with history of metastatic melanoma, now with recurrent seizures and lethargy, comes here to evaluate for pneumonia.",
+    "impression": "No acute cardiopulmonary process.",
+    "indication": null,
+    "history": null,
+    "view": "PA",
+    "orientation": "Recumbent",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Frontal and lateral radiographs of the chest redemonstrate a round calcified pulmonary nodule in the posterior right lung base, consistent with prior granulomatous disease. A known enlarged right hilar lymph node. A known right mediastinal lymph node conglomerate accounts for the fullness at the right paratracheal region. No pleural effusion, pneumothorax or focal consolidation is present. The patient is status post median sternotomy and CABG with wires intact. The cardiac silhouette is normal in size. The mediastinal and hilar contours are unchanged."
+      }
+    ]
+  },
+  {
+    "id": "10046166_53492798",
+    "image": "mimic/p10/p10046166/s53492798/7d5ef12b-34d86e32-207566d6-d5ed6f02-cd868f2c.jpg",
+    "generate_method": "rule-based",
+    "reason": "___-year-old male with history of metastatic melanoma, now with\n recurrent seizures and lethargy, comes here to evaluate for pneumonia.",
+    "impression": "No acute cardiopulmonary process.",
+    "indication": "___-year-old male with history of metastatic melanoma, now with\n recurrent seizures and lethargy, comes here to evaluate for pneumonia.",
+    "history": null,
+    "view": "PA",
+    "orientation": "Recumbent",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Frontal and lateral radiographs of the chest redemonstrate a round\n calcified pulmonary nodule in the posterior right lung base, unchanged from\n multiple priors and consistent with prior granulomatous disease.  A known\n enlarged right hilar lymph node seen on CT of ___ likely accounts for the\n increased opacity at the right hilum.  A known right mediastinal lymph node\n conglomerate accounts for the fullness at the right paratracheal region.  No\n pleural effusion, pneumothorax or focal consolidation is present.  The patient\n is status post median sternotomy and CABG with wires intact.  The cardiac\n silhouette is normal in size.  The mediastinal and hilar contours are\n unchanged from the preceding radiograph."
+      }
+    ]
+  },
+  {
+    "id": "10046166_53492798",
+    "image": "mimic/p10/p10046166/s53492798/eab11c59-32a5b9b8-b8d335fa-ce06c5fa-5bde0499.jpg",
+    "generate_method": "gpt4",
+    "reason": "___-year-old male with history of metastatic melanoma, now with recurrent seizures and lethargy, comes here to evaluate for pneumonia.",
+    "impression": "No acute cardiopulmonary process.",
+    "indication": null,
+    "history": null,
+    "view": "LATERAL",
+    "orientation": "Recumbent",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Frontal and lateral radiographs of the chest redemonstrate a round calcified pulmonary nodule in the posterior right lung base, consistent with prior granulomatous disease. A known enlarged right hilar lymph node. A known right mediastinal lymph node conglomerate accounts for the fullness at the right paratracheal region. No pleural effusion, pneumothorax or focal consolidation is present. The patient is status post median sternotomy and CABG with wires intact. The cardiac silhouette is normal in size. The mediastinal and hilar contours are unchanged."
+      }
+    ]
+  },
+  {
+    "id": "10046166_53492798",
+    "image": "mimic/p10/p10046166/s53492798/eab11c59-32a5b9b8-b8d335fa-ce06c5fa-5bde0499.jpg",
+    "generate_method": "rule-based",
+    "reason": "___-year-old male with history of metastatic melanoma, now with\n recurrent seizures and lethargy, comes here to evaluate for pneumonia.",
+    "impression": "No acute cardiopulmonary process.",
+    "indication": "___-year-old male with history of metastatic melanoma, now with\n recurrent seizures and lethargy, comes here to evaluate for pneumonia.",
+    "history": null,
+    "view": "LATERAL",
+    "orientation": "Recumbent",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": 1.0,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Frontal and lateral radiographs of the chest redemonstrate a round\n calcified pulmonary nodule in the posterior right lung base, unchanged from\n multiple priors and consistent with prior granulomatous disease.  A known\n enlarged right hilar lymph node seen on CT of ___ likely accounts for the\n increased opacity at the right hilum.  A known right mediastinal lymph node\n conglomerate accounts for the fullness at the right paratracheal region.  No\n pleural effusion, pneumothorax or focal consolidation is present.  The patient\n is status post median sternotomy and CABG with wires intact.  The cardiac\n silhouette is normal in size.  The mediastinal and hilar contours are\n unchanged from the preceding radiograph."
+      }
+    ]
+  },
+  {
+    "id": "10046166_56173345",
+    "image": "mimic/p10/p10046166/s56173345/da33ac9f-b047f007-dd9e0ac7-81b4a35e-bb2b6b5b.jpg",
+    "generate_method": "gpt4",
+    "reason": "Evaluation of the patient with intracranial hemorrhage with chest heaviness.",
+    "impression": null,
+    "indication": null,
+    "history": null,
+    "view": "AP",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": -1.0,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": -1.0,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": NaN,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "There is prominence of the right paratracheal stripe consistent with known enlarged lymph node. Heart size and mediastinum are unchanged. Calcified granuloma in the right lower lobe is redemonstrated. No new abnormalities within the lungs seen."
+      }
+    ]
+  },
+  {
+    "id": "10046166_57379357",
+    "image": "mimic/p10/p10046166/s57379357/6e511483-c7e1601c-76890b2f-b0c6b55d-e53bcbf6.jpg",
+    "generate_method": "gpt4",
+    "reason": "___-year-old male with history of hypoglycemia.",
+    "impression": "No radiographic findings to suggest pneumonia.",
+    "indication": null,
+    "history": null,
+    "view": "LATERAL",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": NaN,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": 1.0,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Frontal and lateral views of the chest were obtained. Rounded calcified nodule in the region of the posterior right lung base is seen, likely secondary to prior granulomatous disease. No focal consolidation is seen. There is no pleural effusion or pneumothorax. Cardiac and mediastinal silhouettes are stable."
+      }
+    ]
+  },
+  {
+    "id": "10046166_57379357",
+    "image": "mimic/p10/p10046166/s57379357/6e511483-c7e1601c-76890b2f-b0c6b55d-e53bcbf6.jpg",
+    "generate_method": "rule-based",
+    "reason": null,
+    "impression": "No radiographic findings to suggest pneumonia.",
+    "indication": null,
+    "history": "___-year-old male with history of hypoglycemia.",
+    "view": "LATERAL",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": NaN,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": 1.0,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Frontal and lateral views of the chest were obtained.  Rounded\n calcified nodule in the region of the posterior right lung base is seen and\n represents calcified granuloma on CTs dating back to ___, likely\n secondary to prior granulomatous disease.  Previously seen pretracheal lymph\n node conglomerate and right hilar lymph nodes are better seen/evaluated on CT.\n No focal consolidation is seen.  There is no pleural effusion or pneumothorax.\n Cardiac and mediastinal silhouettes are stable with possible slight decrease\n in right paratracheal prominence."
+      }
+    ]
+  },
+  {
+    "id": "10046166_57379357",
+    "image": "mimic/p10/p10046166/s57379357/e5ba5704-ce2f09d3-e28fe2a2-8a9aca96-86f4966a.jpg",
+    "generate_method": "gpt4",
+    "reason": "___-year-old male with history of hypoglycemia.",
+    "impression": "No radiographic findings to suggest pneumonia.",
+    "indication": null,
+    "history": null,
+    "view": "AP",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": NaN,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": 1.0,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Frontal and lateral views of the chest were obtained. Rounded calcified nodule in the region of the posterior right lung base is seen, likely secondary to prior granulomatous disease. No focal consolidation is seen. There is no pleural effusion or pneumothorax. Cardiac and mediastinal silhouettes are stable."
+      }
+    ]
+  },
+  {
+    "id": "10046166_57379357",
+    "image": "mimic/p10/p10046166/s57379357/e5ba5704-ce2f09d3-e28fe2a2-8a9aca96-86f4966a.jpg",
+    "generate_method": "rule-based",
+    "reason": null,
+    "impression": "No radiographic findings to suggest pneumonia.",
+    "indication": null,
+    "history": "___-year-old male with history of hypoglycemia.",
+    "view": "AP",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": NaN,
+      "Lung Opacity": NaN,
+      "No Finding": NaN,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": 1.0,
+      "Pneumothorax": NaN,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "Frontal and lateral views of the chest were obtained.  Rounded\n calcified nodule in the region of the posterior right lung base is seen and\n represents calcified granuloma on CTs dating back to ___, likely\n secondary to prior granulomatous disease.  Previously seen pretracheal lymph\n node conglomerate and right hilar lymph nodes are better seen/evaluated on CT.\n No focal consolidation is seen.  There is no pleural effusion or pneumothorax.\n Cardiac and mediastinal silhouettes are stable with possible slight decrease\n in right paratracheal prominence."
+      }
+    ]
+  },
+  {
+    "id": "10046166_57977208",
+    "image": "mimic/p10/p10046166/s57977208/e2856783-ffa5ec26-043b0303-21aeddc6-b11b2876.jpg",
+    "generate_method": "gpt4",
+    "reason": "Post-procedure assessment for pneumothorax.",
+    "impression": null,
+    "indication": null,
+    "history": null,
+    "view": "AP",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": 1.0,
+      "Lung Opacity": NaN,
+      "No Finding": NaN,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": 0.0,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no evidence of pneumothorax. Continued low lung volumes with substantial mass in the right paratracheal region."
+      }
+    ]
+  },
+  {
+    "id": "10046166_57977208",
+    "image": "mimic/p10/p10046166/s57977208/e2856783-ffa5ec26-043b0303-21aeddc6-b11b2876.jpg",
+    "generate_method": "rule-based",
+    "reason": null,
+    "impression": null,
+    "indication": null,
+    "history": "Post-procedure, to assess for pneumothorax.",
+    "view": "AP",
+    "orientation": "Erect",
+    "chexpert_labels": {
+      "Atelectasis": NaN,
+      "Cardiomegaly": NaN,
+      "Consolidation": NaN,
+      "Edema": NaN,
+      "Enlarged Cardiomediastinum": NaN,
+      "Fracture": NaN,
+      "Lung Lesion": 1.0,
+      "Lung Opacity": NaN,
+      "No Finding": NaN,
+      "Pleural Effusion": NaN,
+      "Pleural Other": NaN,
+      "Pneumonia": NaN,
+      "Pneumothorax": 0.0,
+      "Support Devices": NaN
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the findings of the chest x-ray.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "In comparison with the study of ___, there is no evidence of pneumothorax. \n Continued low lung volumes with substantial mass in the right paratracheal\n region."
+      }
+    ]
+  }
+]

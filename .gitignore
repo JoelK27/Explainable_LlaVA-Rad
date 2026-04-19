@@ -1,0 +1,9 @@
+# Ignore external LLaVA-Rad repository
+code/LLaVA-Rad/
+
+# Ignore large data and output folders
+data/images/
+outputs_raw/
+outputs_v2/
+old/
+data/refs/

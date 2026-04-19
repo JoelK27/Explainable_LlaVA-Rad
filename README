@@ -1,0 +1,30 @@
+# Explainable Radiology Report Generation Evaluation Pipeline
+
+This repository contains the code, data structures, and analysis notebooks for the bachelor thesis **"Explainable Radiology Report Generation using Region-Grounded Vision-Language Models and XAI-based Evaluation"**.
+
+## Overview
+This project provides a reproducible research artifact to quantitatively evaluate the explainability and factual reliability of automated radiology report generation. Instead of training a new generative model, it wraps the official [LLaVA-Rad](https://github.com/Stanford-AIMI/LLaVA-Rad) inference setup in a structured evaluation pipeline. 
+
+The pipeline extracts clinically relevant structures (using RadGraph) from generated findings, aligns them with MIMIC-CXR reference reports, and applies Bayesian latent-variable modeling (PyMC) to estimate a case-level explainability score and its relationship to hallucinated content.
+
+## Project Structure
+
+```text
+├── code/
+│   ├── LLaVA-Rad/          # Generative model backbone (official LLaVA-Rad setup)
+│   └── scripts/            # Utility scripts for subset construction and image mapping
+├── data/                   # Input datasets, reference queries, and image lists
+│   ├── images/             # MIMIC-CXR-JPG source images
+│   ├── lists/              # Text files keeping track of needed images
+│   └── queries/            # Evaluated subsets (e.g., subset_1500.json)
+├── notebooks_v2/           # Core evaluation pipeline (executed in sequence)
+│   ├── 01_validate_pilot.ipynb
+│   ├── 02_align_subset_to_inference.ipynb
+│   ├── 03_run_radgraph_extraction_from_aligned_input.ipynb
+│   ├── 04_analyze_radgraph_results.ipynb
+│   └── 05.x_pymc_explainability... # Hallucination generation, review formatting, and Bayesian inference
+├── outputs_v2/             # Analytical intermediate and final artifacts
+│   ├── aligned_inference_*.csv     # Aligned report pairs
+│   ├── radgraph_input_*.csv        # Hypothesis-reference extraction pairs
+    ├── empty_report_rows.csv       # Excluded rows (cleaning artifacts)
+    └── bayesian_explainability_... # Posterior summaries and diagnostics

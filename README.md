@@ -139,7 +139,7 @@ set -o pipefail
 
 model_base=lmsys/vicuna-7b-v1.5
 model_path=microsoft/llava-rad
-run_name=llavarad_300_run
+run_name=<your_preffered_name>
 
 # --- MODIFIED PATHS FOR THESIS EVALUATION ---
 query_file=/workspace/thesis/data/queries/<your_chosen_subset>.json

@@ -209,9 +209,20 @@ All final evaluation outputs are automatically saved to the `outputs/` directory
 
 ---
 
+## 🤖 Declaration of AI Tool Usage
+
+In accordance with institutional guidelines for academic transparency, Artificial Intelligence tools were utilized as supportive aids during the development of this repository:
+
+* **ChatGPT 5o (OpenAI):** Used for debugging runtime errors in Python (e.g., PyMC tensor dimension mismatches, Pandas indexing issues), optimizing code efficiency, and writing/refining structural documentation (such as this README and inline code comments).
+* **GitHub Copilot / IDE Extensions:** Used for auto-completing repetitive boilerplate code and standard loop structures.
+
+All core statistical logic, PyMC architecture, research methodologies, and model interpretations were developed independently by the author. AI tools were restricted strictly to routine engineering tasks and syntax resolution. 
+
+---
+
 ## 📜 License and Usage Notices
 
-The data, code, and model checkpoints are licensed and intended for **research use only**. They should not be used in direct clinical care or for any clinical decision-making purpose. The LLaVA-Rad code and model checkpoints are subject to additional restrictions as determined by the Terms of Use of LLaMA, Vicuna, and GPT-4 respectively.
+The data, code, and model checkpoints are licensed and intended for **research use only**. They should not be used in direct clinical care or for any clinical decision-making purpose. The LLaVA-Rad code and model checkpoints are subject to additional restrictions as determined by the Terms of Use of LLaMA, Vicuna, and GPT-5 respectively.
 
 ## 🎓 Citation & Acknowledgements
 

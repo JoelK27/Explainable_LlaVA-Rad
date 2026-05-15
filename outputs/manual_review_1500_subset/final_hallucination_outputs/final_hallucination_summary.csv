@@ -1,0 +1,2 @@
+n_review_rows,n_review_cases,n_strict_hallucinations,n_lenient_hallucinations,n_case_level_rows,strict_case_binary_positive,lenient_case_binary_positive,mean_strict_rate,mean_lenient_rate
+678,95,50,605,95,34,95,0.08615705931495406,0.887856763119921

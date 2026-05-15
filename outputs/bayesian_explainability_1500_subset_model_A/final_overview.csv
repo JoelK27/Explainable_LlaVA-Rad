@@ -1,0 +1,2 @@
+selected_model,score_features,score_max_rhat_main,score_max_rhat_E,score_ppc_total_error,reg_beta1_mean,reg_beta1_median,reg_beta1_q05,reg_beta1_q95,posterior_prob_beta1_negative,reg_max_rhat,n_cases_score,n_cases_regression
+model_A_reduced,"precision_obs, recall_obs",1.0,1.0,0.44347308646678607,-0.9183465840741996,-0.9184010556669218,-0.9571844120423904,-0.8788728974585984,1.0,1.0,266,266

@@ -1,0 +1,794 @@
+case_id,source_type,observation,located_at,suggestive_of,tags
+1004616657379357,reference,findings,,findings suggestive of pneumonia,definitely absent
+1004616657379357,reference,pneumonia,,,definitely absent
+1026887750239281,reference,left picc,,,definitely present
+1026887750239281,reference,tip,distal left brachiocephalic vein,,definitely present
+1026887750239281,reference,mild congestion,pulmonary vascular,,definitely present
+1026887750239281,reference,aeration,lung bases,,definitely present
+1026887750239281,reference,residual streaky opacity,lung bases,residual streaky opacity suggestive of atelectasis,definitely present
+1026887750239281,reference,atelectasis,,,uncertain
+1026887750239281,reference,effusion,left pleural,,definitely absent
+1026887751513702,reference,acute process,cardiopulmonary,,definitely absent
+1026887751513702,reference,enlarged,,,definitely present
+1026887754137212,reference,congestion,pulmonary vascular,,definitely present
+1026887754137212,reference,opacities,bibasilar,opacities suggestive of atelectasis; opacities suggestive of infection,definitely present
+1026887754137212,reference,atelectasis,,,uncertain
+1026887754137212,reference,infection,,,uncertain
+1026887757976739,reference,mild residual opacification,retrocardiac,opacification suggestive of pneumonia; opacification suggestive of atelectasis,definitely present
+1026887757976739,reference,pneumonia,,,uncertain
+1026887757976739,reference,atelectasis,,,uncertain
+1040237251966612,reference,acute process,cardiopulmonary,,definitely absent
+1040237256446284,reference,bronchiectasis,bilateral lower lobe,,definitely present
+1040237256446284,reference,improved consolidation,peribronchial,,definitely present
+1040237259239338,reference,severe bronchiectasis,,,definitely present
+1040237259239338,reference,severe emphysema,,,definitely present
+1041064153850317,reference,large effusion,right - sided pleural,,definitely present
+1041064153850317,reference,atelectasis,middle lower lobes,,definitely present
+1041064153850317,reference,consolidation,middle lower lobes,,uncertain
+1041064153850317,reference,small effusion,left - sided pleural,,definitely present
+1041064156839020,reference,moderate effusions,bilateral pleural,,definitely present
+1041064156839020,reference,underlying,,,uncertain
+1041064156839020,reference,disease,airspace,,uncertain
+1043978150501762,reference,new abnormalities,pulmonary parenchymal,abnormalities suggestive of edema; abnormalities suggestive of Infection,definitely present
+1043978150501762,reference,chronic fibrosis,pulmonary,fibrosis suggestive of edema,definitely present
+1043978150501762,reference,edema,pulmonary,,uncertain
+1043978150501762,reference,infection,,,uncertain
+1043978151129150,reference,superimposed edema,pulmonary,,definitely present
+1043978151129150,reference,fibrosis,pulmonary,,definitely present
+1043978151129150,reference,low,volumes,,definitely present
+1043978151129150,reference,consolidation,basilar,,uncertain
+1043978155725911,reference,some,,,definitely present
+1043978155725911,reference,improvement,,,definitely present
+1043978155725911,reference,prominent congestion,pulmonary vascular,,definitely present
+1043978155811525,reference,edema,pulmonary,,definitely present
+1043978155811525,reference,fibrosis,lung,,definitely present
+1043978156498272,reference,mild edema,pulmonary,,definitely present
+1043978156498272,reference,fibrosis,lung,,definitely present
+1043978156498272,reference,severe,,,definitely present
+1043978156498272,reference,chronic,,,definitely present
+1043978156498272,reference,cardiomegaly,,,definitely present
+1043978156498272,reference,hypertension,pulmonary,,definitely present
+1043978156498272,reference,displaced,,,definitely absent
+1043978156498272,reference,fracture,rib,,definitely absent
+1043978156498272,reference,multiple vertebroplasties,,,definitely present
+1043978156925922,reference,acute,,,definitely absent
+1043978156925922,reference,acute disease,,,definitely absent
+1043978156925922,reference,disease,,,definitely absent
+1043978156925922,reference,severe fibrosis,pulmonary,,definitely present
+1044929752837403,reference,acute process,intrathoracic,,definitely absent
+1044929754773340,reference,edema,pulmonary,,definitely absent
+1052372556078456,reference,acute process,cardiopulmonary,,definitely absent
+1071547752467293,reference,stable cardiomegaly,,,definitely present
+1071547752467293,reference,pneumonia,,,definitely absent
+1071547752467293,reference,chf,,,definitely absent
+1086720251707133,reference,fibrosis,pulmonary,,definitely present
+1086720251707133,reference,superimposed edema,,,uncertain
+1086720251707133,reference,infection,,,uncertain
+1086720253652133,reference,persistent opacities,right lobe; left lung base; left perihilar,,definitely present
+1086720253652133,reference,chronic disease,interstitial,,definitely present
+1086720253652133,reference,more,,,definitely present
+1086720253652133,reference,focal,,,definitely present
+1086720253652133,reference,opacities,,opacities suggestive of disease; opacities suggestive of infection,definitely present
+1086720253652133,reference,chronic disease,interstitial lung,,uncertain
+1086720253652133,reference,acute exacerbation disease,interstitial,,uncertain
+1086720253652133,reference,infection,,,uncertain
+1086720257761141,reference,chronic disease,interstitial,,definitely present
+1086720259071382,reference,multifocal opacities,,opacities suggestive of disease,definitely present
+1086720259071382,reference,pneumonia superimposed,,,uncertain
+1086720259071382,reference,severe disease,interstitial,,uncertain
+1086720259071382,reference,chronic disease,lung,,uncertain
+1086720259071382,reference,acute superimposed pneumonia,,,uncertain
+1086720259535316,reference,fibrosis,pulmonary,,definitely present
+1086720259535316,reference,superimposed,,,definitely absent
+1086720259535316,reference,acute,,,definitely absent
+1088569659532499,reference,opacity silhouetting,right basilar,opacity suggestive of effusion; opacity suggestive of atelectasis,definitely present
+1088569659532499,reference,effusion,,,uncertain
+1088569659532499,reference,atelectasis,,,uncertain
+1088569659532499,reference,consolidation,,,uncertain
+1088636256034024,reference,worsening chf,,,definitely present
+1093360950205123,reference,chronic fibrotic changes,,,definitely present
+1093360950205123,reference,low,volumes,,definitely present
+1093360950205123,reference,atelectasis,bibasilar,,uncertain
+1093360950205123,reference,infection,,,uncertain
+1093360950205123,reference,aspiration,,,uncertain
+1093360950205123,reference,small effusion,,,definitely present
+1093360950289849,reference,greater opacities,bilateral upper lobe,opacities suggestive of infectious process,definitely present
+1093360950289849,reference,infectious process superimposed on chronic changes,,,uncertain
+1093360950636786,reference,standard positions endotracheal and orogastric tubes,,,definitely present
+1093360950636786,reference,focal,,,definitely present
+1093360950636786,reference,linear,,,definitely present
+1093360950636786,reference,chronic process,interstitial,,uncertain
+1093360950636786,reference,aspiration,,,uncertain
+1093360950636786,reference,infection,,,uncertain
+1093360950636786,reference,mild congestion,pulmonary vascular,,definitely present
+1093360950636786,reference,low,lung,,definitely present
+1093360951002383,reference,scarring superimposed acute process,bilateral upper lobe,,definitely absent
+1093360951816597,reference,acute aspiration,,,uncertain
+1093360951816597,reference,sarcoid,,,uncertain
+1093360951816597,reference,granulomatous,,,uncertain
+1093360951816597,reference,granulomatous process,,,uncertain
+1093360952624179,reference,acute process,cardiopulmonary,,definitely absent
+1093360952624179,reference,fibrotic,upper lungs,,definitely present
+1093360952935265,reference,resolving,,,definitely present
+1093360952935265,reference,pneumonia,,,definitely present
+1093360953512860,reference,aspiration,,,definitely present
+1093360953512860,reference,some clearing pneumonia,,,definitely present
+1093360954300688,reference,stable,chest,,definitely present
+1093360954422699,reference,new consolidation,right upper lobe,consolidation suggestive of infection,definitely present
+1093360954422699,reference,infection,,,uncertain
+1093360954422699,reference,scarring,,,definitely present
+1093360954694185,reference,non - resolving pneumonia,right upper lobe,,definitely present
+1093360954694185,reference,scarring,bilateral juxtahilar,scarring suggestive of sarcoid,definitely present
+1093360954694185,reference,tb,,,uncertain
+1093360954694185,reference,sarcoid,,,uncertain
+1093360954870311,reference,scarring,upper lung,,definitely present
+1093360954870311,reference,subtle opacity,right lower lung,opacity suggestive of crowding,definitely present
+1093360954870311,reference,crowding,bronchovasculature,,uncertain
+1093360954870311,reference,bronchovasculature,,,uncertain
+1093360955447530,reference,scarring,upper lungs,,definitely present
+1093360955447530,reference,subtle opacity,left lower lobe,,definitely present
+1093360955646831,reference,stable,,,definitely present
+1093360955646831,reference,fibrotic,,,definitely present
+1093360955646831,reference,new opacity,left mid - to - lower lung,opacity suggestive of infectious process; opacity suggestive of asymmetric edema; opacity suggestive of edema,definitely present
+1093360955646831,reference,infectious process,,,uncertain
+1093360955646831,reference,asymmetric,,,uncertain
+1093360955646831,reference,asymmetric edema,,,uncertain
+1093360955646831,reference,edema,,,uncertain
+1093360955736427,reference,worsening,,,definitely present
+1093360955736427,reference,multifocal,,,definitely present
+1093360955736427,reference,opacities,,opacities suggestive of pneumonia,definitely present
+1093360955736427,reference,pneumonia,,,definitely present
+1093360955736427,reference,mild congestion,vascular,,uncertain
+1093360955736427,reference,low,lung volumes,,definitely present
+1093360956535476,reference,scarring,,scarring suggestive of sarcoidosis,definitely present
+1093360956535476,reference,upward retraction,hila,retraction suggestive of sarcoidosis; retraction suggestive of prior tuberculosis,definitely present
+1093360956535476,reference,sarcoidosis,,,uncertain
+1093360956535476,reference,prior tuberculosis,,,uncertain
+1093360956535476,reference,patchy opacity,right lung base,opacity suggestive of atelectasis; opacity suggestive of infection,definitely present
+1093360956535476,reference,atelectasis,,,uncertain
+1093360956535476,reference,infection,,,uncertain
+1093360957290683,reference,fibrosis,biapical,,definitely present
+1093360957290683,reference,acute,,,definitely absent
+1093360957290683,reference,superimposed consolidation,,,definitely absent
+1093360957695180,reference,improving pneumonia,,,definitely present
+1093360957695180,reference,increasing opacity,left lung,opacity suggestive of pneumonia,definitely present
+1093360957695180,reference,worsening new pneumonia,,,uncertain
+1093360958929044,reference,opacity,right upper lobe,,definitely present
+1093360958929044,reference,chronic scarring,upper lobe,,definitely present
+1093360958929044,reference,infectious,,,uncertain
+1093360959225625,reference,multifocal consolidation,,consolidation suggestive of pneumonia,definitely present
+1093360959225625,reference,pneumonia,,,definitely present
+1097544651473674,reference,stable findings,,,definitely present
+1097544651473674,reference,mild,,,definitely present
+1097544651473674,reference,congestion,,,definitely present
+1097544659969148,reference,mild congestion,vascular,,definitely present
+1097544659969148,reference,focal patchy opacities,right upper lobe; left infrahilar,opacities suggestive of atelectasis; opacities suggestive of scarring,definitely present
+1097544659969148,reference,atelectasis,,,uncertain
+1097544659969148,reference,scarring,,,uncertain
+1102224550078440,reference,opacity,airspace,opacity suggestive of pneumonia,definitely present
+1102224550078440,reference,pneumonia,lobar,,definitely present
+1102224550078440,reference,nodular opacity,,,definitely present
+1102224550078440,reference,moderate cardiomegaly,,,definitely present
+1102224550146341,reference,lines in place,,,definitely present
+1102224550146341,reference,tubes in place,,,definitely present
+1102224550146341,reference,increased edema,pulmonary,,definitely present
+1102224550146341,reference,consolidations,right upper lobe; bibasilar,,definitely present
+1105227354389393,reference,congestion,vascular,,definitely present
+1105227354389393,reference,small effusions,,,definitely present
+1105227354389393,reference,fluid,right fissure,,uncertain
+1105293557171514,reference,acute process,cardiopulmonary,,definitely absent
+1105293557502393,reference,acute abnormality,cardiopulmonary,,definitely absent
+1105293557502393,reference,severe emphysema,,,definitely present
+1105293557502393,reference,residual opacity,left upper lobe,opacity suggestive of scarring,definitely present
+1105293557502393,reference,scarring,,,uncertain
+1105293557502393,reference,linear opacities,bibasilar,opacities suggestive of atelectasis; opacities suggestive of scarring,definitely present
+1105293557502393,reference,atelectasis,,,uncertain
+1105293557502393,reference,scarring,,,uncertain
+1105293558831403,reference,severe emphysema,,,definitely present
+1105293558831403,reference,superimposed,,,definitely absent
+1105293558831403,reference,consolidation,,,definitely absent
+1105293559503672,reference,increased markings,interstitial,markings suggestive of chronic changes,definitely present
+1105293559503672,reference,chronic changes,,,uncertain
+1105293559503672,reference,infection,,,uncertain
+1120464650533006,reference,cardiomegaly,,,definitely present
+1120464650533006,reference,small effusions,bilateral pleural,,definitely present
+1120464650533006,reference,chf,,,definitely absent
+1120464655611611,reference,small effusion,,,definitely present
+1120464655611611,reference,mild atelectasis,,,definitely present
+1121361352818853,reference,predominant emphysema,upper lobe,,definitely present
+1121361352818853,reference,pneumonia,,,definitely absent
+1129351750845269,reference,moderate cardiomegaly,,,definitely present
+1129351750845269,reference,overt edema,,,definitely absent
+1129351750845269,reference,pneumonia,,,definitely absent
+1129351755525523,reference,acute findings,chest,,definitely absent
+1129351755525523,reference,stable mild cardiomegaly,,,definitely present
+1129351755525523,reference,multiple pacer wires unchanged,,,definitely present
+1129351756805129,reference,acute exacerbation chf,,,uncertain
+1129351756805129,reference,pneumonia,lower lobe,,uncertain
+1137815052705433,reference,opacity,right basilar,opacity suggestive of atelectasis; opacity suggestive of infection,definitely present
+1137815052705433,reference,atelectasis,,,uncertain
+1137815052705433,reference,infection,,,uncertain
+1137815052705433,reference,stable postoperative changes lobectomy,left upper,,definitely present
+1141323651161513,reference,opacity linear,angle,opacity suggestive of atelectasis; opacity suggestive of scarring; opacity suggestive of consolidation,definitely present
+1141323651161513,reference,atelectasis,,,uncertain
+1141323651161513,reference,scarring,,,uncertain
+1141323651161513,reference,consolidation,,,uncertain
+1141323651161513,reference,effusion,pleural,,definitely absent
+1141323651503417,reference,acute process,cardiopulmonary,,definitely absent
+1141323651568216,reference,low,volumes,,definitely present
+1141323651568216,reference,evaluation,heart size,,definitely present
+1141323651568216,reference,acute process,cardiopulmonary,,definitely absent
+1141323652164077,reference,acute process,cardiopulmonary,,definitely absent
+1141323652541396,reference,low,volumes,,definitely present
+1141323652541396,reference,focal opacity,retrocardiac,,definitely present
+1141323652541396,reference,correlate,,,definitely present
+1141323652541396,reference,atelectasis,,,uncertain
+1141323652541396,reference,infection,,,uncertain
+1141323653836642,reference,low,lung volumes,,definitely present
+1141323653836642,reference,streaky opacities,basilar,opacities suggestive of atelectasis,definitely present
+1141323653836642,reference,minor atelectasis,,,uncertain
+1141323653836642,reference,acute disease,cardiopulmonary,,definitely absent
+1141323655108847,reference,persistent opacification,left basilar,opacification suggestive of atelectasis,definitely present
+1141323655108847,reference,atelectasis,,,uncertain
+1141323655108847,reference,pneumonia,,,uncertain
+1141323655108847,reference,increased atelectasis,,,uncertain
+1141323655972946,reference,low,,,definitely present
+1141323655972946,reference,atelectasis,bibasilar,,uncertain
+1141323657332361,reference,interval change,,,definitely absent
+1141323658800563,reference,acute process,cardiopulmonary,,definitely absent
+1141323659218667,reference,acute process,cardiopulmonary,,definitely absent
+1141323659753947,reference,free air,subdiaphragmatic,,definitely absent
+1141323659753947,reference,acute process,cardiopulmonary,,definitely absent
+1151210452398109,reference,acute process,cardiopulmonary,,definitely absent
+1151210453379869,reference,resolution edema,interstitial,,definitely present
+1151210453379869,reference,pneumonia,,,definitely absent
+1154028351114398,reference,endotracheal tube standard positions,,,definitely present
+1154028351114398,reference,enteric tubes standard positions,,,definitely present
+1154028351114398,reference,mild congestion,vascular,,definitely present
+1156580359027235,reference,atelectasis,bilateral lower lung,,definitely present
+1156580359027235,reference,mild,right,,definitely present
+1156580359027235,reference,mild - to - moderate effusions,left right pleural,,definitely present
+1156904254093116,reference,acute disease,,,definitely absent
+1156904254093116,reference,acute disease,,,definitely absent
+1156904255883502,reference,dilated,distal esophagus,,definitely present
+1156904255883502,reference,ingested food contents,,,definitely present
+1156904255883502,reference,aspiration,,,definitely absent
+1156909354721804,reference,considerable interval increase,,,definitely present
+1156909354721804,reference,fluid,pleural,,definitely present
+1156909354721804,reference,collapse,,,uncertain
+1156909354721804,reference,consolidation,,,uncertain
+1156909354721804,reference,mucous plugging,,,uncertain
+1187988654357764,reference,new diffuse opacities,interstitial,opacities suggestive of edema; opacities suggestive of atypical infection,definitely present
+1187988654357764,reference,edema,pulmonary,,uncertain
+1187988654357764,reference,atypical infection,,,uncertain
+1187988654972841,reference,metastases,lung,,definitely present
+1187988654972841,reference,superimposed,,,definitely absent
+1187988654972841,reference,acute,,,definitely absent
+1188092353367019,reference,hemodialysis catheter placement tip,,,definitely present
+1188092353367019,reference,atelectasis,bilateral lower lobe,,definitely present
+1188092353367019,reference,pneumonia,bilateral lower lobe,,uncertain
+1188092353367019,reference,moderate small effusions,right left pleural,,definitely present
+1188092357292244,reference,new,,,definitely present
+1188092357292244,reference,opacity,right lower lung,opacity suggestive of pneumonia,definitely present
+1188092357292244,reference,pneumonia,,,definitely present
+1188092357292244,reference,small,,,definitely present
+1188092357292244,reference,stable effusion,right pleural,,definitely present
+1192422656051681,reference,pneumonia,,,definitely absent
+1192422656091680,reference,acute process,cardiopulmonary,,definitely absent
+1192422658367071,reference,acute process,cardiopulmonary,,definitely absent
+1193411452152296,reference,moderate effusion,pleural,,definitely present
+1193411452152296,reference,adjacent,,,definitely present
+1193411452152296,reference,atelectasis improved,lung,,definitely present
+1207404151988570,reference,minimal edema,interstitial,,definitely present
+1207404151988570,reference,mild,,,definitely present
+1207404151988570,reference,cardiomegaly,,,definitely present
+1207404152874646,reference,new,,,definitely present
+1207404152874646,reference,opacity,left basilar,opacity suggestive of pneumonia,definitely present
+1207404152874646,reference,pneumonia,,,uncertain
+1207404152969052,reference,edema,pulmonary,,definitely absent
+1207404154973829,reference,acute disease,,,definitely absent
+1211086352268728,reference,cardiomegaly,,,definitely present
+1211086352268728,reference,stable scarring,right base,,definitely present
+1211086353008088,reference,mild congestion,,,definitely present
+1211086353008088,reference,small effusions,bilateral pleural,,uncertain
+1211086353008088,reference,airspace,,,definitely present
+1211086353008088,reference,streaky opacities,bibasilar; airspace,opacities suggestive of atelectasis,definitely present
+1211086353008088,reference,atelectasis,,,uncertain
+1211086353008088,reference,chronic changes,,,uncertain
+1211086355498995,reference,stable cardiomegaly,,,definitely present
+1211086355498995,reference,mild congestion,vascular,,uncertain
+1211086355498995,reference,overt,,,definitely absent
+1211086355498995,reference,edema,pulmonary,,definitely absent
+1212474153352013,reference,acute findings,chest,,definitely absent
+1213679950323020,reference,acute process,cardiopulmonary,,definitely absent
+1213679950323020,reference,free air,,,definitely absent
+1213679951835810,reference,stable deformity,cage,,definitely present
+1213679951835810,reference,acute,,,definitely absent
+1213679951835810,reference,findings,,,definitely absent
+1214513754100996,reference,opacity slightly less prominent,left suprahilar,,definitely present
+1214513754100996,reference,fiducial seeds slightly less prominent,left suprahilar,,definitely present
+1214513754100996,reference,less prominent,,,definitely present
+1214513754100996,reference,slightly more prominent,right hilum,,definitely present
+1214513754100996,reference,increased lymphadenopathy,right hilar,,uncertain
+1218577557648356,reference,chf,,,definitely present
+1218577557648356,reference,edema,interstitial,,definitely present
+1218577557648356,reference,atelectasis,,,definitely present
+1218577559200846,reference,consolidation,,,definitely absent
+1230366751202805,reference,acute abnormality,cardiopulmonary,,definitely absent
+1230366751202805,reference,chronic changes,,,definitely present
+1230366751202805,reference,lymphangiomyomatosis,,,definitely present
+1230366752329768,reference,stable chronic disease,lung,,definitely present
+1230366752329768,reference,superimposed,,,definitely absent
+1230366752329768,reference,pneumonia,,,definitely absent
+1230366756230969,reference,diffuse abnormalities,interstitial,,definitely present
+1230366756230969,reference,pneumonia,,,definitely absent
+1236922150178679,reference,acute process,cardiopulmonary,,definitely absent
+1243342155644325,reference,small hydropneumothorax,left - sided,,uncertain
+1243342155644325,reference,13 mm nodule,right lower lobe pulmonary,nodule suggestive of shadow; nodule suggestive of lesion,definitely present
+1243342155644325,reference,shadow,nipple,,uncertain
+1243342155644325,reference,lesion,osseous,,uncertain
+1243342155644325,reference,nodule,parenchymal,,uncertain
+1243354150247294,reference,stable,chest,,definitely present
+1243354150247294,reference,appearance,,,definitely present
+1243354150247294,reference,superimposed acute process,,,definitely absent
+1247519856545860,reference,picc line,right,,definitely present
+1247519856545860,reference,small atelectasis,bibasilar,,definitely present
+1211086359358922,reference,fibrosis,right lower lobe,,definitely present
+1211086359358922,reference,moderate cardiomegaly,,,definitely present
+1211086359358922,reference,interval,,,definitely present
+1211086359358922,reference,fracture,neck,,definitely present
+1088569657959841,reference,post lobectomy,left upper,,definitely present
+1088569657959841,reference,changes,,,definitely present
+1088569657959841,reference,superimposed acute process,intrathoracic,,definitely absent
+1105227353702175,reference,moderate cardiomegaly,,,definitely present
+1105227353702175,reference,mild edema,pulmonary,,definitely present
+1105227353702175,reference,small effusions,pleural,,definitely present
+1105227353702175,reference,chf,,,definitely present
+1121287359983953,reference,atelectasis,bibasilar; right upper lobe,,definitely present
+1121287359983953,reference,endotracheal tube proper positions,,,definitely present
+1121287359983953,reference,chest tube proper positions,,,definitely present
+1121287359983953,reference,swan - ganz catheter proper positions,,,definitely present
+1151210456889771,reference,moderate edema,pulmonary,,definitely present
+1151210456889771,reference,cardiomegaly,,,definitely present
+1151210456889771,reference,small effusions,pleural,,definitely present
+1236922159986698,reference,acute process,cardiopulmonary,,definitely absent
+1093360952402828,reference,improved aeration,left lobe,aeration suggestive of pneumonia,definitely present
+1093360952402828,reference,resolving pneumonia,,,definitely present
+1105293555372843,reference,acute process,intrathoracic,,definitely absent
+1105293555372843,reference,small focal opacity,lateral right lower hemithorax,,definitely present
+1189309153774431,reference,marked,,,definitely present
+1189309153774431,reference,edema,,,definitely present
+1211086355875120,reference,mild increase prominence,interstitial,,definitely present
+1211086355875120,reference,edema,pulmonary,,definitely absent
+1211086355875120,reference,stable,,,definitely present
+1211086355875120,reference,scarring,right lower lobe,,definitely present
+1211086355875120,reference,bronchiectasis,right lower lobe,,definitely present
+1230366754218896,reference,diffuse abnormalities progression,interstitial,,definitely absent
+1230366754218896,reference,small,,,definitely present
+1230366754218896,reference,nodules progression,,,definitely absent
+1065000155609649,reference,mild edema,pulmonary,,definitely present
+1065000155609649,reference,small,,,uncertain
+1065000155609649,reference,effusion,pleural,,uncertain
+1151210451244125,reference,mild edema,interstitial,,definitely present
+1151210451244125,reference,focal consolidation,,,definitely absent
+1151210451244125,reference,moderate cardiomegaly,,,definitely present
+1151210451244125,reference,small effusion,left pleural,,definitely present
+1167394853339862,reference,acute process,,,definitely absent
+1086720257163975,reference,new picc,right,,definitely present
+1086720257163975,reference,improvement effusions,bilateral,,definitely present
+1086720257163975,reference,improvement opacities,bilateral,,definitely present
+1086720257163975,reference,stable markings,interstitial,markings suggestive of fibrosis,definitely present
+1086720257163975,reference,chronic fibrosis,pulmonary,,definitely present
+1105227353537165,reference,congestive failure,heart,,definitely absent
+1105227353537165,reference,patchy streaky opacity,right lung base,opacity suggestive of atelectasis; opacity suggestive of infection,definitely present
+1105227353537165,reference,atelectasis,,,uncertain
+1105227353537165,reference,infection,,,uncertain
+1141323651644170,reference,persistently,,,definitely present
+1141323651644170,reference,low,,,definitely present
+1141323651644170,reference,streaky atelectasis,,,definitely present
+1156909359234239,reference,et tube,5 . 1 cm above the carina,,definitely present
+1156909359234239,reference,orogastric tube,stomach,,definitely present
+1156909359234239,reference,worsening mild - to - moderate edema,pulmonary,,definitely present
+1156909359234239,reference,elevation,right hemidiaphragm,,definitely present
+1102224553978610,reference,more conspicuous opacity,,opacity suggestive of pneumonia; opacity suggestive of septic embolus,definitely present
+1102224553978610,reference,developing,,,uncertain
+1102224553978610,reference,pneumonia,,,uncertain
+1102224553978610,reference,septic embolus,,,uncertain
+1102224553978610,reference,improved small effusion,left pleural,,definitely present
+1102224553978610,reference,greater atelectasis,left right bibasilar,,definitely present
+1102224558274962,reference,opacities,bilateral mid lung,opacities suggestive of infectious process,definitely present
+1102224558274962,reference,infectious process,,,uncertain
+1102224558274962,reference,greater,left,,definitely present
+1102224558274962,reference,effusion,left right pleural,,definitely present
+1102224558274962,reference,atelectasis,,,definitely present
+1129351755831566,reference,mild cardiomegaly,,,definitely present
+1129351755831566,reference,mild,,,definitely present
+1129351755831566,reference,edema,,,definitely present
+1189309155430447,reference,moderate,,,definitely present
+1189309155430447,reference,edema,pulmonary,,definitely present
+1189309155430447,reference,mild,,,definitely present
+1189309155430447,reference,cardiomegaly,,,definitely present
+1189309155430447,reference,trace effusions,pleural,,uncertain
+1212474152979134,reference,acute process,intrathoracic,,definitely absent
+1218577555494760,reference,extensive patchy opacities,bilateral pulmonary,opacities suggestive of edema,definitely present
+1218577555494760,reference,congestion,central vascular,congestion suggestive of edema,definitely present
+1218577555494760,reference,severe edema,pulmonary,,uncertain
+1218577555494760,reference,pneumonia,left base,,uncertain
+1218577555494760,reference,et tube,4 . 7 cm above the carina,,definitely present
+1218577555494760,reference,orogastric tube,stomach,,definitely present
+1093360959885828,reference,marked improvement,pulmonary,,definitely present
+1093360959885828,reference,small,,,definitely present
+1093360959885828,reference,effusion,left pleural,,definitely absent
+1105227359032183,reference,acute process,intrathoracic,,definitely absent
+1212474157320234,reference,small effusions,bilateral pleural,,definitely present
+1212474157320234,reference,improvement edema,pulmonary,,definitely present
+1218577553930112,reference,new consolidation,right basilar,consolidation suggestive of pneumonia; consolidation suggestive of aspiration; consolidation suggestive of infarction,definitely present
+1218577553930112,reference,pneumonia,,,uncertain
+1218577553930112,reference,aspiration,,,uncertain
+1218577553930112,reference,infarction,,,uncertain
+1218577553930112,reference,stable small effusions,bilateral pleural,,definitely present
+1218577553930112,reference,mild enlargement unchanged,cardiac silhouette,,definitely present
+1027414559166131,reference,mild improvement congestion,pulmonary vascular,,definitely present
+1027414559166131,reference,less opacification,right lower,,definitely present
+1027414559166131,reference,pneumonia,,,definitely absent
+1044929756486000,reference,frontal,,,definitely present
+1088636252555178,reference,cardiomegaly,,,definitely present
+1088636252555178,reference,congestion,venous,,definitely present
+1093360956058164,reference,opacity,lower lobe,opacity suggestive of pneumonia; opacity suggestive of aspiration,definitely present
+1093360956058164,reference,pneumonia,,,uncertain
+1093360956058164,reference,aspiration,,,uncertain
+1121287353762508,reference,ill - defined patchy opacities,,Ill - defined patchy opacities suggestive of infection; Ill - defined patchy opacities suggestive of atelectasis,definitely present
+1121287353762508,reference,ill - defined patchy opacities,lung bases,patchy opacities suggestive of infection; patchy opacities suggestive of atelectasis,definitely present
+1121287353762508,reference,infection,,,uncertain
+1121287353762508,reference,atelectasis,,,uncertain
+1121287353762508,reference,small effusions,,,definitely present
+1121287353762508,reference,opacity more prominent,subpleural,,definitely present
+1141323653155287,reference,low,volumes,,definitely present
+1141323653155287,reference,acute process,cardiopulmonary,,definitely absent
+1141323659735304,reference,atelectasis,bibasilar,,definitely present
+1141323659735304,reference,pneumonia,,,definitely absent
+1156909351983905,reference,elevation,,,definitely present
+1156909351983905,reference,opacification,,opacification suggestive of atelectasis; opacification suggestive of infectious,definitely present
+1156909351983905,reference,extensive atelectasis,lung,,definitely present
+1156909351983905,reference,infectious,,,uncertain
+1156909351983905,reference,effusion,right pleural,,uncertain
+1187988656855230,reference,acute process,cardiopulmonary,,definitely absent
+1189309153024166,reference,focal consolidation,,consolidation suggestive of pneumonia,definitely absent
+1189309153024166,reference,pneumonia,,,definitely absent
+1147406550955371,reference,opacities,right middle lobe,opacities suggestive of pneumonia,definitely present
+1147406550955371,reference,pneumonia,,,definitely present
+1190622252008677,reference,stable radiographs,chest,,definitely present
+1190622252008677,reference,acute process,,,definitely absent
+1247519850639335,reference,moderate cardiomegaly,,,definitely present
+1247519850639335,reference,mild,,,definitely present
+1247519850639335,reference,edema,pulmonary,,definitely present
+1027414553356050,reference,faint increased opacification,left mid lung,opacification suggestive of infectious,definitely present
+1027414553356050,reference,infectious process,,,uncertain
+1040237258736291,reference,stable,,,definitely present
+1040237258736291,reference,acute change,,,definitely absent
+1093360951115198,reference,moderate effusion,left pleural,,definitely present
+1093360951115198,reference,worsening pneumonia,left lung,,definitely present
+1102224550126222,reference,slight improvement mild edema,pulmonary,,definitely present
+1102224550126222,reference,patchy opacities,lung bases,Patchy opacities suggestive of atelectasis; Patchy opacities suggestive of infection,definitely present
+1102224550126222,reference,atelectasis,,,uncertain
+1102224550126222,reference,infection,left lung base,,uncertain
+1147406553907259,reference,pneumothorax,,,definitely absent
+1147406553907259,reference,tube,chest,,definitely absent
+1147406558721487,reference,acute findings,,,definitely absent
+1211086350751429,reference,opacity,right lower lung zone,Opacity suggestive of aspiration,definitely present
+1211086350751429,reference,aspiration,,,uncertain
+1211086350751429,reference,stable prominence,interstitial,,definitely present
+1211086350751429,reference,scaring,right lower lobe,,definitely present
+1052372559223989,reference,acute process,cardiopulmonary,,definitely absent
+1105293553884408,reference,slight improvement,,,definitely present
+1105293553884408,reference,ill - defined opacity,,opacity suggestive of pneumonia,definitely present
+1105293553884408,reference,pneumonia,,,uncertain
+1105293553884408,reference,patchy opacity,left lower lobe,Patchy opacity suggestive of atelectasis; Patchy opacity suggestive of infection,definitely present
+1105293553884408,reference,atelectasis,,,uncertain
+1105293553884408,reference,infection,,,uncertain
+1105293553884408,reference,unchanged,,,definitely present
+1120464657940242,reference,tip,upper svc,,definitely present
+1189309155255832,reference,unchanged lead positions,,,definitely present
+1189309155255832,reference,dual - chamber pacemaker,,,definitely present
+1218928559956784,reference,small effusions,,,definitely present
+1218928559956784,reference,atelectasis,bibasilar,,definitely present
+1218928559956784,reference,focal consolidations,,,definitely absent
+1218928559956784,reference,fractured misaligned median sternotomy wires,,wires suggestive of nonunion,definitely present
+1218928559956784,reference,chronic nonunion,sternal,,definitely present
+1053232652195893,reference,mild edema,pulmonary,,definitely present
+1053232652195893,reference,moderate effusion,right pleural,,definitely present
+1053232652195893,reference,opacity,right basilar,opacity suggestive of atelectasis; opacity suggestive of infection,definitely present
+1053232652195893,reference,atelectasis,,,uncertain
+1053232652195893,reference,infection,,,uncertain
+1102224558402174,reference,increasing atelectasis,,,definitely present
+1102224558402174,reference,mild congestion,vascular,,uncertain
+1105293556129930,reference,pneumonia,left lobe,,definitely present
+1105293557214202,reference,moderate copd,,,definitely present
+1105293557214202,reference,pneumonia,left lobe,,uncertain
+1147406559083645,reference,pneumonia,,,definitely absent
+1147406559083645,reference,edema,,,definitely absent
+1154028358773579,reference,mild,,,definitely present
+1154028358773579,reference,cardiomegaly,,,definitely present
+1154028358773579,reference,acute,,,definitely absent
+1154028358773579,reference,superimposed process,cardiopulmonary,,definitely absent
+1190622259697640,reference,acute process,cardiac; pulmonary,,definitely absent
+1241006655755138,reference,maturing,,,definitely present
+1241006655755138,reference,pneumonectomy,,,definitely present
+1027414556140866,reference,consolidation,right base,Consolidation suggestive of pneumonia,definitely present
+1027414556140866,reference,pneumonia,,,definitely present
+1086720250482798,reference,diffuse chronic disease,lung,,definitely present
+1086720250482798,reference,new focal consolidation,,,definitely absent
+1093360959243134,reference,new focal opacities,,,definitely absent
+1093360959243134,reference,consolidation,right upper lobe,consolidation suggestive of old pneumonia; consolidation suggestive of chronic changes,definitely present
+1093360959243134,reference,old pneumonia,,,uncertain
+1093360959243134,reference,chronic changes,,,uncertain
+1093360959243134,reference,low,,,definitely present
+1102224555490259,reference,increasing atelectasis,,,definitely present
+1141323655420069,reference,acute process,cardiopulmonary,,definitely absent
+1141323656921446,reference,low,volumes,,definitely present
+1141323656921446,reference,acute process,,,definitely absent
+1141323656921446,reference,free air,peritoneal,,definitely absent
+1147406556451222,reference,interval change,,,definitely absent
+1188092350969842,reference,progressive loss,volume,,definitely present
+1188092350969842,reference,mucous plugging,,,uncertain
+1188092350969842,reference,unchanged effusion,right,,definitely present
+1188092350969842,reference,congestion,vascular,,definitely present
+1214513754833205,reference,malignancy,intrathoracic,,definitely present
+1214513754833205,reference,infection,,,definitely absent
+1214513754833205,reference,acute process,,,definitely absent
+1234073751192088,reference,opacity,left base,,uncertain
+1095905459281953,reference,layering,,,definitely present
+1095905459281953,reference,moderate effusion,right pleural,,definitely present
+1095905459281953,reference,mild,,,definitely present
+1095905459281953,reference,improvement atelectasis,right basilar,,definitely present
+1102224551656138,reference,decreased edema,pulmonary,,definitely present
+1102224551656138,reference,opacities more prominent,parenchymal,opacities suggestive of pneumonia,definitely present
+1102224551656138,reference,pneumonia,,,uncertain
+1102224551656138,reference,lines standard position,,,definitely present
+1102224551656138,reference,tubes standard position,,,definitely present
+1188092355238105,reference,mild effusion,pleural right side,,definitely present
+1188092355238105,reference,atelectasis,right side,,definitely present
+1218577556614076,reference,mild increase edema,pulmonary,,definitely present
+1230366753999109,reference,acute,,,definitely absent
+1230366753999109,reference,process,,,definitely absent
+1230366753999109,reference,chronic changes,interstitial,,definitely present
+1247519858387960,reference,temporary pacemaker,,,definitely present
+1247519858387960,reference,lead appropriate position,,,definitely present
+1247519858387960,reference,acute process,cardiopulmonary,,definitely absent
+1027414558307391,reference,acute process,intrathoracic,,definitely absent
+1088569656443683,reference,pneumonia,right lower lobe,,definitely present
+1088569656443683,reference,small effusion,right pleural,,definitely present
+1218577554133721,reference,small,,,definitely present
+1218577554133721,reference,effusions,bilateral pleural,,definitely present
+1026887754103072,reference,mild chronic congestive failure,heart,,definitely present
+1026887754103072,reference,trace edema,pulmonary,,definitely present
+1026887754103072,reference,atelectasis,bibasilar,,definitely present
+1071547759170987,reference,mild,,,definitely present
+1071547759170987,reference,acute,,,definitely present
+1071547759170987,reference,congestive,,,definitely present
+1071547759170987,reference,failure,,,definitely present
+1105293550367895,reference,pneumonia,left lobe,,definitely present
+1141323655277653,reference,acute process,cardiopulmonary,,definitely absent
+1192869254164323,reference,mild edema,interstitial,edema suggestive of cardiogenic,definitely present
+1192869254164323,reference,cardiogenic,,,uncertain
+1192869254164323,reference,moderate cardiomegaly,,,definitely present
+1218577553923012,reference,stable small moderate effusion,,,definitely present
+1218577553923012,reference,improved asymmetric edema,left,,definitely present
+1218577556043671,reference,picc,right,,definitely present
+1247519858466988,reference,acute process,cardiopulmonary,,definitely absent
+1247519858466988,reference,temporary pacemaker appropriate position,,,definitely present
+1247519858466988,reference,mild cardiomegaly,,,definitely present
+1026887759301985,reference,hazy opacity,right upper mid lungs,opacity suggestive of infectious; opacity suggestive of atelectasis; opacity suggestive of artifact,definitely present
+1026887759301985,reference,infectious,,,uncertain
+1026887759301985,reference,atelectasis,,,uncertain
+1026887759301985,reference,artifact,,,uncertain
+1101693551683155,reference,acute process,intrathoracic,,definitely absent
+1141323653994053,reference,pneumonia,,,uncertain
+1141323653994053,reference,mild opacities,bibasilar,opacities suggestive of atelectasis,definitely present
+1141323653994053,reference,atelectasis,,,uncertain
+1141323658006032,reference,acute process,cardiopulmonary,,definitely absent
+1141323658971300,reference,acute disease,,,definitely absent
+1147406559155076,reference,improved mild edema,pulmonary,,definitely present
+1147406559155076,reference,thickening stable,right pleural,,uncertain
+1147406559155076,reference,loculated,,,uncertain
+1147406559155076,reference,loculated effusion stable,,,uncertain
+1147406559155076,reference,effusion,,,uncertain
+1188092357045176,reference,tiny,,,definitely present
+1188092357045176,reference,effusion,right pleural,,definitely present
+1218577554211038,reference,appropriately,,,definitely present
+1218577554211038,reference,placed,,,definitely present
+1218577554211038,reference,et,,,definitely present
+1218577554211038,reference,tube,,,definitely present
+1218577554211038,reference,moderate edema,pulmonary,,definitely present
+1141323651499550,reference,low,lung volumes,,definitely present
+1141323651499550,reference,atelectasis,bibasilar,,definitely present
+1141323651499550,reference,superimposed pneumonia,,,uncertain
+1192869253222889,reference,clear,lungs,,definitely present
+1192869253222889,reference,consolidation,,,uncertain
+1218577553462705,reference,effusions,bilateral pleural,,definitely absent
+1218577553462705,reference,enlarged,size,enlarged suggestive of cardiomyopathy; enlarged suggestive of effusion,definitely present
+1218577553462705,reference,cardiomyopathy,,,uncertain
+1218577553462705,reference,effusion,pericardial,,uncertain
+1075418456625924,reference,small effusion,right pleural,,definitely present
+1075418456625924,reference,pneumonia,,,definitely absent
+1075418456625924,reference,change,,,definitely absent
+1075418456625924,reference,mild cardiomegaly stable,,,definitely present
+1105293551137224,reference,dependent atelectasis,bibasilar,,definitely present
+1105293551137224,reference,opacity,left lower lobe,opacity suggestive of atelectasis,definitely present
+1105293551137224,reference,atelectasis,,,uncertain
+1141323659798652,reference,opacity,retrocardiac,opacity suggestive of atelectasis; opacity suggestive of infection,definitely present
+1141323659798652,reference,atelectasis,,,uncertain
+1141323659798652,reference,infection,,,uncertain
+1141323659798652,reference,small effusion,left pleural,,uncertain
+1147406556896759,reference,increase in opacity nonspecific,right mid to lower lung,Increase in opacity suggestive of infection; Increase in opacity suggestive of aspiration,definitely present
+1147406556896759,reference,infection,,,uncertain
+1147406556896759,reference,aspiration,,,uncertain
+1053232651742525,reference,nasogastric tube adequate position,,,definitely present
+1053232651742525,reference,resolution distention,gastric,,definitely absent
+1102224552391187,reference,change opacity,airspace,,definitely absent
+1102224552391187,reference,opacity,airspace,,definitely present
+1141323653410264,reference,acute abnormality,cardiopulmonary,,definitely absent
+1156909351887095,reference,stable,,,definitely present
+1156909351887095,reference,radiograph,chest,,definitely present
+1160762850790949,reference,endotracheal tube,5 cm above,,definitely present
+1160762850790949,reference,edema,pulmonary,,definitely absent
+1160762850790949,reference,moderate greater effusions,left right bilateral pleural,,definitely present
+1160762850790949,reference,mild cardiomegaly,,,definitely present
+1041064159980986,reference,mild,,,definitely present
+1041064159980986,reference,moderate,,,definitely present
+1041064159980986,reference,new pneumothorax,left,,definitely present
+1041064159980986,reference,mild rightward shift,mediastinum,,definitely present
+1041064159980986,reference,stable pneumothorax,right,,definitely present
+1041064159980986,reference,moderate effusion,left pleural,,definitely present
+1129351757001251,reference,new opacities,bibasilar,opacities suggestive of atelectasis,definitely present
+1129351757001251,reference,atelectasis,,,uncertain
+1192869255947318,reference,mild edema,interstitial,,definitely present
+1192869255947318,reference,mild cardiomegaly,,,definitely present
+1192869255947318,reference,linear atelectasis,left lung base,,definitely present
+1192869255947318,reference,atelectasis,left lung base,,definitely present
+1192869255947318,reference,acute,,,definitely absent
+1192869255947318,reference,acute pneumonia,,,definitely absent
+1192869255947318,reference,pneumonia,,,definitely absent
+1192869255947318,reference,pneumothorax,,,definitely absent
+1207404156502688,reference,new mild edema,interstitial,,definitely present
+1207404156502688,reference,stable mild cardiomegaly,,,definitely present
+1207404156502688,reference,opacities,bibasilar,opacities suggestive of effusion; opacities suggestive of atelectasis; opacities suggestive of aspiration; opacities suggestive of pneumonia,definitely present
+1207404156502688,reference,small effusion,pleural,,definitely present
+1207404156502688,reference,atelectasis,,,uncertain
+1207404156502688,reference,aspiration,,,uncertain
+1207404156502688,reference,pneumonia,,,uncertain
+1105293553792271,reference,stellate,,,definitely present
+1105293553792271,reference,residual opacity,,opacity suggestive of scarring,definitely present
+1105293553792271,reference,scarring,,,uncertain
+1105293553792271,reference,pneumonia,,,uncertain
+1137815055092691,reference,stable loss,,,definitely present
+1137815055092691,reference,lobectomy,left lobe,,definitely present
+1137815055743226,reference,pneumothorax,,,definitely absent
+1137815055743226,reference,large mass,left lobe,,definitely present
+1156909356084617,reference,unchanged pneumothorax,,,definitely present
+1188092356440140,reference,endotracheal tube appropriately positioned,3 . 4 cm above,,definitely present
+1188092356440140,reference,side port,,,definitely present
+1188092356440140,reference,improvement decompensated congestive failure,heart,,definitely present
+1188092356440140,reference,persistent opacity,retrocardiac,opacity suggestive of consolidation; opacity suggestive of atelectasis,definitely present
+1188092356440140,reference,consolidation,,,uncertain
+1188092356440140,reference,atelectasis,,,uncertain
+1207404153353190,reference,edema improving,,,definitely present
+1207404153353190,reference,opacification,right,opacification suggestive of consolidation; opacification suggestive of pneumonia,definitely present
+1207404153353190,reference,consolidation,,,uncertain
+1207404153353190,reference,pneumonia,,,uncertain
+1026887757765703,reference,unchanged opacities,bibasilar,opacities suggestive of atelectasis; opacities suggestive of consolidation; opacities suggestive of pneumonia,definitely present
+1026887757765703,reference,atelectasis,,,uncertain
+1026887757765703,reference,consolidation,,,uncertain
+1026887757765703,reference,pneumonia,,,uncertain
+1026887757765703,reference,improved edema,pulmonary,,definitely present
+1088569652937462,reference,opacity,right lobe volume,opacity suggestive of atelectasis,definitely present
+1088569652937462,reference,loss,volume,,definitely present
+1088569652937462,reference,atelectasis,,,uncertain
+1088636254849848,reference,changes,,,definitely absent
+1088636254849848,reference,postoperative status,,,definitely present
+1088636254849848,reference,chf,,,definitely present
+1088636254849848,reference,effusion,pleural,,definitely present
+1088636254849848,reference,balloon pump device in place,intra - aortic,,definitely present
+1093360950290463,reference,improving consolidation,right upper lobe,,definitely present
+1093360950290463,reference,mild failure,heart,,definitely present
+1093360950290463,reference,chronic disease,lung,disease suggestive of sarcoidosis,definitely present
+1093360950290463,reference,sarcoidosis,,,uncertain
+1121361355481818,reference,emphysema,,,definitely present
+1121361355481818,reference,atelectasis,bibasilar,,definitely present
+1121361355481818,reference,pneumonia,,,definitely absent
+1075418454594848,reference,new multifocal opacities,parenchymal,opacities suggestive of infectious; opacities suggestive of processes; opacities suggestive of pneumonia,definitely present
+1075418454594848,reference,infectious processes,,,uncertain
+1075418454594848,reference,organizing pneumonia,,,uncertain
+1095905450128467,reference,pneumothorax,,,definitely absent
+1095905450128467,reference,little change subpulmonic effusion,right pleural,,definitely present
+1095905453881360,reference,increased opacity,right hemithorax,opacity suggestive of effusion; opacity suggestive of atelectasis,definitely present
+1095905453881360,reference,increased effusion,right pleural,,uncertain
+1095905453881360,reference,overlying atelectasis,,,uncertain
+1095905453881360,reference,infectious,,,uncertain
+1041064156031350,reference,stable large effusion,right pleural,,definitely present
+1041064156031350,reference,increasing effusion,left pleural,,definitely present
+1156904257778607,reference,dilated,esophagus,,definitely present
+1075418456348027,reference,cardiomegaly,,,definitely present
+1075418456348027,reference,acute process,,,definitely absent
+1093360955438657,reference,persistent consolidations,bilateral peribronchial,consolidations suggestive of fibrosis; consolidations suggestive of inflammation; consolidations suggestive of pneumonia; consolidations suggestive of infection,definitely present
+1093360955438657,reference,post - pneumonic fibrosis,,,uncertain
+1093360955438657,reference,inflammation,,,uncertain
+1093360955438657,reference,organizing pneumonia,,,uncertain
+1093360955438657,reference,infection,,,uncertain
+1147406557174042,reference,stable post - operative findings,chest,,definitely present
+1147406557174042,reference,new acute infiltrates,,,definitely absent
+1147406557174042,reference,pneumothorax,,,definitely absent
+1160762852356321,reference,cardiomegaly,,Cardiomegaly suggestive of effusion,definitely present
+1160762852356321,reference,configuration,,,definitely present
+1160762852356321,reference,effusion,pericardial,,uncertain
+1160762852356321,reference,trace effusion,left,,definitely present
+1160762852356321,reference,plate - like atelectasis,left,,definitely present
+1160762852356321,reference,trace effusion unchanged,right,,uncertain
+1040237250879902,reference,pneumonia,,,uncertain
+1105293551882937,reference,early pneumonia,right lobe,,uncertain
+1105293551882937,reference,scarring,left upper lobe,,definitely present
+1105293551882937,reference,copd,,,definitely present
+1243354154729238,reference,large mass,lung,,definitely present
+1243354154729238,reference,radiation fibrosis,,,definitely present
+1243354154729238,reference,radiation fibrosis,,,definitely present
+1243354154729238,reference,post - obstructive pneumonia,right upper lower lobes,,uncertain
+1243354154729238,reference,new opacity,left retrocardiac,,definitely present
+1243354154729238,reference,small effusion,left,,definitely present
+1243354154729238,reference,thickening,pleural,,definitely present
+1086720251723789,reference,minimally,,,definitely present
+1086720251723789,reference,increased,,,definitely present
+1086720251723789,reference,opacification,lung,opacification suggestive of edema,definitely present
+1086720251723789,reference,mild edema,,,uncertain
+1086720251723789,reference,chronic severe disease,interstitial,,uncertain
+1192422650241018,reference,normal radiograph,chest,,definitely present
+1192422650241018,reference,effusion,,,definitely absent
+1192422650241018,reference,pneumonia,,,definitely absent
+1156909359413372,reference,unchanged,,,definitely present
+1156909359413372,reference,radiograph,,,definitely present
+1156580358056251,reference,pneumothorax,,,definitely absent
+1156580358056251,reference,tube,chest,,definitely absent
+1093360957629869,reference,acute process,cardiopulmonary,,definitely absent
+1187988653021526,reference,new mass,,,definitely present
+1187988653021526,reference,cardiomegaly,,Cardiomegaly suggestive of congestion,definitely present
+1187988653021526,reference,increased markings,vascular,markings suggestive of congestion,definitely present
+1187988653021526,reference,effusion,pleural,effusion suggestive of congestion,definitely present
+1187988653021526,reference,congestion,vascular,,definitely present
+1043978156140154,reference,improved mild - to - moderate edema,pulmonary,,definitely present
+1230366758981887,reference,acute process,cardiopulmonary,,definitely absent
+1230366758981887,reference,chronic changes,interstitial,,definitely present
+1141323651943964,reference,pneumonia,,,definitely absent
+1141323651943964,reference,edema,pulmonary,,definitely absent
+1147406552522246,reference,pneumomediastinum,,,definitely present
+1147406552522246,reference,small pneumothoraces,bilateral,,definitely present
+1147406552522246,reference,stent placement,tracheobronchial,,definitely present
+1147406552522246,reference,rupture,tracheobronchial,,definitely present
+1129351755101140,reference,mild,,,definitely present
+1129351755101140,reference,congestion,,,definitely present
+1141323657361873,reference,appearance,,,definitely present
+1141323657361873,reference,low,lung volumes,,definitely present
+1141323657361873,reference,atelectasis,basilar,,definitely present
+1193411457363067,reference,mild - to - moderate edema,interstitial,,definitely present
+1193411457363067,reference,small - to - moderate effusions,bilateral layering pleural,,definitely present
+1193411457363067,reference,fractures,left - sided rib,,definitely present
+1004616650051329,reference,acute process,cardiopulmonary,,definitely absent
+1004616653492798,reference,acute process,cardiopulmonary,,definitely absent
+1026887753452091,reference,hazy opacity,right lung,opacity suggestive of aspiration; opacity suggestive of effusion; opacity suggestive of hemorrhage,definitely present
+1026887753452091,reference,aspiration,,,uncertain
+1026887753452091,reference,effusion,pleural,,uncertain
+1026887753452091,reference,hemorrhage,,,uncertain
+1026887753452091,reference,mild edema,pulmonary,,definitely present
+1026887753452091,reference,displaced fractures,rib,,definitely absent
+1218577553295276,reference,acute,,,definitely absent
+1218577553295276,reference,abnormalities,cardiopulmonary,,definitely absent
+1218577550953777,reference,new acute infiltrates,pulmonary,,definitely absent
+1147406554696391,reference,minimal worsening effusion,right pleural,,definitely present
+1147406554696391,reference,minimal worsening atelectasis,,,definitely present
+1147406554696391,reference,diffusely increased hazy opacification,right hemithorax,,definitely present
+1218577557024984,reference,new opacities,right upper and lower lobe,opacities suggestive of edema,definitely present
+1218577557024984,reference,indistinctness,pulmonary vessels,indistinctness suggestive of edema,definitely present
+1218577557024984,reference,edema,pulmonary,,uncertain
+1218577557024984,reference,pneumonia,,,uncertain
+1218577557910301,reference,edema,pulmonary,,definitely absent
+1218577557910301,reference,increased small effusion,pleural,,definitely present
+1218577557910301,reference,stable,,,definitely present
+1218577557910301,reference,moderate cardiomegaly,,,definitely present

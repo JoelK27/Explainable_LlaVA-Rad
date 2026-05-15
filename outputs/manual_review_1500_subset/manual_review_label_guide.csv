@@ -1,0 +1,4 @@
+manual_label,use_for_strict_hallucination,use_for_lenient_hallucination,definition
+unsupported,1,1,Generated finding not supported by image/reference context under review
+supported,0,0,Generated finding is acceptable or supported
+uncertain,0,1,Cannot be judged confidently or evidence is ambiguous

@@ -1,0 +1,273 @@
+case_id,generated_observation_count,reference_observation_count,shared_observation_count,generated_only_count,reference_only_count,generated_only,reference_only,shared_observations
+1004616657379357,8,2,0,8,2,acute abnormalities; calcified granuloma; clear; effusion; normal; pneumothorax; unremarkable; wire fractured,findings; pneumonia,
+1026887750239281,11,7,2,9,5,consolidation; enlargement; large effusion; linear atelectasis; picc; pneumothorax; scarring; slight increase opacity; tracheostomy tube,aeration; effusion; left picc; residual streaky opacity; tip,atelectasis; mild congestion
+1026887751513702,7,2,1,6,1,calcified; edema; focal consolidation; large effusion; pneumothorax; relatively low,acute process,enlarged
+1026887754137212,6,4,1,5,3,atherosclerotic calcifications; blunting; effusion; slightly enlarged; tracheostomy tube,atelectasis; congestion; infection,opacities
+1026887757976739,6,3,0,6,3,better; congestion; enlargement; monitoring support devices in place; patient slightly inspiration; supervening pneumonia,atelectasis; mild residual opacification; pneumonia,
+1040237251966612,7,1,0,7,1,effusion; focal consolidation; free air; hyperinflated; intact; normal; pneumothorax,acute process,
+1040237256446284,5,2,0,5,2,atelectasis; change; hyperexpansion; increased opacification; multifocal pneumonia,bronchiectasis; improved consolidation,
+1040237259239338,7,2,0,7,2,aspiration; effusion; hyperexpanded; new area increased opacity; pneumonia; pneumothorax; unremarkable,severe bronchiectasis; severe emphysema,
+1041064153850317,5,4,2,3,2,mild congestion; pneumothorax; unchanged,atelectasis; consolidation,large effusion; small effusion
+1041064156839020,4,3,0,4,3,clear; effusions; large effusions greater; pneumothorax,disease; moderate effusions; underlying,
+1043978150501762,7,4,0,7,4,confluent consolidation; effusion; enlarged stable; increased markings similar to prior; picc tip; port catheter tip; vertebroplasty,chronic fibrosis; edema; infection; new abnormalities,
+1043978151129150,7,4,1,6,3,elevated pressure; engorgement; indistinct; port - a - cath in place; supervening pneumonia; upper limits normal,consolidation; fibrosis; superimposed edema,low
+1043978155725911,5,3,0,5,3,catheter; congestion; enlargement; little overall change; supervening pneumonia,improvement; prominent congestion; some,
+1043978155811525,12,2,1,11,1,chronic; compression deformity; deformity; diffuse increased; effusion; increased markings; indeterminate age age indeterminate; pneumothorax; port - a - cath; stable; vertebroplasty,fibrosis,edema
+1043978156498272,9,9,0,9,9,acute abnormalities; diffusely calcified; effusion; mild edema new; mildly enlarged; pneumothorax; port - a - cath tip; unchanged; vertebroplasty changes,cardiomegaly; chronic; displaced; fibrosis; fracture; hypertension; mild edema; multiple vertebroplasties; severe,
+1043978156925922,7,4,0,7,4,diffuse edema; effusion; large; mild cardiomegaly; pneumothorax; port - a - cath catheter tip; vertebroplasty changes,acute; acute disease; disease; severe fibrosis,
+1044929752837403,7,1,0,7,1,acute abnormality; atherosclerotic calcifications; clear; effusion; elevation; focal consolidation; normal limits,acute process,
+1044929754773340,6,1,0,6,1,acute abnormality; confluent consolidation; effusion; lower; secondary crowding; unchanged,edema,
+1052372556078456,10,1,0,10,1,calcified; degenerative changes along; effusion; focal consolidation; mild engorgement; mildly enlarged; pneumothorax; post cabg; post median sternotomy; tortuous,acute process,
+1071547752467293,10,3,0,10,3,acute abnormalities; congestion; diffusely calcified; effusion; focal consolidation; moderate severely enlarged; pneumothorax; scarring; tortuous; unchanged,chf; pneumonia; stable cardiomegaly,
+1086720251707133,5,3,0,5,3,acute abnormality; difficult to assess; diffuse opacities; diffusely increased markings; large effusion,fibrosis; infection; superimposed edema,
+1086720253652133,6,7,1,5,6,acute abnormality; diffuse opacities; edema; extremely low; unchanged,acute exacerbation disease; chronic disease; focal; more; opacities; persistent opacities,infection
+1086720257761141,6,1,0,6,1,acute abnormalities; effusion; grossly stable; pneumothorax; similar pattern fibrosis; superimposed consolidation,chronic disease,
+1086720259071382,7,5,1,6,4,acute component; diffuse increase markings; effusion; pneumothorax; relatively low; stable,acute superimposed pneumonia; multifocal opacities; pneumonia superimposed; severe disease,chronic disease
+1086720259535316,6,3,0,6,3,acute abnormality; chronic underlying process; difficult to assess; increased markings; large confluent consolidation; low,acute; fibrosis; superimposed,
+1088569659532499,6,4,0,6,4,calcification; mildly tortuous; new consolidation; normal; pneumothorax; small effusion,atelectasis; consolidation; effusion; opacity silhouetting,
+1088636256034024,5,1,0,5,1,compressive atelectasis; effusions; elevation pressure; enlargement; monitoring support devices in place,worsening chf,
+1093360950205123,8,6,2,6,4,anchor; blunting; normal limits; patchy regions consolidation notably; surgical; surgical clips,aspiration; chronic fibrotic changes; infection; low,atelectasis; small effusion
+1093360950289849,9,2,0,9,2,edema; grossly stable; improvement edema; intact; large effusions; normal; pneumothorax; residual mild edema; slight improvement atelectasis,greater opacities; infectious process superimposed on chronic changes,
+1093360950636786,7,8,1,6,7,acute abnormalities; endotracheal tube tip; enteric tube tip; normal limits; patchy regions consolidation notably; surgical clips,aspiration; chronic process; focal; infection; linear; mild congestion; standard positions endotracheal and orogastric tubes,low
+1093360951002383,8,1,0,8,1,acute abnormalities; clips; effusion; normal; patchy opacities; pneumonia; pneumothorax; unremarkable,scarring superimposed acute process,
+1093360951816597,8,4,0,8,4,effusion; focal new opacity nonspecific; improved congestion; low; new catheter; pneumonia; pneumothorax; unchanged,acute aspiration; granulomatous; granulomatous process; sarcoid,
+1093360952624179,11,2,0,11,2,effusion; enlarged; findings; hardware; indistinctness; lymphadenopathy; patchy opacity; pneumothorax; prominence; relatively low; surgical clips,acute process; fibrotic,
+1093360952935265,9,2,0,9,2,acute abnormalities; effusion; focal consolidation; ill - defined opacities unchanged; normal; pneumothorax; streaky; streaky opacities; unchanged,pneumonia; resolving,
+1093360953512860,4,2,0,4,2,ij catheter; low; opacifications decreasing; pneumonia,aspiration; some clearing pneumonia,
+1093360954300688,9,1,0,9,1,chronic scarring; effusion; findings; normal; opacity less extensive; persistent opacities; pneumothorax; superimposed infectious process; unchanged,stable,
+1093360954422699,11,3,1,10,2,area consolidation; large; large effusion; malignancy; pneumothorax; relatively low; subtle opacities; surgical clips; underlying nodules; unremarkable,new consolidation; scarring,infection
+1093360954694185,11,4,0,11,4,aspiration; atelectasis; hemorrhage; infection; large area consolidation; malignancy; relatively low; slight blunting; subtle opacity; trace effusion; unremarkable,non - resolving pneumonia; sarcoid; scarring; tb,
+1093360954870311,8,4,0,8,4,demineralized; effusion; opacity; patchy opacity; persistent loss; pneumothorax; surgical anchors; unchanged,bronchovasculature; crowding; scarring; subtle opacity,
+1093360955447530,5,2,0,5,2,change; congestion; increased opacification; increased opacification asymmetry; post - radiation changes,scarring; subtle opacity,
+1093360955646831,9,7,0,9,7,effusion; improvement acute process; loss; patchy opacity decreased; pneumothorax; streaky opacification less prominent; suture anchors; thickened; unchanged,asymmetric; asymmetric edema; edema; fibrotic; infectious process; new opacity; stable,
+1093360955736427,9,6,2,7,4,atelectasis; crowding; effusion; increased opacity; increased prominence; pneumothorax; unremarkable,mild congestion; multifocal; opacities; worsening,low; pneumonia
+1093360956535476,9,7,1,8,6,edema; effusion; mild process; normal; pneumonia; pneumothorax; unremarkable; vague opacity,atelectasis; infection; prior tuberculosis; sarcoidosis; scarring; upward retraction,patchy opacity
+1093360957290683,6,3,0,6,3,acute abnormality; effusion; patchy regions consolidation; relatively low; surgical anchor; within normal limits,acute; fibrosis; superimposed consolidation,
+1093360957695180,4,3,0,4,3,increased opacity; patchy regions consolidation notably; unremarkable; within normal limits,improving pneumonia; increasing opacity; worsening new pneumonia,
+1093360958929044,10,3,0,10,3,aspiration; effusion; infection; mild - to - moderate compression stable; pneumothorax; relatively low; slight engorgement; slight patchy opacity; slight prominence; unremarkable,chronic scarring; infectious; opacity,
+1093360959225625,5,2,0,5,2,large effusion; opacities; pneumothorax; relatively low; stable,multifocal consolidation; pneumonia,
+1097544650572011,6,0,0,6,0,atelectatic changes; edema; effusions; enlargement; little change; low,,
+1097544651473674,6,3,0,6,3,face mask overlying; grossly unremarkable; large confluent consolidation; large effusion; multiple old healed fractures; stable,congestion; mild; stable findings,
+1097544659969148,7,4,0,7,4,dense atherosclerotic calcifications; edema; enlarged stable; increased markings; large confluent consolidation; lower; unchanged,atelectasis; focal patchy opacities; mild congestion; scarring,
+1102224550078440,12,4,1,11,3,coiling; endotracheal tube; enlarged; hemorrhage; large effusion; linear atelectasis; nasogastric; nasogastric tube; overlying atelectasis; stable; underlying consolidation,moderate cardiomegaly; nodular opacity; pneumonia,opacity
+1102224550146341,6,4,0,6,4,diffuse opacifications prominent; edema; effusions prominent; monitoring support devices in place; pneumonia; supervening aspiration,consolidations; increased edema; lines in place; tubes in place,
+1105227354389393,6,3,1,5,2,edema; mild - to - moderate abnormality; mild moderately enlarged; pneumothorax; unchanged,congestion; fluid,small effusions
+1105293557171514,7,1,0,7,1,acute abnormalities; copd; effusion; flattening; hyperinflated; normal; pneumothorax,acute process,
+1105293557502393,7,6,2,5,4,acute abnormalities; effusion; normal; pneumothorax; unremarkable,acute abnormality; residual opacity; scarring; severe emphysema,atelectasis; linear opacities
+1105293558831403,5,3,0,5,3,clear; effusion; hyperinflated; pneumothorax; unchanged,consolidation; severe emphysema; superimposed,
+1105293559503672,8,3,0,8,3,acute abnormalities; effusion; emphysematous pronounced; hyperinflated; normal; patchy ill - defined opacity; pneumothorax; unremarkable,chronic changes; increased markings; infection,
+1120464650533006,7,3,0,7,3,acute abnormalities; atelectasis; clear; effusion; enlarged; infection; opacity silhouetting,cardiomegaly; chf; small effusions,
+1120464655611611,7,2,1,6,1,focal consolidation; mildly enlarged; normal limits; pneumonia; pneumothorax; stable,mild atelectasis,small effusion
+1121361352818853,7,2,0,7,2,acute disease; acute focal pneumonia; chronic disease; congestion; effusion; little change; mild hyperexpansion,pneumonia; predominant emphysema,
+1129351750845269,8,3,0,8,3,calcified; effusion; engorgement; enlarged; pneumothorax; prominence; tortuous; triple - lead aicd leads,moderate cardiomegaly; overt edema; pneumonia,
+1129351755525523,9,3,0,9,3,aicd leads; edema; focal consolidation; intact; large effusion; mild congestion; mildly enlarged; pneumonia; pneumothorax,acute findings; multiple pacer wires unchanged; stable mild cardiomegaly,
+1129351756805129,8,2,0,8,2,aicd unchanged; edema; effusion; infectious process; overlying opacities; pneumothorax; stable; unchanged position,acute exacerbation chf; pneumonia,
+1137815052705433,6,4,0,6,4,acute abnormality; confluent consolidation; effusion; increased markings; median sternotomy wires; unchanged,atelectasis; infection; opacity; stable postoperative changes lobectomy,
+1141323651161513,10,5,1,9,4,clear; clips; focal consolidation; free air; intact; midline sternotomy wires; normal; pneumothorax; port - a - cath catheter tip,atelectasis; consolidation; opacity linear; scarring,effusion
+1141323651503417,12,1,0,12,1,acute abnormalities; atelectasis; cabg; congestion; effusion; linear opacities; low; median sternotomy; normal; pneumothorax; port - a - cath tip; unchanged,acute process,
+1141323651568216,8,3,0,8,3,atelectasis; calcified lymph nodes; extremely low; linear opacities; median; port catheter tip; stable; sternotomy wires,acute process; evaluation; low,
+1141323652164077,8,1,0,8,1,acute abnormality; calcified node; clips; grossly clear; median sternotomy wires; port catheter tip; relatively low; within normal limits,acute process,
+1141323652541396,7,5,1,6,4,acute abnormality; calcified node; large effusion; linear opacities; port catheter tip; within normal limits,correlate; focal opacity; infection; low,atelectasis
+1141323653836642,9,4,0,9,4,atelectasis; calcified nodes; cholecystectomy; linear opacities; normal limits; port catheter tip; relatively low; sternotomy wires; surgical clips,acute disease; low; minor atelectasis; streaky opacities,
+1141323655108847,10,4,1,9,3,calcified; effusion; linear atelectasis; low; pneumothorax; port - a - cath; post; scarring; stable,increased atelectasis; persistent opacification; pneumonia,atelectasis
+1141323655972946,8,2,1,7,1,acute abnormality; calcified lymph nodes; extremely low; linear opacities; median; port catheter tip; sternotomy wires,low,atelectasis
+1141323657332361,7,1,0,7,1,acute abnormalities; atelectasis; calcified lymph nodes; linear opacities; port catheter tip; relatively low; stable,interval change,
+1141323658800563,8,1,0,8,1,acute abnormalities; atelectasis; calcified lymph nodes; linear opacities; port catheter tip; relatively low; sternotomy wires; within normal limits,acute process,
+1141323659218667,7,1,0,7,1,acute focal pneumonia; congestion; intact sternal wires; lower; multiple calcified lymph nodes; port - a - cath; upper limits normal,acute process,
+1141323659753947,5,2,0,5,2,acute focal pneumonia; better inspiration; congestion; dense calcified lymph nodes; streaks atelectasis,acute process; free air,
+1151210452398109,8,1,0,8,1,atherosclerotic calcifications; clear; degenerative changes; enlarged; focal consolidation; large effusion; stable; surgical clips,acute process,
+1151210453379869,8,2,0,8,2,calcified; effusion; focal consolidation; mild congestion; mildly enlarged; pneumothorax; severe compression stable; tortuous,pneumonia; resolution edema,
+1154028351114398,8,3,0,8,3,confluent consolidation; endotracheal tube tip; enteric tube; large effusion; low; pacing device; sternotomy wires; within normal limits,endotracheal tube standard positions; enteric tubes standard positions; mild congestion,
+1156580359027235,5,3,0,5,3,acute focal pneumonia; central catheter in place; compressive atelectasis; congestion; effusions,atelectasis; mild; mild - to - moderate effusions,
+1156904254093116,4,1,0,4,1,acute abnormality; focal consolidation; large effusion; within normal limits,acute disease,
+1156904255883502,7,3,0,7,3,large effusion; mass; opacity lucency; pneumothorax; superimposed infection; top normal; unremarkable,aspiration; dilated; ingested food contents,
+1156909354721804,4,5,0,4,5,clear; effusion; little change opacification; substantial loss,collapse; considerable interval increase; consolidation; fluid; mucous plugging,
+1187988654357764,10,3,0,10,3,calcified; large effusion; mild moderate edema; mildly enlarged; post cabg; post median sternotomy; relatively low; top normal; tortuous; trace effusions,atypical infection; edema; new diffuse opacities,
+1187988654972841,7,3,0,7,3,acute abnormalities; cabg; effusion; focal consolidation; normal; pneumothorax; unchanged,acute; metastases; superimposed,
+1188092353367019,6,4,1,5,3,change; hemodialysis catheter in place; low; opacifications; supervening pneumonia,hemodialysis catheter placement tip; moderate small effusions; pneumonia,atelectasis
+1188092357292244,10,5,1,9,4,atelectasis; calcified; consolidation; effusion; mild edema; mild prominence markings; overlying atelectasis; small effusions; top normal,new; pneumonia; small; stable effusion,opacity
+1192422656051681,3,1,0,3,1,acute abnormality; clear; normal,pneumonia,
+1192422656091680,6,1,0,6,1,clear; effusion; normal; normal limits; pneumothorax; unremarkable,acute process,
+1192422656990167,5,0,0,5,0,acute disease; congestion; effusion; little change; pneumonia,,
+1192422658367071,5,1,0,5,1,acute abnormalities; clear; effusion; normal; pneumothorax,acute process,
+1193411452152296,6,3,1,5,2,central catheter in place; compressive atelectasis; congestion; essentially clear; little overall change,adjacent; atelectasis improved,moderate effusion
+1207404151988570,9,3,0,9,3,calcified; degenerative changes; effusion; enlarged; focal consolidation; mild congestion; moderate; pneumothorax; single - lead aicd lead,cardiomegaly; mild; minimal edema,
+1207404152874646,10,3,0,10,3,acute abnormalities; atelectasis; crowding; edema; effusion; low; mildly enlarged; patchy opacities; pneumothorax; unremarkable,new; opacity; pneumonia,
+1207404152969052,8,1,0,8,1,clear; confluent consolidation; degenerative changes; large effusion; lead fracture; pacing device; slightly enlarged; stable,edema,
+1207404154973829,8,1,0,8,1,clear; demineralized; effusion; mild degenerative; mildly enlarged; pneumothorax; similar; unchanged,acute disease,
+1211086352268728,8,2,0,8,2,clear; clips; confluent consolidation; dual - lead pacing device; enlarged stable configuration; large effusion; median; sternotomy wires,cardiomegaly; stable scarring,
+1211086353008088,11,6,1,10,5,blunting; clips; confluent opacity; degenerative changes; dual - lead pacing device; effusion; enlarged; median sternotomy wires; new indistinctness markings; stable,airspace; chronic changes; mild congestion; small effusions; streaky opacities,atelectasis
+1211086355498995,10,4,0,10,4,blunting; dual - lead pacemaker leads; enlarged; patchy opacity; pneumonia; pneumothorax; post cabg; post median sternotomy; small effusion; stable,edema; mild congestion; overt; stable cardiomegaly,
+1212474153352013,7,1,0,7,1,acute abnormality; clips; congestion; effusion; focal consolidation; median sternotomy wires; within normal limits,acute findings,
+1213679950323020,8,2,0,8,2,focal consolidation; multiple old fractures; normal; normal limits; old fracture; pneumothorax; trace effusion unchanged; unchanged,acute process; free air,
+1213679951835810,9,3,0,9,3,chf; free air; intact; mild blunting; normal; pneumonia; pneumothorax; thickening; tiny effusion,acute; findings; stable deformity,
+1214513754100996,11,5,0,11,5,aspiration; atelectasis; central venous; central venous catheter; elevation; increased opacity; infection; patient rotated to the right; small pneumothorax; suture material; unremarkable,fiducial seeds slightly less prominent; increased lymphadenopathy; less prominent; opacity slightly less prominent; slightly more prominent,
+1218577557648356,5,3,0,5,3,acute focal pneumonia; change; dense calcified granulomas; elevated pressure; enlargement,atelectasis; chf; edema,
+1218577559200846,9,1,0,9,1,acute focal pneumonia; compressive atelectasis; effusion; elevated pressure; enlargement; granuloma; indistinctness; little overall change; opacification,consolidation,
+1230366751202805,7,3,0,7,3,atelectasis; clear; early infectious process; effusion; pneumothorax; subtle patchy opacity; unremarkable,acute abnormality; chronic changes; lymphangiomyomatosis,
+1230366752329768,6,3,0,6,3,atelectasis; effusion; infection; pneumothorax; subtle patchy opacity; unremarkable,pneumonia; stable chronic disease; superimposed,
+1230366756230969,6,2,1,5,1,acute disease; congestion; effusion; fusion device; little,diffuse abnormalities,pneumonia
+1236922150178679,9,1,0,9,1,atelectasis; congestion; dual - lead pacing device; large confluent consolidation; linear opacities; low; relatively; surgical clips; within normal limits,acute process,
+1243342155644325,4,5,0,4,5,acute abnormality; clear; small effusion; within normal limits,13 mm nodule; lesion; nodule; shadow; small hydropneumothorax,
+1243354150247294,12,3,0,12,3,acute abnormalities; atelectasis; clear; consolidation; effusion; loss; malignancy; mild rightward shift; normal; opacity unchanged; pneumothorax; unchanged,appearance; stable; superimposed acute process,
+1247519856545860,2,2,0,2,2,little change; picc line tip,picc line; small atelectasis,
+1211086359358922,11,4,1,10,3,acute abnormalities; cabg; diffusely calcified; dual - chamber; effusion; leads; median sternotomy; mild congestion; mildly tortuous; pneumothorax,fibrosis; fracture; interval,moderate cardiomegaly
+1088569657959841,7,3,0,7,3,clear; effusion; large mass; loss; marked opacification; pneumothorax; unchanged,changes; post lobectomy; superimposed acute process,
+1105227353702175,8,4,0,8,4,calcified; congestive failure; effusion; focal opacity; mildly enlarged; moderate abnormality; pneumothorax; stable,chf; mild edema; moderate cardiomegaly; small effusions,
+1121287359983953,10,4,0,10,4,chest tube; effusion; endotracheal tube; introducer catheter; opacity; orogastric tube; pneumothorax; replacement; stable; thickening,atelectasis; chest tube proper positions; endotracheal tube proper positions; swan - ganz catheter proper positions,
+1151210456889771,10,3,0,10,3,convex opacity; demineralized; effusion; indistinct; mild abnormality; mild congestion; mild degenerative changes; mild moderately enlarged; small effusion; unchanged,cardiomegaly; moderate edema; small effusions,
+1236922159986698,7,1,0,7,1,calcified; dual - lead pacemaker leads; effusion; focal consolidation; pneumothorax; relatively low; top normal,acute process,
+1093360952402828,8,2,0,8,2,acute abnormalities; effusion; engorged; infectious; normal; patchy ill - defined opacities; pneumothorax; unremarkable,improved aeration; resolving pneumonia,
+1105293555372843,8,2,0,8,2,clear; effusion; hyperinflated; minor atelectasis; normal; normal limits; pneumothorax; streaky opacity,acute process; small focal opacity,
+1189309153774431,6,2,1,5,1,calcified; mildly enlarged; moderate abnormality; small effusions; unchanged,marked,edema
+1211086355875120,13,5,2,11,3,acute abnormalities; cabg; chronic thickening; dual - chamber; focal consolidation; leads; median sternotomy; mild congestion; moderate cardiomegaly; pneumothorax; small effusions,bronchiectasis; edema; mild increase prominence,scarring; stable
+1230366754218896,4,3,0,4,3,clear; effusion; normal; pneumothorax,diffuse abnormalities progression; nodules progression; small,
+1065000155609649,6,3,0,6,3,enlarged; increased; increased opacity; new infiltrate; opacity; redistribution,effusion; mild edema; small,
+1151210451244125,10,4,0,10,4,calcified; congestion; demineralized; effusion; hyperinflated; mild - to - moderate degenerative; mild abnormality; mildly enlarged; pneumothorax; unchanged,focal consolidation; mild edema; moderate cardiomegaly; small effusion,
+1167394853339862,5,1,0,5,1,effusion; focal consolidation; intact; normal; pneumothorax,acute process,
+1086720257163975,5,5,0,5,5,diffuse abnormality; nodule; picc tip; pneumothorax; scarring,chronic fibrosis; improvement effusions; improvement opacities; new picc; stable markings,
+1105227353537165,6,4,0,6,4,clear; effusion; mildly enlarged; pneumothorax; unchanged; unremarkable,atelectasis; congestive failure; infection; patchy streaky opacity,
+1141323651644170,12,3,1,11,2,accentuated; acute abnormalities; atelectasis; crowding; edema; effusion; focal consolidation; linear opacities; pneumothorax; port - a - cath tip; unremarkable,persistently; streaky atelectasis,low
+1156909359234239,8,4,2,6,2,effusion; haze; increased infiltrate; ng tube tip; re - distribution; small effusion,orogastric tube; worsening mild - to - moderate edema,elevation; et tube
+1102224553978610,7,6,0,7,6,aligned; left picc; moderate - to - severe cardiomegaly; multifocal consolidations; pneumothorax; small effusions; tip,developing; greater atelectasis; improved small effusion; more conspicuous opacity; pneumonia; septic embolus,
+1102224558274962,6,5,0,6,5,areas of consolidation; cardiomegaly; effusions greater; mild edema; opacity; picc line tip,atelectasis; effusion; greater; infectious process; opacities,
+1129351755831566,8,3,0,8,3,focal consolidations; large effusion; mild congestion; moderately enlarged; pacemaker leads; patient rotated; pneumonia; pneumothorax,edema; mild; mild cardiomegaly,
+1189309155430447,7,5,0,7,5,atelectasis; congestive failure; mildly enlarged; more focal opacities; small effusions; unchanged; widespread mild abnormality,cardiomegaly; edema; mild; moderate; trace effusions,
+1212474152979134,9,1,0,9,1,accentuate markings; edema; effusion; focal consolidation; low; pneumothorax; port - a - cath tip; top normal; unremarkable,acute process,
+1218577555494760,7,6,1,6,5,central congestion worse; endotracheal tube; mildly enlarged; moderate edema worse; pneumothorax; small effusion,congestion; et tube; extensive patchy opacities; pneumonia; severe edema,orogastric tube
+1093360959885828,7,3,0,7,3,effusions; enlarged; increased radiodensity; loss; pneumothorax; pre - existing pneumonia; unchanged,effusion; marked improvement; small,
+1105227359032183,9,1,0,9,1,atherosclerotic calcifications; clear; focal consolidation; free air; intact; large effusion; mildly enlarged; pneumothorax; unremarkable,acute process,
+1212474157320234,9,2,0,9,2,clips stable; effusion decreased; focal consolidation; pneumothorax; port - a - cath; size; small effusion; stable; sternotomy wires stable,improvement edema; small effusions,
+1218577553930112,7,6,0,7,6,calcified granuloma stable; catheter unchanged position tip; edema; new opacity; normal; pneumothorax; small effusions unchanged,aspiration; infarction; mild enlargement unchanged; new consolidation; pneumonia; stable small effusions,
+1027414559166131,5,3,0,5,3,clear; edema; effusion; mildly engorged; moderate cardiomegaly,less opacification; mild improvement congestion; pneumonia,
+1044929756486000,4,1,0,4,1,large confluent consolidation; low; unremarkable; within normal limits,frontal,
+1088636252555178,7,2,0,7,2,clear; effusion; enlarged; normal; pacer leads; pneumothorax; well expanded,cardiomegaly; congestion,
+1093360956058164,8,3,0,8,3,anchors; diffuse abnormality; effusions; focal consolidation; mild edema; normal; pneumothorax; slightly low,aspiration; opacity; pneumonia,
+1121287353762508,7,5,0,7,5,congestion; effusion; fracture old; mild abnormality; mildly enlarged; pneumothorax; unchanged,atelectasis; ill - defined patchy opacities; infection; opacity more prominent; small effusions,
+1141323653155287,12,2,1,11,1,calcified lymph nodes; congestion; edema; focal consolidation; free air; intact; large effusion; pneumothorax; port - a - cath catheter tip; stable; sternotomy wires,acute process,low
+1141323659735304,12,2,1,11,1,calcified lymph nodes; clips; edema; intact; large effusion; low; midline sternotomy wires; mild atelectasis; pneumothorax; port - a - cath catheter tip; stable,atelectasis,pneumonia
+1156909351983905,9,5,1,8,4,atelectasis; clear; faint opacification; normal; pneumothorax; scarring; small effusion; unremarkable,effusion; extensive atelectasis; infectious; opacification,elevation
+1187988656855230,7,1,0,7,1,acute abnormality; clips; congestion; consolidation; effusion; median sternotomy wires; within normal limits,acute process,
+1189309153024166,13,2,2,11,0,effusion; engorged; midline; pacemaker unchanged dual leads; partial calcification; pneumothorax; stable; symmetrically expanded; top normal size; unremarkable; well aerated,,focal consolidation; pneumonia
+1147406550955371,4,2,0,4,2,clear; increased opacity; magnified; pneumothorax,opacities; pneumonia,
+1190622252008677,6,2,0,6,2,acute abnormality; consolidation; effusion; fractures old; hyperinflated; within normal limits,acute process; stable radiographs,
+1247519850639335,5,3,0,5,3,icd stable position; mild edema unchanged; moderate cardiomegaly unchanged; new consolidation; pneumothorax,edema; mild; moderate cardiomegaly,
+1027414553356050,10,2,0,10,2,effusion; faint opacification; multiple surgical clips; opacification; pneumonia; pneumothorax; prior surgery; sternotomy sutures midline intact; top normal; unremarkable,faint increased opacification; infectious process,
+1040237258736291,6,2,0,6,2,consolidation; effusion; hyperinflated; mild degenerative changes; normal; pneumothorax,acute change; stable,
+1093360951115198,5,2,0,5,2,effusion; extensive consolidation unchanged; normal; opacities improved; pneumothorax,moderate effusion; worsening pneumonia,
+1102224550126222,13,4,3,10,1,acute abnormalities; aspiration; large effusion; median sternotomy; mild cardiomegaly; mild congestion; pneumothorax; port - a - cath tip; replacement; unchanged,slight improvement mild edema,atelectasis; infection; patchy opacities
+1147406553907259,6,2,1,5,1,atelectasis severe; clear; drain; moderate effusion; moderately enlarged,tube,pneumothorax
+1147406558721487,7,1,0,7,1,effusion; focal consolidation; free air; intact; normal; pneumothorax; suture material,acute findings,
+1211086350751429,9,4,0,9,4,congestion; focal consolidation; large effusion; mild moderate edema worse; pacemaker leads unchanged; pneumonia; pneumothorax; stable moderate cardiomegaly; unchanged,aspiration; opacity; scaring; stable prominence,
+1052372559223989,9,1,0,9,1,clips; intact; large effusion; midline sternotomy wires; pneumonia; pneumothorax; prior pneumonia; similar pattern opacity; stable,acute process,
+1105293553884408,10,7,1,9,6,acute abnormalities; changes; emphysematous; linear opacities; loculated hydropneumothorax unchanged; normal; normal limits; opacities slightly worse; scarring,atelectasis; ill - defined opacity; infection; patchy opacity; pneumonia; slight improvement,unchanged
+1120464657940242,2,1,0,2,1,picc line tip; pneumothorax,tip,
+1189309155255832,7,2,0,7,2,focal consolidations; mild edema; pacemaker leads; pneumothorax; small effusion; stable; unremarkable,dual - chamber pacemaker; unchanged lead positions,
+1218928559956784,7,5,0,7,5,acute fractures; cabg; dialysis catheter tip; median sternotomy; moderate effusion; moderately enlarged; small effusion,atelectasis; chronic nonunion; focal consolidations; fractured misaligned median sternotomy wires; small effusions,
+1053232652195893,6,5,0,6,5,confluent opacification; mild leftward shift; moderate effusion unchanged; similar; size; unchanged,atelectasis; infection; mild edema; moderate effusion; opacity,
+1102224558402174,9,2,0,9,2,atelectasis; cannot be assessed; grossly unremarkable; intact; large effusion; low; midline sternotomy wires; picc line; pneumothorax,increasing atelectasis; mild congestion,
+1105293556129930,5,1,0,5,1,asymmetry in opacification; coarse markings; consolidation; copd; hyperexpansion,pneumonia,
+1105293557214202,9,2,0,9,2,effusion; emphysematous; focal; hyperinflated; new; normal limits; opacity; pneumothorax; severe emphysematous changes,moderate copd; pneumonia,
+1147406559083645,8,2,0,8,2,effusion; focal consolidation; free air; intact; low; mild scarring; normal; pneumothorax,edema; pneumonia,
+1154028358773579,13,4,0,13,4,aicd leads; clear; clips; congestion; edema; effusion; focal consolidation; free air; intact; mildly enlarged; normal; pneumothorax; sternotomy wires,acute; cardiomegaly; mild; superimposed process,
+1190622259697640,7,1,0,7,1,clear; deformities chronic; degenerative changes; effusions; normal; pneumothorax; vp shunt catheter,acute process,
+1241006655755138,6,2,0,6,2,clear; effusion; large hydropneumothorax substantial air component; pneumothorax; unremarkable; well expanded,maturing; pneumonectomy,
+1027414556140866,5,2,0,5,2,bypass graft surgery; clear; effusion; small effusion; stable,consolidation; pneumonia,
+1086720250482798,10,2,0,10,2,asymmetric; calcified; edema; infection; large effusion; low; opacities; pneumothorax; top - normal; tortuous,diffuse chronic disease; new focal consolidation,
+1093360959243134,5,5,0,5,5,effusion; faint opacification; mild prominence markings; pneumothorax; unremarkable,chronic changes; consolidation; low; new focal opacities; old pneumonia,
+1102224555490259,7,1,0,7,1,atelectasis; endotracheal tube; large effusion; low; normal; picc; pneumothorax,increasing atelectasis,
+1141323655420069,9,1,0,9,1,calcified; clear; consolidation; effusion; focal consolidation; median sternotomy wires intact; pneumothorax; port - a - cath; unchanged,acute process,
+1141323656921446,8,3,1,7,2,atelectasis; calcified nodes; effusion; linear opacities; port catheter tip; unremarkable; within normal limits,acute process; free air,low
+1147406556451222,7,1,0,7,1,large effusion; mild atelectasis; mildly enlarged; multiple old healed fractures; new focal consolidation; pneumothorax; tortuous,interval change,
+1188092350969842,8,4,0,8,4,clear; drainage tube; dual - channel central venous catheter; et tube standard placement; moderate effusion; normal; pneumothorax; substantially atelectatic,congestion; mucous plugging; progressive loss; unchanged effusion,
+1214513754833205,11,3,0,11,3,acute fractures; atelectasis; catheters; clear; consolidation; effusion; normal; pneumothorax; post - surgical; surgical clips; suture material,acute process; infection; malignancy,
+1234073751192088,7,1,0,7,1,degenerative changes; effusion; focal consolidation; low; mildly enlarged; pneumothorax; unremarkable,opacity,
+1095905459281953,7,4,0,7,4,clear; effusion; focal consolidation; pneumothorax; top normal; well expanded; within normal limits,improvement atelectasis; layering; mild; moderate effusion,
+1102224551656138,8,5,0,8,5,catheter unchanged; dense opacity; et tube unchanged; greater; increased infiltrate; ng tube unchanged; small effusions; tiny pneumothorax,decreased edema; lines standard position; opacities more prominent; pneumonia; tubes standard position,
+1188092355238105,7,2,0,7,2,atelectasis unchanged; line; ng tube; pigtail; pneumothorax; remaining catheter; small - to - moderate effusion unchanged,atelectasis; mild effusion,
+1218577556614076,11,1,0,11,1,decreased; decreased in severity; edema; increased; mild - to - moderate edema; pre - existing effusion decreased in extent; severity; slightly; unchanged atelectasis; unchanged moderate cardiomegaly; ventilation,mild increase edema,
+1230366753999109,8,3,0,8,3,effusion; hardware; low; mild atelectasis; mild congestion; normal; pneumonia; pneumothorax,acute; chronic changes; process,
+1247519858387960,8,3,0,8,3,cabg; clear; effusion; enlarged unchanged; pneumothorax; stable atelectasis; temporary pacemaker in place tip; wires,acute process; lead appropriate position; temporary pacemaker,
+1027414558307391,7,1,0,7,1,effusion; focal consolidation; intact; pneumothorax; post cabg; post median sternotomy; unchanged,acute process,
+1088569652654095,9,0,0,9,0,acute changes; atelectatic; change; pre - existing opacity; pre - existing opacity unchanged; size; unchanged; unchanged extent; unchanged tracheostomy tube position,,
+1088569656443683,8,2,1,7,1,atelectasis; cavitary lesion; effusion; new opacity; normal; persistent opacity; pneumothorax,small effusion,pneumonia
+1120464657844625,8,0,0,8,0,atelectasis; better ventilated; course tube unremarkable; monitoring support devices constant; pneumothorax; tip not included in the image; tube; unchanged moderate effusion,,
+1218577553349756,8,0,0,8,0,atelectasis; clear; mild; pneumothorax; small; stable cardiomegaly; stable effusion; stable opacity,,
+1218577554133721,7,2,0,7,2,congestion; effusion; focal opacification; low; pneumonia; pneumothorax; unremarkable,effusions; small,
+1026887754103072,8,3,0,8,3,clear; effusion; endotracheal tube; feeding tube; improvement edema; line; pneumothorax; unchanged,atelectasis; mild chronic congestive failure; trace edema,
+1071547759170987,10,4,0,10,4,catheter; effusion; endotracheal; endotracheal tube; enlarged; enteric tube tip not included in this examination; focal consolidation; mild congestion; mild edema; pneumothorax,acute; congestive; failure; mild,
+1105293550367895,5,1,0,5,1,acute abnormality; clear; new opacity obscuring; new region consolidation; within normal limits,pneumonia,
+1141323655277653,9,1,0,9,1,atelectasis; clear; clips; effusion; linear opacity; median sternotomy wires; port catheter tip; scarring; within normal limits,acute process,
+1192869254164323,6,3,0,6,3,effusion; focal consolidation; mild cardiomegaly; mild congestion; pacemaker leads; pneumothorax,cardiogenic; mild edema; moderate cardiomegaly,
+1218577553923012,6,2,0,6,2,calcified granulomas; clear; increased opacification silhouetting; pneumothorax; small effusions; stable,improved asymmetric edema; stable small moderate effusion,
+1218577556043671,11,1,0,11,1,acute abnormalities; atelectasis; calcified granulomas; diffusely calcified; effusion; mild congestion; mildly enlarged; patchy opacities; picc tip; pneumothorax; unremarkable,picc,
+1247519858466988,6,3,0,6,3,effusion; focal consolidation; icd; lead; pneumothorax; stable moderate cardiomegaly,acute process; mild cardiomegaly; temporary pacemaker appropriate position,
+1026887759301985,7,4,0,7,4,clear; enlarged unchanged; large hazy opacity overlying; layering effusion; peg tube; pneumothorax; tracheostomy tube appropriate position,artifact; atelectasis; hazy opacity; infectious,
+1101693551683155,8,1,0,8,1,clear; effusion; focal consolidation; median sternotomy wires intact well aligned; pneumothorax; replacement; unremarkable; vertebroplasty,acute process,
+1141323653994053,12,3,1,11,2,calcified lymph nodes; edema; grossly unremarkable; intact; large effusion; low; midline; mild atelectasis; pneumothorax; port - a - cath catheter tip; sternotomy wires,atelectasis; mild opacities,pneumonia
+1141323658006032,9,1,0,9,1,atelectasis; effusion; focal consolidation; median sternotomy; pneumothorax; port - a - cath; relatively low; scarring; stable,acute process,
+1141323658971300,5,1,0,5,1,effusion; focal consolidation; normal; pneumothorax; port - a - cath,acute disease,
+1147406559155076,11,5,1,10,4,calcified lymph nodes; changes; congestion; mild edema; moderate effusion unchanged; normal; pneumothorax; post - surgical; slightly low; top normal,improved mild edema; loculated; loculated effusion stable; thickening stable,effusion
+1188092357045176,4,2,1,3,1,clear; normal; pneumothorax,tiny,effusion
+1218577554211038,6,5,0,6,5,diffuse opacities predominantly worsened; edema; endotracheal tube appropriate; mildly enlarged; pneumothorax; small effusions,appropriately; et; moderate edema; placed; tube,
+1141323651499550,12,3,2,10,1,calcified lymph nodes; cannot be assessed; clips; edema; grossly unremarkable; intact; large effusion; midline sternotomy wires; pneumothorax; port - a - cath catheter tip,superimposed pneumonia,atelectasis; low
+1192869253222889,8,2,0,8,2,congestion; dual lead pacemaker tips; effusion; focal consolidation; low; normal; overt edema; pneumothorax,clear; consolidation,
+1218577553462705,6,4,1,5,3,calcified granulomas unchanged; focal consolidation; moderate cardiomegaly unchanged; pneumothorax; well expanded,cardiomyopathy; effusions; enlarged,effusion
+1075418456625924,8,4,1,7,3,clear; consolidation; edema; effusion; normal; pacemaker leads; pneumothorax,change; mild cardiomegaly stable; pneumonia,small effusion
+1105293551137224,11,3,1,10,2,congestion; early infection; emphysema; hyperexpanded; increased density; large effusion; mild flattening; normal; pneumothorax; small eventration,dependent atelectasis; opacity,atelectasis
+1141323659798652,10,4,1,9,3,accentuation; cholecystectomy clips; effusions; exaggeration; low; mild cardiomegaly changed; pneumothorax; port - a - cath changed; unchanged,infection; opacity; small effusion,atelectasis
+1147406556896759,7,3,0,7,3,acute abnormalities; effusion; focal consolidation; mild congestion; normal limits; pneumothorax; within,aspiration; increase in opacity nonspecific; infection,
+1053232651742525,6,2,0,6,2,atelectasis; effusion; low; ng tube side port; pneumothorax; unchanged,nasogastric tube adequate position; resolution distention,
+1102224552391187,7,2,0,7,2,increased opacity; low; median sternotomy wires intact; opacity improved; pneumothorax; port - a - cath; similar,change opacity; opacity,
+1141323653410264,8,1,0,8,1,clear; consolidation; effusion; pneumothorax; port - a - cath; surgical clips; unremarkable; wires intact,acute abnormality,
+1156909351887095,7,2,0,7,2,atelectasis; effusion; elevation; pneumothorax; support devices unchanged positions; unchanged; worsening edema moderate,radiograph; stable,
+1160762850790949,8,4,2,6,2,catheter; effusion; enteric tube tip; moderate effusion unchanged; pneumothorax; unchanged,mild cardiomegaly; moderate greater effusions,edema; endotracheal tube
+1041064159980986,5,6,0,5,6,clear; moderate pneumothorax smaller; nodular opacity; pigtails; small effusion,mild; mild rightward shift; moderate; moderate effusion; new pneumothorax; stable pneumothorax,
+1129351757001251,8,2,0,8,2,cardiomegaly; effusions; focal consolidation; mild edema; over expected locations; pneumothoraces; prominence; triple - lead pacemaker tips,atelectasis; new opacities,
+1192869255947318,6,8,1,5,7,effusion; focal consolidation; mild congestion; pacemaker leads; stable,acute; acute pneumonia; atelectasis; linear atelectasis; mild cardiomegaly; mild edema; pneumonia,pneumothorax
+1207404156502688,4,7,0,4,7,increased edema; mildly enlarged; opacities increased; pneumothorax,aspiration; atelectasis; new mild edema; opacities; pneumonia; small effusion; stable mild cardiomegaly,
+1105293553792271,5,4,0,5,4,edema; effusion; pneumothorax; stable; stable scarring,pneumonia; residual opacity; scarring; stellate,
+1137815055092691,7,2,0,7,2,effusion; focal consolidation; pneumothorax; post - surgical changes; sternotomy wires intact; unremarkable; well expanded,lobectomy; stable loss,
+1137815055743226,9,2,1,8,1,copd; effusion; flattening; focal consolidation; mild cardiomegaly; pneumonia; stable hyperinflation; stable scarring,large mass,pneumothorax
+1156909356084617,6,1,0,6,1,clear; effusion; moderate - sized pneumothorax; opacity unchanged; tube unchanged position; unchanged,unchanged pneumothorax,
+1188092356440140,7,6,0,7,6,central catheter tip; effusion; effusion size; endotracheal tube; minimally decreased; normal; pneumothorax,atelectasis; consolidation; endotracheal tube appropriately positioned; improvement decompensated congestive failure; persistent opacity; side port,
+1207404153353190,7,4,0,7,4,atelectasis; moderate cardiomegaly unchanged; moderate edema unchanged; moderate effusion; opacity; pneumothorax; tube unchanged position,consolidation; edema improving; opacification; pneumonia,
+1026887757765703,9,5,2,7,3,asymmetric edema; increased opacity; low; pneumothorax; stable; tracheostomy tube; unchanged,consolidation; improved edema; unchanged opacities,atelectasis; pneumonia
+1088569652937462,8,3,1,7,2,focal consolidation; free air; lobectomy chain sutures; normal; pneumothorax; small effusion; volume loss,atelectasis; opacity,loss
+1088636254849848,10,5,1,9,4,effusion obliterates blunts; intubated; line; permanent pacer; row wires unchanged; sternotomy; two electrodes one; unaltered; unchanged,balloon pump device in place; changes; chf; postoperative status,effusion
+1093360950290463,11,4,0,11,4,effusion; filter; hypoinflated; more confluent; more confluent opacity; normal; opacity; pneumothorax; reticular opacities; small free air; unremarkable,chronic disease; improving consolidation; mild failure; sarcoidosis,
+1121361355481818,6,3,0,6,3,acute abnormalities; clear; edema; effusion; focal consolidation; within normal limits,atelectasis; emphysema; pneumonia,
+1075418454594848,10,3,0,10,3,atelectasis; copd; hyperinflated; large effusion; new focal opacity; normal; pacemaker leads; pneumonia; pneumothorax; upper,infectious processes; new multifocal opacities; organizing pneumonia,
+1095905450128467,5,2,1,4,1,consolidation; edema; normal; small effusion,little change subpulmonic effusion,pneumothorax
+1095905453881360,12,4,0,12,4,aspiration; atelectasis; consolidation; effusion; infection; overlying opacity; patchy opacity; persistent blunting; pneumothorax; relatively low; small effusions; stable,increased effusion; increased opacity; infectious; overlying atelectasis,
+1041064156031350,4,2,0,4,2,clear; moderate small effusions; pneumothorax; unchanged,increasing effusion; stable large effusion,
+1147406556570382,0,0,0,0,0,,,
+1156904257778607,8,1,0,8,1,clear; consolidation; effusion; focal; large hiatal hernia; ng tube; pneumothorax; unchanged,dilated,
+1075418456348027,8,2,0,8,2,acute abnormalities; clear; dual lead pacing device; edema; effusion; focal consolidation; moderate cardiomegaly; tortuosity,acute process; cardiomegaly,
+1093360955438657,6,5,0,6,5,effusion; infiltrates; multifocal pneumonia; pneumothorax; unremarkable; well - expanded,infection; inflammation; organizing pneumonia; persistent consolidations; post - pneumonic fibrosis,
+1147406557174042,11,3,1,10,2,calcium deposits; congested; local thickening; local thickenings regressed; multiple old fractures; new abnormalities; normal limits; ordinary; typical configurational abnormality; unchanged,new acute infiltrates; stable post - operative findings,pneumothorax
+1160762852356321,9,6,0,9,6,clear; congestion; large effusion; low; pneumothorax; single - lead pacer intact lead; stable moderate cardiomegaly; trace effusions; within normal limits,cardiomegaly; configuration; effusion; plate - like atelectasis; trace effusion; trace effusion unchanged,
+1040237250879902,7,1,1,6,0,edema; effusions; nasogastric tube unchanged position; newly opacity; opacity ill - defined multiple air bronchograms; unchanged,,pneumonia
+1105293551882937,9,3,0,9,3,atelectasis; effusion; focal opacity; hyperinflated; linear atelectasis; normal; pneumonia; pneumothorax; unremarkable,copd; early pneumonia; scarring,
+1243354154729238,5,6,1,4,5,normal; opacity new; pneumothorax; small effusions,large mass; post - obstructive pneumonia; radiation fibrosis; small effusion; thickening,new opacity
+1086720251723789,9,5,0,9,5,atherosclerotic calcifications; edema; enlarged; increased opacity; infection; large effusion; low; pneumothorax; worsening disease,chronic severe disease; increased; mild edema; minimally; opacification,
+1192422650241018,6,3,1,5,2,clear; normal limits; pneumothorax; unremarkable; well expanded,normal radiograph; pneumonia,effusion
+1156909359413372,7,2,0,7,2,clear; emphysema; intact; moderate - sized pneumothorax unchanged size; normal limits; stable; stable effusion,radiograph; unchanged,
+1156580358056251,8,2,1,7,1,congestive; density unchanged; drainage tube; line unchanged position; new abnormalities; partial obliteration unchanged; unchanged,tube,pneumothorax
+1093360957629869,5,1,0,5,1,acute abnormality; effusion; normal; patchy opacities lesser; pneumothorax,acute process,
+1187988653021526,8,5,1,7,4,clips; large mass; mild edema; pneumothorax; pseudoaneurysm; unremarkable; well expanded,cardiomegaly; congestion; increased markings; new mass,effusion
+1043978156140154,6,1,0,6,1,abnormality unchanged; edema; emphysema; normal; port - a - cath; stable moderate cardiomegaly,improved mild - to - moderate edema,
+1230366758981887,6,2,0,6,2,diffuse opacities non - specific; effusion; focal consolidation; pneumothorax; unremarkable; well expanded,acute process; chronic changes,
+1141323651943964,7,2,0,7,2,acute abnormalities; atelectasis; calcified lymph nodes; low; opacities; port; stable,edema; pneumonia,
+1147406552522246,9,4,0,9,4,atelectasis; consolidation; effusion; extensive emphysema; limits assessment; patchy opacities; picc tip; pneumothorax; tracheobronchomalacia stent placement,pneumomediastinum; rupture; small pneumothoraces; stent placement,
+1129351755101140,8,2,0,8,2,effusion; focal opacities; icd leads appropriate position; mild congestion; moderate cardiomegaly unchanged; pacer leads appropriate position; pneumothorax; well expanded,congestion; mild,
+1141323657361873,11,3,1,10,2,acute abnormalities; calcified nodes; cholecystectomy; congestion; large effusion; linear opacities; normal limits; port; surgical clips; within,appearance; low,atelectasis
+1193411457363067,5,3,0,5,3,atelectasis similar to prior; moderate small effusions similar to prior; moderately enlarged similar to prior; pneumothorax; radiopaque foreign body,fractures; mild - to - moderate edema; small - to - moderate effusions,
+1004616650051329,8,1,0,8,1,clips; crowding; effusion; focal opacities; low; pneumothorax; sternotomy wires intact; unremarkable,acute process,
+1004616653492798,12,1,0,12,1,1 . 6 cm nodular opacity stable new; clear; effusion; engorged; focal consolidation; moderately calcified; multilevel degenerative changes; multiple intact wires; normal; normal limits; pneumothorax; status post median sternotomy,acute process,
+1026887753452091,8,6,1,7,5,increased opacity; layering effusion; low; opacity unchanged; pneumothorax; tracheostomy tube unchanged position; unchanged,aspiration; effusion; hazy opacity; hemorrhage; mild edema,displaced fractures
+1218577553295276,7,2,0,7,2,calcified granuloma unchanged; clear; consolidation; effusion; focal consolidation; pneumothorax; unremarkable,abnormalities; acute,
+1218577550953777,11,1,1,10,0,calcified granulomas; congested; free; old granulomatous infections; other abnormalities; pneumothorax; prominence; typical configurational abnormality; unremarkable; upper limit normal variation,,new acute infiltrates
+1147406554696391,7,3,0,7,3,clear; edema; increased opacity; layering effusion; pneumothorax; tube; unchanged,diffusely increased hazy opacification; minimal worsening atelectasis; minimal worsening effusion,
+1218577557024984,8,4,1,7,3,effusion; endotracheal tube; focal opacity; mild edema; picc; pneumothorax; stable,edema; indistinctness; new opacities,pneumonia
+1218577557910301,8,4,1,7,3,atelectasis increased; calcified granulomata; moderate cardiomegaly stable; moderate effusion increased; pneumothorax; right picc; tip,increased small effusion; moderate cardiomegaly; stable,edema

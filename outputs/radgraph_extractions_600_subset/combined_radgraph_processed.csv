@@ -1,0 +1,1164 @@
+case_id,source_type,observation,located_at,suggestive_of,tags
+1004616657379357,generated,wire fractured,,,definitely present
+1004616657379357,generated,normal,heart size,,definitely present
+1004616657379357,generated,unremarkable,mediastinal and hilar contours,,definitely present
+1004616657379357,generated,normal,pulmonary vasculature,,definitely present
+1004616657379357,generated,calcified granuloma,right lower lobe,,definitely present
+1004616657379357,generated,clear,,,definitely present
+1004616657379357,generated,effusion,pleural,,definitely absent
+1004616657379357,generated,pneumothorax,,,definitely absent
+1004616657379357,generated,acute abnormalities,osseous,,definitely absent
+1026887750239281,generated,tracheostomy tube,,,definitely present
+1026887750239281,generated,picc,left - sided; proximal svc,,definitely present
+1026887750239281,generated,enlargement,cardiac silhouette,,definitely present
+1026887750239281,generated,mild congestion,pulmonary vascular,,definitely present
+1026887750239281,generated,linear atelectasis,left mid lung,,definitely present
+1026887750239281,generated,scarring,left mid lung,,definitely present
+1026887750239281,generated,slight increase opacity,right lung base,opacity suggestive of atelectasis; opacity suggestive of consolidation,definitely present
+1026887750239281,generated,atelectasis,,,uncertain
+1026887750239281,generated,consolidation,,,uncertain
+1026887750239281,generated,large effusion,pleural,,definitely absent
+1026887750239281,generated,pneumothorax,,,definitely absent
+1026887751513702,generated,enlarged,cardiac silhouette,,definitely present
+1026887751513702,generated,calcified,knob,,definitely present
+1026887751513702,generated,relatively low,lung volumes,,definitely present
+1026887751513702,generated,focal consolidation,,,definitely absent
+1026887751513702,generated,large effusion,pleural,,definitely absent
+1026887751513702,generated,pneumothorax,,,definitely absent
+1026887751513702,generated,edema,pulmonary,,definitely absent
+1026887754137212,generated,tracheostomy tube,,,definitely present
+1026887754137212,generated,opacities,bibasilar,,definitely present
+1026887754137212,generated,blunting,,blunting suggestive of effusion,definitely present
+1026887754137212,generated,effusion,,,uncertain
+1026887754137212,generated,slightly enlarged,,,definitely present
+1026887754137212,generated,atherosclerotic calcifications,arch,,definitely present
+1026887757976739,generated,monitoring support devices in place,,,definitely present
+1026887757976739,generated,patient slightly inspiration,,,definitely present
+1026887757976739,generated,better,inspiration,,definitely present
+1026887757976739,generated,enlargement,cardiac silhouette,,definitely present
+1026887757976739,generated,congestion,pulmonary vascular,,definitely present
+1026887757976739,generated,supervening pneumonia,left base,,uncertain
+1040237251966612,generated,hyperinflated,lungs,,definitely present
+1040237251966612,generated,focal consolidation,,,definitely absent
+1040237251966612,generated,effusion,,,definitely absent
+1040237251966612,generated,pneumothorax,,,definitely absent
+1040237251966612,generated,normal,cardiomediastinal silhouette,,definitely present
+1040237251966612,generated,intact,bony structures,,definitely present
+1040237251966612,generated,free air,below right hemidiaphragm,,definitely absent
+1040237256446284,generated,change,,,definitely present
+1040237256446284,generated,hyperexpansion,lungs,,definitely present
+1040237256446284,generated,increased opacification,bases,,definitely present
+1040237256446284,generated,atelectasis,,,uncertain
+1040237256446284,generated,multifocal pneumonia,,,uncertain
+1040237259239338,generated,hyperexpanded,lungs,,definitely present
+1040237259239338,generated,new area increased opacity,right lower lobe,opacity suggestive of aspiration,definitely present
+1040237259239338,generated,aspiration,,,uncertain
+1040237259239338,generated,pneumonia,,,uncertain
+1040237259239338,generated,unremarkable,cardiomediastinal contours; hilar contours,,definitely present
+1040237259239338,generated,pneumothorax,,,definitely absent
+1040237259239338,generated,effusion,pleural,,definitely absent
+1041064153850317,generated,large effusion,right - sided pleural,,definitely present
+1041064153850317,generated,mild congestion,pulmonary vascular,,definitely present
+1041064153850317,generated,small effusion,left - sided pleural,,definitely present
+1041064153850317,generated,pneumothorax,,,definitely absent
+1041064153850317,generated,unchanged,cardiomediastinal silhouette,,definitely present
+1041064156839020,generated,large effusions greater,bilateral pleural left right,,definitely present
+1041064156839020,generated,clear,upper lung zones,,definitely present
+1041064156839020,generated,effusions,pleural,,definitely present
+1041064156839020,generated,pneumothorax,,,definitely absent
+1043978150501762,generated,picc tip,right,,definitely present
+1043978150501762,generated,port catheter tip,left chest wall,,definitely present
+1043978150501762,generated,increased markings similar to prior,interstitial; lungs,,definitely present
+1043978150501762,generated,confluent consolidation,,,definitely absent
+1043978150501762,generated,effusion,,,definitely absent
+1043978150501762,generated,enlarged stable,cardiac silhouette,,definitely present
+1043978150501762,generated,vertebroplasty,lower thoracic; upper lumbar,,definitely present
+1043978151129150,generated,low,,,definitely present
+1043978151129150,generated,upper limits normal,cardiac silhouette size,,definitely present
+1043978151129150,generated,engorgement,,engorgement suggestive of pressure,definitely present
+1043978151129150,generated,indistinct,pulmonary vessels,,definitely present
+1043978151129150,generated,elevated pressure,pulmonary venous,,definitely present
+1043978151129150,generated,supervening pneumonia,,,uncertain
+1043978151129150,generated,port - a - cath in place,,,definitely present
+1043978155725911,generated,little overall change,,,definitely present
+1043978155725911,generated,enlargement,cardiac silhouette,,definitely present
+1043978155725911,generated,congestion,pulmonary vascular,,definitely present
+1043978155725911,generated,supervening pneumonia,,,uncertain
+1043978155725911,generated,catheter,left subclavian; right atrium,,definitely present
+1043978155811525,generated,port - a - cath,left - sided,,definitely present
+1043978155811525,generated,diffuse increased,,,definitely present
+1043978155811525,generated,increased markings,,,definitely present
+1043978155811525,generated,chronic,,,uncertain
+1043978155811525,generated,edema,interstitial,,uncertain
+1043978155811525,generated,effusion,pleural,,definitely absent
+1043978155811525,generated,pneumothorax,,,definitely absent
+1043978155811525,generated,stable,cardiac silhouettes; cardiac and mediastinal silhouettes,,definitely present
+1043978155811525,generated,compression deformity,,,definitely present
+1043978155811525,generated,deformity,lower thoracic vertebral body,,definitely present
+1043978155811525,generated,indeterminate age age indeterminate,,,uncertain
+1043978155811525,generated,vertebroplasty,lower thoracic spine,,definitely present
+1043978156498272,generated,port - a - cath tip,left - sided,,definitely present
+1043978156498272,generated,mildly enlarged,heart,,definitely present
+1043978156498272,generated,diffusely calcified,aorta,,definitely present
+1043978156498272,generated,unchanged,mediastinal and hilar contours,,definitely present
+1043978156498272,generated,mild edema new,interstitial,,definitely present
+1043978156498272,generated,effusion,pleural,,definitely absent
+1043978156498272,generated,pneumothorax,,,definitely absent
+1043978156498272,generated,acute abnormalities,osseous,,definitely absent
+1043978156498272,generated,unchanged,,,definitely present
+1043978156498272,generated,vertebroplasty changes,lower thoracic spine,,definitely present
+1043978156925922,generated,port - a - cath catheter tip,left chest wall,,definitely present
+1043978156925922,generated,diffuse edema,interstitial,,definitely present
+1043978156925922,generated,mild cardiomegaly,,,definitely present
+1043978156925922,generated,large,,,definitely absent
+1043978156925922,generated,effusion,,,definitely absent
+1043978156925922,generated,pneumothorax,,,definitely absent
+1043978156925922,generated,vertebroplasty changes,upper lumbar spine,,definitely present
+1044929752837403,generated,elevation,right hemidiaphragm,,definitely present
+1044929752837403,generated,clear,lungs,,definitely present
+1044929752837403,generated,focal consolidation,lungs,,definitely absent
+1044929752837403,generated,effusion,lungs,,definitely absent
+1044929752837403,generated,normal limits,cardiomediastinal silhouette,,definitely present
+1044929752837403,generated,atherosclerotic calcifications,aortic arch,,definitely present
+1044929752837403,generated,acute abnormality,osseous,,definitely absent
+1044929754773340,generated,lower,lung volumes,,definitely present
+1044929754773340,generated,secondary crowding,bronchovascular markings,,definitely present
+1044929754773340,generated,confluent consolidation,,,definitely absent
+1044929754773340,generated,effusion,,,definitely absent
+1044929754773340,generated,unchanged,cardiomediastinal silhouette,,definitely present
+1044929754773340,generated,acute abnormality,osseous,,definitely absent
+1052372556078456,generated,post median sternotomy,,,definitely present
+1052372556078456,generated,post cabg,,,definitely present
+1052372556078456,generated,mildly enlarged,cardiac silhouette,,definitely present
+1052372556078456,generated,calcified,aorta,,definitely present
+1052372556078456,generated,tortuous,aorta,,definitely present
+1052372556078456,generated,mild engorgement,central pulmonary vascular,,definitely present
+1052372556078456,generated,focal consolidation,,,definitely absent
+1052372556078456,generated,effusion,pleural,,definitely absent
+1052372556078456,generated,pneumothorax,,,definitely absent
+1052372556078456,generated,degenerative changes along,spine,,definitely present
+1071547752467293,generated,moderate severely enlarged,heart,,definitely present
+1071547752467293,generated,tortuous,aorta,,definitely present
+1071547752467293,generated,diffusely calcified,aorta,,definitely present
+1071547752467293,generated,unchanged,mediastinal and hilar contours,,definitely present
+1071547752467293,generated,congestion,pulmonary vascular,,definitely absent
+1071547752467293,generated,focal consolidation,,,definitely absent
+1071547752467293,generated,effusion,pleural,,definitely absent
+1071547752467293,generated,pneumothorax,,,definitely absent
+1071547752467293,generated,scarring,lung apices,,definitely present
+1071547752467293,generated,acute abnormalities,osseous,,definitely absent
+1086720251707133,generated,diffusely increased markings,interstitial; throughout lungs bilaterally,,definitely present
+1086720251707133,generated,large effusion,,,definitely absent
+1086720251707133,generated,difficult to assess,cardiomediastinal silhouette,,definitely present
+1086720251707133,generated,diffuse opacities,interstitial,opacities suggestive of difficult to assess,definitely present
+1086720251707133,generated,acute abnormality,osseous,,definitely absent
+1086720253652133,generated,extremely low,lung volumes,,definitely present
+1086720253652133,generated,diffuse opacities,bilateral parenchymal,opacities suggestive of edema; opacities suggestive of infection,definitely present
+1086720253652133,generated,edema,pulmonary,,uncertain
+1086720253652133,generated,infection,,,uncertain
+1086720253652133,generated,unchanged,cardiomediastinal silhouette,,definitely present
+1086720253652133,generated,acute abnormality,osseous,,definitely absent
+1086720257761141,generated,similar pattern fibrosis,pulmonary,,definitely present
+1086720257761141,generated,superimposed consolidation,,,definitely absent
+1086720257761141,generated,effusion,,,definitely absent
+1086720257761141,generated,pneumothorax,,,definitely absent
+1086720257761141,generated,grossly stable,cardiomediastinal silhouette,,definitely present
+1086720257761141,generated,acute abnormalities,bony,,definitely absent
+1086720259071382,generated,relatively low,,,definitely present
+1086720259071382,generated,diffuse increase markings,interstitial bilaterally,markings suggestive of disease,definitely present
+1086720259071382,generated,chronic disease,lung,,uncertain
+1086720259071382,generated,acute component,,,uncertain
+1086720259071382,generated,effusion,pleural,,definitely absent
+1086720259071382,generated,pneumothorax,,,definitely absent
+1086720259071382,generated,stable,cardiac silhouettes; mediastinal silhouettes,,definitely present
+1086720259535316,generated,low,lung volumes,,definitely present
+1086720259535316,generated,increased markings,interstitial; lungs,markings suggestive of process,definitely present
+1086720259535316,generated,chronic underlying process,interstitial,,uncertain
+1086720259535316,generated,large confluent consolidation,,,definitely absent
+1086720259535316,generated,difficult to assess,cardiomediastinal silhouette,,definitely present
+1086720259535316,generated,low,lung volumes,,definitely present
+1086720259535316,generated,acute abnormality,osseous,,definitely absent
+1088569659532499,generated,normal,heart size,,definitely present
+1088569659532499,generated,mildly tortuous,aorta,,definitely present
+1088569659532499,generated,calcification,aortic knob,,definitely present
+1088569659532499,generated,new consolidation,right lower lobe,,definitely present
+1088569659532499,generated,small effusion,pleural,,definitely present
+1088569659532499,generated,new consolidation,left perihilar,,definitely present
+1088569659532499,generated,small effusion,left pleural,,definitely present
+1088569659532499,generated,pneumothorax,,,definitely absent
+1088636256034024,generated,monitoring support devices in place,,,definitely present
+1088636256034024,generated,enlargement,cardiac silhouette,,definitely present
+1088636256034024,generated,effusions,bilateral pleural,,definitely present
+1088636256034024,generated,compressive atelectasis,bases,,definitely present
+1088636256034024,generated,elevation pressure,pulmonary venous,,definitely present
+1093360950205123,generated,patchy regions consolidation notably,lungs bilaterally,,definitely present
+1093360950205123,generated,blunting,angle,blunting suggestive of atelectasis; blunting suggestive of effusion,definitely present
+1093360950205123,generated,atelectasis,,,uncertain
+1093360950205123,generated,small effusion,,,uncertain
+1093360950205123,generated,normal limits,cardiomediastinal silhouette,,definitely present
+1093360950205123,generated,surgical,,,definitely present
+1093360950205123,generated,anchor,head,,definitely present
+1093360950205123,generated,surgical clips,left upper quadrant,,definitely present
+1093360950289849,generated,improvement edema,pulmonary,,definitely present
+1093360950289849,generated,residual mild edema,,,definitely present
+1093360950289849,generated,slight improvement atelectasis,basal,,definitely present
+1093360950289849,generated,large effusions,pleural,,definitely absent
+1093360950289849,generated,pneumothorax,,,definitely absent
+1093360950289849,generated,edema,pulmonary,,definitely present
+1093360950289849,generated,grossly stable,,,definitely present
+1093360950289849,generated,normal,mediastinal contour,,definitely present
+1093360950289849,generated,intact,bony structures,,definitely present
+1093360950636786,generated,endotracheal tube tip,,,definitely present
+1093360950636786,generated,enteric tube tip,,,definitely present
+1093360950636786,generated,low,lung volumes,,definitely present
+1093360950636786,generated,patchy regions consolidation notably,lungs,,definitely present
+1093360950636786,generated,normal limits,cardiomediastinal silhouette,,definitely present
+1093360950636786,generated,surgical clips,midline upper abdomen,,definitely present
+1093360950636786,generated,acute abnormalities,osseous,,definitely absent
+1093360951002383,generated,normal,heart size,,definitely present
+1093360951002383,generated,unremarkable,mediastinal contours; hilar contours,,definitely present
+1093360951002383,generated,normal,pulmonary vasculature,,definitely present
+1093360951002383,generated,patchy opacities,upper lobes right left,Patchy opacities suggestive of pneumonia,definitely present
+1093360951002383,generated,pneumonia,,,uncertain
+1093360951002383,generated,effusion,pleural,,definitely absent
+1093360951002383,generated,pneumothorax,,,definitely absent
+1093360951002383,generated,acute abnormalities,osseous,,definitely absent
+1093360951002383,generated,clips,left upper quadrant abdomen,,definitely present
+1093360951816597,generated,new catheter,uppermost part atrium,,definitely present
+1093360951816597,generated,pneumothorax,,,definitely absent
+1093360951816597,generated,low,lung volumes,,definitely present
+1093360951816597,generated,unchanged,cardiac contours; mediastinal contours; hilar contours,,definitely present
+1093360951816597,generated,improved congestion,pulmonary vascular,,definitely present
+1093360951816597,generated,focal new opacity nonspecific,right upper lobe,opacity suggestive of pneumonia,definitely present
+1093360951816597,generated,pneumonia,,,uncertain
+1093360951816597,generated,effusion,pleural,,definitely absent
+1093360952624179,generated,relatively low,lung volumes,,definitely present
+1093360952624179,generated,prominence,left hilum,,definitely present
+1093360952624179,generated,prominence,right paratracheal stripe,,definitely present
+1093360952624179,generated,indistinctness,right hilum,,definitely absent
+1093360952624179,generated,findings,,Findings suggestive of lymphadenopathy,definitely present
+1093360952624179,generated,lymphadenopathy,,,definitely present
+1093360952624179,generated,patchy opacity,right upper lobe,,definitely present
+1093360952624179,generated,effusion,pleural,,definitely absent
+1093360952624179,generated,pneumothorax,,,definitely absent
+1093360952624179,generated,enlarged,cardiac silhouette,,definitely absent
+1093360952624179,generated,surgical clips,left upper quadrant,,definitely present
+1093360952624179,generated,hardware,right humerus,,definitely present
+1093360952935265,generated,normal,heart size,,definitely present
+1093360952935265,generated,unchanged,mediastinal and hilar contours,,definitely present
+1093360952935265,generated,ill - defined opacities unchanged,upper lobes,,definitely present
+1093360952935265,generated,streaky,,,definitely present
+1093360952935265,generated,streaky opacities,,,definitely present
+1093360952935265,generated,unchanged,,,definitely present
+1093360952935265,generated,focal consolidation,,,definitely absent
+1093360952935265,generated,effusion,pleural,,definitely absent
+1093360952935265,generated,pneumothorax,,,definitely absent
+1093360952935265,generated,acute abnormalities,osseous,,definitely absent
+1093360953512860,generated,low,lung volumes,,definitely present
+1093360953512860,generated,ij catheter,left,,definitely present
+1093360953512860,generated,opacifications decreasing,bilateral upper lobe,opacifications suggestive of pneumonia,definitely present
+1093360953512860,generated,pneumonia,,,definitely present
+1093360953512860,generated,ij catheter,left,,definitely present
+1093360954300688,generated,normal,heart size,,definitely present
+1093360954300688,generated,unchanged,mediastinal and hilar contours,,definitely present
+1093360954300688,generated,effusion,pleural,,definitely absent
+1093360954300688,generated,pneumothorax,,,definitely absent
+1093360954300688,generated,persistent opacities,right upper lobe,,definitely present
+1093360954300688,generated,opacity less extensive,left upper lobe,,definitely present
+1093360954300688,generated,findings,,findings suggestive of chronic scarring,definitely present
+1093360954300688,generated,chronic scarring,,,definitely present
+1093360954300688,generated,superimposed infectious process,,,uncertain
+1093360954422699,generated,relatively low,lung volumes,,definitely present
+1093360954422699,generated,large,,,definitely present
+1093360954422699,generated,area consolidation,right upper lobe,consolidation suggestive of infection; consolidation suggestive of malignancy,definitely present
+1093360954422699,generated,infection,,,uncertain
+1093360954422699,generated,malignancy,,,uncertain
+1093360954422699,generated,subtle opacities,right perihilar; left perihilar,opacities suggestive of nodules,definitely present
+1093360954422699,generated,underlying nodules,pulmonary,,uncertain
+1093360954422699,generated,large effusion,pleural,,definitely absent
+1093360954422699,generated,pneumothorax,,,definitely absent
+1093360954422699,generated,unremarkable,cardiac silhouettes; mediastinal silhouettes,,definitely present
+1093360954422699,generated,surgical clips,mid abdomen,,definitely present
+1093360954694185,generated,relatively low,lung volumes,,definitely present
+1093360954694185,generated,large area consolidation,right upper lobe,consolidation suggestive of infection; consolidation suggestive of malignancy; consolidation suggestive of hemorrhage,definitely present
+1093360954694185,generated,infection,,,uncertain
+1093360954694185,generated,malignancy,,,uncertain
+1093360954694185,generated,hemorrhage,pulmonary,,uncertain
+1093360954694185,generated,subtle opacity,right perihilar; right basilar,opacity suggestive of atelectasis; opacity suggestive of aspiration,definitely present
+1093360954694185,generated,atelectasis,,,uncertain
+1093360954694185,generated,aspiration,,,uncertain
+1093360954694185,generated,slight blunting,angle,blunting suggestive of effusion,definitely present
+1093360954694185,generated,trace effusion,pleural,,definitely present
+1093360954694185,generated,unremarkable,cardiac silhouettes; mediastinal silhouettes,,definitely present
+1093360954870311,generated,unchanged,cardiac contours; mediastinal contours; hilar contours,,definitely present
+1093360954870311,generated,persistent loss,volume,,definitely present
+1093360954870311,generated,patchy opacity,right upper lobe,,definitely present
+1093360954870311,generated,opacity,right lower lobe,,definitely present
+1093360954870311,generated,effusion,pleural,,definitely absent
+1093360954870311,generated,pneumothorax,,,definitely absent
+1093360954870311,generated,surgical anchors,right shoulder,,definitely present
+1093360954870311,generated,demineralized,bones,,definitely present
+1093360955447530,generated,change,,,definitely present
+1093360955447530,generated,increased opacification asymmetry,,,definitely present
+1093360955447530,generated,increased opacification,right suprahilar region,opacification suggestive of changes,definitely present
+1093360955447530,generated,post - radiation changes,,,uncertain
+1093360955447530,generated,congestion,vascular,,definitely absent
+1093360955646831,generated,unchanged,cardiac contours; mediastinal contours; hilar contours,,definitely present
+1093360955646831,generated,patchy opacity decreased,left mid to lower lung,,definitely present
+1093360955646831,generated,improvement acute process,,,definitely present
+1093360955646831,generated,loss,volume,,definitely present
+1093360955646831,generated,streaky opacification less prominent,right upper lobe,,definitely present
+1093360955646831,generated,thickened,fissures,,definitely present
+1093360955646831,generated,effusion,pleural,,definitely absent
+1093360955646831,generated,pneumothorax,,,definitely absent
+1093360955646831,generated,suture anchors,head,,definitely present
+1093360955736427,generated,low,lung volumes,,definitely present
+1093360955736427,generated,increased prominence,cardiac silhouette,,definitely present
+1093360955736427,generated,crowding,bronchovascular,,definitely present
+1093360955736427,generated,increased opacity,right upper lobe,opacity suggestive of pneumonia,definitely present
+1093360955736427,generated,pneumonia,,,definitely present
+1093360955736427,generated,increased opacity,right lower lung,opacity suggestive of atelectasis; opacity suggestive of pneumonia,definitely present
+1093360955736427,generated,atelectasis,,,uncertain
+1093360955736427,generated,pneumonia,,,uncertain
+1093360955736427,generated,effusion,pleural,,definitely absent
+1093360955736427,generated,pneumothorax,,,definitely absent
+1093360955736427,generated,unremarkable,visualized upper abdomen,,definitely present
+1093360956535476,generated,normal,heart size,,definitely present
+1093360956535476,generated,effusion,pleural,,definitely absent
+1093360956535476,generated,pneumothorax,,,definitely absent
+1093360956535476,generated,patchy opacity,right upper lobe,patchy opacity suggestive of pneumonia,definitely present
+1093360956535476,generated,vague opacity,right lower lobe,,definitely present
+1093360956535476,generated,pneumonia,,,definitely present
+1093360956535476,generated,mild process,interstitial,process suggestive of edema,definitely present
+1093360956535476,generated,edema,pulmonary,,uncertain
+1093360956535476,generated,unremarkable,bony structures,,definitely present
+1093360957290683,generated,relatively low,lung volumes,,definitely present
+1093360957290683,generated,patchy regions consolidation,left upper lung; retrocardiac region,,definitely present
+1093360957290683,generated,effusion,,,definitely absent
+1093360957290683,generated,within normal limits,cardiomediastinal silhouette,,definitely present
+1093360957290683,generated,surgical anchor,head,,definitely present
+1093360957290683,generated,acute abnormality,osseous,,definitely absent
+1093360957695180,generated,patchy regions consolidation notably,left lung,,definitely present
+1093360957695180,generated,increased opacity,right mid lung,,definitely present
+1093360957695180,generated,within normal limits,cardiomediastinal silhouette,,definitely present
+1093360957695180,generated,unremarkable,osseous; soft tissue,,definitely present
+1093360958929044,generated,relatively low,,,definitely present
+1093360958929044,generated,slight prominence,hila,prominence suggestive of engorgement,definitely present
+1093360958929044,generated,slight engorgement,pulmonary vascular,,uncertain
+1093360958929044,generated,slight patchy opacity,upper lobe,opacity suggestive of infection; opacity suggestive of aspiration,definitely present
+1093360958929044,generated,infection,,,uncertain
+1093360958929044,generated,aspiration,,,definitely present
+1093360958929044,generated,effusion,pleural,,definitely absent
+1093360958929044,generated,pneumothorax,,,definitely absent
+1093360958929044,generated,unremarkable,cardiac silhouettes; mediastinal silhouettes,,definitely present
+1093360958929044,generated,mild - to - moderate compression stable,,,definitely present
+1093360959225625,generated,relatively low,lung volumes,,definitely present
+1093360959225625,generated,opacities,bilateral; right upper lobe; left perihilar region,,definitely present
+1093360959225625,generated,large effusion,pleural,,definitely absent
+1093360959225625,generated,pneumothorax,,,definitely absent
+1093360959225625,generated,stable,cardiac silhouettes; mediastinal silhouettes,,definitely present
+1097544650572011,generated,little change,,,definitely present
+1097544650572011,generated,low,lung volumes,,definitely present
+1097544650572011,generated,enlargement,cardiac silhouette,,definitely present
+1097544650572011,generated,edema,pulmonary,,definitely present
+1097544650572011,generated,effusions,bilateral pleural,,uncertain
+1097544650572011,generated,atelectatic changes,bases,,definitely present
+1097544651473674,generated,face mask overlying,,,definitely present
+1097544651473674,generated,large confluent consolidation,,,definitely absent
+1097544651473674,generated,large effusion,,,definitely absent
+1097544651473674,generated,stable,cardiac silhouette,,definitely present
+1097544651473674,generated,multiple old healed fractures,right lateral rib,,definitely present
+1097544651473674,generated,grossly unremarkable,osseous structures,,definitely present
+1097544659969148,generated,lower,lung volumes,,definitely present
+1097544659969148,generated,increased markings,interstitial,markings suggestive of edema,definitely present
+1097544659969148,generated,edema,interstitial,,uncertain
+1097544659969148,generated,large confluent consolidation,,,definitely absent
+1097544659969148,generated,enlarged stable,cardiac silhouette,,definitely present
+1097544659969148,generated,dense atherosclerotic calcifications,arch,,definitely present
+1097544659969148,generated,unchanged,osseous; soft tissue,,definitely present
+1102224550078440,generated,endotracheal tube,3 . 3 cm above,,definitely present
+1102224550078440,generated,nasogastric,,,definitely present
+1102224550078440,generated,nasogastric tube,,,definitely present
+1102224550078440,generated,coiling,stomach,,definitely present
+1102224550078440,generated,opacity,right hemithorax,opacity suggestive of effusion; opacity suggestive of atelectasis; opacity suggestive of consolidation; opacity suggestive of hemorrhage,definitely present
+1102224550078440,generated,large effusion,pleural,,uncertain
+1102224550078440,generated,overlying atelectasis,,,uncertain
+1102224550078440,generated,underlying consolidation,,,uncertain
+1102224550078440,generated,hemorrhage,pulmonary,,uncertain
+1102224550078440,generated,linear atelectasis,left mid lung,,definitely present
+1102224550078440,generated,enlarged,cardiac silhouette,,definitely present
+1102224550078440,generated,stable,mediastinal contours,,definitely present
+1102224550146341,generated,monitoring support devices in place,,,definitely present
+1102224550146341,generated,diffuse opacifications prominent,bilateral pulmonary,opacifications suggestive of edema,definitely present
+1102224550146341,generated,edema,pulmonary,,uncertain
+1102224550146341,generated,supervening consolidation,,,uncertain
+1102224550146341,generated,effusions,bilateral pleural,,definitely present
+1102224550146341,generated,compressive atelectasis,bases,,definitely present
+1105227354389393,generated,mild moderately enlarged,heart,,definitely present
+1105227354389393,generated,unchanged,mediastinal contours; hilar contours,,definitely present
+1105227354389393,generated,mild - to - moderate abnormality,interstitial,abnormality suggestive of edema,definitely present
+1105227354389393,generated,edema,pulmonary,,definitely present
+1105227354389393,generated,small effusions,pleural,,uncertain
+1105227354389393,generated,pneumothorax,,,definitely absent
+1088569657959841,generated,unchanged,cardiac contours; mediastinal contours; hilar contours,,definitely present
+1088569657959841,generated,large mass,left - sided,,definitely present
+1088569657959841,generated,volume loss,,,definitely present
+1088569657959841,generated,effusion,pleural,,definitely absent
+1088569657959841,generated,pneumothorax,,,definitely absent
+1105227353702175,generated,mildly enlarged,heart,,definitely present
+1105227353702175,generated,calcified,aortic arch,,definitely present
+1105227353702175,generated,stable,hilar contours,,definitely present
+1105227353702175,generated,effusion,pleural,,definitely absent
+1105227353702175,generated,pneumothorax,,,definitely absent
+1105227353702175,generated,moderate abnormality,interstitial,,definitely present
+1105227353702175,generated,congestive failure,heart,,definitely present
+1105227353702175,generated,focal opacity,right lower lung,,definitely present
+1093360952402828,generated,normal,heart size,,definitely present
+1093360952402828,generated,unremarkable,mediastinal contours; mediastinal and hilar contours,,definitely present
+1093360952402828,generated,engorged,pulmonary vascularity,,definitely absent
+1093360952402828,generated,patchy ill - defined opacities,left upper lobe; upper lobes,opacities suggestive of infectious,definitely present
+1093360952402828,generated,infectious,,,uncertain
+1093360952402828,generated,effusion,pleural,,definitely absent
+1093360952402828,generated,pneumothorax,,,definitely absent
+1093360952402828,generated,acute abnormalities,osseous,,definitely absent
+1065000155609649,generated,new infiltrate,left lower lobe,,definitely present
+1065000155609649,generated,increased,,,definitely present
+1065000155609649,generated,increased opacity,right upper lobe,,definitely present
+1065000155609649,generated,opacity,,,definitely present
+1065000155609649,generated,enlarged,heart,,definitely present
+1065000155609649,generated,redistribution,pulmonary vascular,,definitely present
+1086720257163975,generated,picc tip,right,,definitely present
+1086720257163975,generated,pneumothorax,,,definitely absent
+1086720257163975,generated,diffuse abnormality,interstitial,,definitely present
+1086720257163975,generated,scarring,right upper lobe,,definitely present
+1086720257163975,generated,nodule,right upper lobe,,definitely present
+1105227353537165,generated,mildly enlarged,heart,,definitely present
+1105227353537165,generated,unchanged,mediastinal contours; hilar contours,,definitely present
+1105227353537165,generated,effusion,pleural,,definitely absent
+1105227353537165,generated,pneumothorax,,,definitely absent
+1105227353537165,generated,clear,lungs,,definitely present
+1105227353537165,generated,unremarkable,bony structures,,definitely present
+1102224553978610,generated,moderate - to - severe cardiomegaly,,,definitely present
+1102224553978610,generated,pneumothorax,,,definitely absent
+1102224553978610,generated,small effusions,bilateral pleural,,definitely present
+1102224553978610,generated,multifocal consolidations,lung,,definitely present
+1102224553978610,generated,left picc,,,definitely present
+1102224553978610,generated,tip,mid - to - lower svc,,definitely present
+1102224553978610,generated,aligned,,,definitely present
+1102224558274962,generated,picc line tip,left - sided,,definitely present
+1102224558274962,generated,cardiomegaly,,,definitely present
+1102224558274962,generated,effusions greater,bilateral pleural left,,definitely present
+1102224558274962,generated,opacity,left retrocardiac,,definitely present
+1102224558274962,generated,areas of consolidation,right upper lobe; left upper lobe,,definitely present
+1102224558274962,generated,mild edema,pulmonary,,definitely present
+1093360959885828,generated,pre - existing pneumonia,right upper lobe,,definitely absent
+1093360959885828,generated,loss,volume,,definitely present
+1093360959885828,generated,enlarged,hilus,,definitely present
+1093360959885828,generated,increased radiodensity,,,definitely present
+1093360959885828,generated,unchanged,cardiac silhouette,,definitely present
+1093360959885828,generated,effusions,pleural,,definitely absent
+1093360959885828,generated,pneumothorax,,,definitely absent
+1105227359032183,generated,clear,lungs bilaterally,,definitely present
+1105227359032183,generated,focal consolidation,,,definitely absent
+1105227359032183,generated,large effusion,,,definitely absent
+1105227359032183,generated,pneumothorax,,,definitely absent
+1105227359032183,generated,mildly enlarged,heart,,definitely present
+1105227359032183,generated,normal,mediastinal contour,,definitely present
+1105227359032183,generated,congestion,,,definitely absent
+1105227359032183,generated,edema,,,definitely absent
+1105227359032183,generated,intact,bony structures,,definitely present
+1105227359032183,generated,free air,below right hemidiaphragm,,definitely absent
+1027414559166131,generated,clear,lungs,,definitely present
+1027414559166131,generated,effusion,pleural,,definitely absent
+1027414559166131,generated,moderate cardiomegaly,,,definitely present
+1027414559166131,generated,mildly engorged,pulmonary vasculature,,definitely present
+1027414559166131,generated,edema,pulmonary,,definitely absent
+1044929756486000,generated,low,lung volumes,,definitely present
+1044929756486000,generated,large confluent consolidation,,,definitely absent
+1044929756486000,generated,within normal limits,cardiomediastinal silhouette,,definitely present
+1044929756486000,generated,unremarkable,osseous; soft tissue,,definitely present
+1088636252555178,generated,well expanded,lungs,,definitely present
+1088636252555178,generated,clear,lungs,,definitely present
+1088636252555178,generated,enlarged,cardiac silhouette,,definitely present
+1088636252555178,generated,normal,mediastinal silhouette; hilar contours,,definitely present
+1088636252555178,generated,effusion,pleural,,definitely absent
+1088636252555178,generated,pneumothorax,,,definitely absent
+1088636252555178,generated,pacer leads,left - sided,,definitely present
+1093360956058164,generated,slightly low,lung volumes,,definitely present
+1093360956058164,generated,diffuse abnormality,interstitial,abnormality suggestive of edema,definitely present
+1093360956058164,generated,mild edema,interstitial,,uncertain
+1093360956058164,generated,focal consolidation,,,definitely absent
+1093360956058164,generated,normal,heart size,,definitely present
+1093360956058164,generated,normal,mediastinal contours,,definitely present
+1093360956058164,generated,effusions,pleural,,definitely absent
+1093360956058164,generated,pneumothorax,,,definitely absent
+1093360956058164,generated,anchors,,,definitely present
+1027414553356050,generated,unremarkable,mediastinal contours; hilar contours,,definitely present
+1027414553356050,generated,top normal,heart size,,definitely present
+1027414553356050,generated,faint opacification,left mid lung,opacification suggestive of surgery,definitely present
+1027414553356050,generated,prior surgery,,,uncertain
+1027414553356050,generated,opacification,,opacification suggestive of pneumonia,definitely absent
+1027414553356050,generated,pneumonia,,,definitely absent
+1027414553356050,generated,effusion,pleural,,definitely absent
+1027414553356050,generated,pneumothorax,,,definitely absent
+1027414553356050,generated,sternotomy sutures midline intact,,,definitely present
+1027414553356050,generated,multiple surgical clips,mediastinum,,definitely present
+1040237258736291,generated,normal,cardiomediastinal contours; hilar contours,,definitely present
+1040237258736291,generated,hyperinflated,lungs,,definitely present
+1040237258736291,generated,consolidation,lungs,,definitely absent
+1040237258736291,generated,effusion,pleural,,definitely absent
+1040237258736291,generated,pneumothorax,,,definitely absent
+1040237258736291,generated,mild degenerative changes,spine,,definitely present
+1093360951115198,generated,extensive consolidation unchanged,left lung,,definitely present
+1093360951115198,generated,opacities improved,right lung,,definitely present
+1093360951115198,generated,pneumothorax,,,definitely absent
+1093360951115198,generated,normal,mediastinal contours; cardiac contours,,definitely present
+1093360951115198,generated,effusion,pleural,,definitely absent
+1102224550126222,generated,median sternotomy,,,definitely present
+1102224550126222,generated,replacement,aortic valve,,definitely present
+1102224550126222,generated,port - a - cath tip,right - sided,,definitely present
+1102224550126222,generated,mild cardiomegaly,,,definitely present
+1102224550126222,generated,unchanged,mediastinal contours,,definitely present
+1102224550126222,generated,mild congestion,pulmonary vascular,,definitely present
+1102224550126222,generated,patchy opacities,lung bases,Patchy opacities suggestive of atelectasis; Patchy opacities suggestive of infection; Patchy opacities suggestive of aspiration,definitely present
+1102224550126222,generated,atelectasis,,,uncertain
+1102224550126222,generated,infection,,,uncertain
+1102224550126222,generated,aspiration,,,uncertain
+1102224550126222,generated,large effusion,pleural,,definitely absent
+1102224550126222,generated,pneumothorax,,,definitely absent
+1102224550126222,generated,acute abnormalities,osseous,,definitely absent
+1052372559223989,generated,midline sternotomy wires,,,definitely present
+1052372559223989,generated,clips,mediastinal,,definitely present
+1052372559223989,generated,similar pattern opacity,right lower lung,opacity suggestive of pneumonia,definitely present
+1052372559223989,generated,prior pneumonia,,,uncertain
+1052372559223989,generated,pneumonia,,,definitely absent
+1052372559223989,generated,large effusion,,,definitely absent
+1052372559223989,generated,pneumothorax,,,definitely absent
+1052372559223989,generated,stable,cardiomediastinal silhouette,,definitely present
+1052372559223989,generated,intact,bony structures,,definitely present
+1053232652195893,generated,unchanged,cardiac contours; mediastinal contours; hilar contours,,definitely present
+1053232652195893,generated,confluent opacification,right mid to lower lung,,definitely present
+1053232652195893,generated,moderate effusion unchanged,pleural,,definitely present
+1053232652195893,generated,size,,,definitely present
+1053232652195893,generated,similar,,,definitely present
+1053232652195893,generated,mild leftward shift,mediastinal structures,,definitely present
+1102224558402174,generated,midline sternotomy wires,,,definitely present
+1102224558402174,generated,low,lung volumes,,definitely present
+1102224558402174,generated,atelectasis,bibasilar,,definitely present
+1102224558402174,generated,large effusion,,,definitely absent
+1102224558402174,generated,pneumothorax,,,definitely absent
+1102224558402174,generated,cannot be assessed,heart size,,definitely present
+1102224558402174,generated,grossly unremarkable,mediastinal contour,,definitely present
+1102224558402174,generated,intact,bony structures,,definitely present
+1102224558402174,generated,picc line,right neck; mid svc region,,definitely present
+1027414556140866,generated,bypass graft surgery,,,definitely present
+1027414556140866,generated,stable,cardiac contours; mediastinal contours; hilar contours,,definitely present
+1027414556140866,generated,small effusion,pleural right,,definitely present
+1027414556140866,generated,effusion,pleural left,,definitely absent
+1027414556140866,generated,clear,lungs,,definitely present
+1086720250482798,generated,low,lung volumes,,definitely present
+1086720250482798,generated,opacities,bilateral perihilar,opacities suggestive of edema,definitely present
+1086720250482798,generated,edema,pulmonary,,definitely present
+1086720250482798,generated,asymmetric,right,,definitely present
+1086720250482798,generated,infection,,,uncertain
+1086720250482798,generated,large effusion,pleural,,definitely absent
+1086720250482798,generated,pneumothorax,,,definitely absent
+1086720250482798,generated,top - normal,cardiac silhouette,,definitely present
+1086720250482798,generated,calcified,aorta,,definitely present
+1086720250482798,generated,tortuous,aorta,,definitely present
+1093360959243134,generated,unremarkable,mediastinal contours; hilar contours; cardiac contours,,definitely present
+1093360959243134,generated,faint opacification,right upper lung zone,,definitely present
+1093360959243134,generated,mild prominence markings,interstitial bilaterally; left upper lung zone,,definitely present
+1093360959243134,generated,effusion,pleural,,definitely absent
+1093360959243134,generated,pneumothorax,,,definitely absent
+1102224555490259,generated,endotracheal tube,4 . 5 cm above carina,,definitely present
+1102224555490259,generated,picc,right; low svc,,definitely present
+1102224555490259,generated,low,lung volumes,,definitely present
+1102224555490259,generated,atelectasis,bibasilar,,definitely present
+1102224555490259,generated,large effusion,pleural,,definitely absent
+1102224555490259,generated,pneumothorax,,,definitely absent
+1102224555490259,generated,normal,heart size,,definitely present
+1095905459281953,generated,top normal,heart size,,definitely present
+1095905459281953,generated,within normal limits,mediastinal contours; hilar contours,,definitely present
+1095905459281953,generated,well expanded,lungs,,definitely present
+1095905459281953,generated,clear,lungs,,definitely present
+1095905459281953,generated,focal consolidation,,,definitely absent
+1095905459281953,generated,effusion,pleural,,definitely absent
+1095905459281953,generated,pneumothorax,,,definitely absent
+1102224551656138,generated,et tube unchanged,,,definitely present
+1102224551656138,generated,ng tube unchanged,,,definitely present
+1102224551656138,generated,catheter unchanged,,,definitely present
+1102224551656138,generated,tiny pneumothorax,left apical,,definitely present
+1102224551656138,generated,increased infiltrate,alveolar,,definitely present
+1102224551656138,generated,greater,,,definitely present
+1102224551656138,generated,dense opacity,retrocardiac,,definitely present
+1102224551656138,generated,small effusions,bilateral pleural,,definitely present
+1027414558307391,generated,focal consolidation,,,definitely absent
+1027414558307391,generated,effusion,pleural,,definitely absent
+1027414558307391,generated,pneumothorax,,,definitely absent
+1027414558307391,generated,post median sternotomy,,,definitely present
+1027414558307391,generated,post cabg,,,definitely present
+1027414558307391,generated,unchanged,cardiomediastinal silhouette,,definitely present
+1027414558307391,generated,intact,bones,,definitely present
+1088569652654095,generated,change,,,definitely absent
+1088569652654095,generated,pre - existing opacity,left perihilar,,definitely present
+1088569652654095,generated,size,,,definitely present
+1088569652654095,generated,unchanged extent,,,definitely present
+1088569652654095,generated,pre - existing opacity unchanged,right basal,opacity suggestive of atelectatic,definitely present
+1088569652654095,generated,atelectatic,,,uncertain
+1088569652654095,generated,acute changes,lung,,definitely absent
+1088569652654095,generated,unchanged,size cardiac silhouette,,definitely present
+1088569652654095,generated,unchanged tracheostomy tube position,,,definitely present
+1088569656443683,generated,persistent opacity,left mid lung zone,opacity suggestive of cavitary lesion,definitely present
+1088569656443683,generated,cavitary lesion,,,uncertain
+1088569656443683,generated,new opacity,right lung base,opacity suggestive of atelectasis; opacity suggestive of pneumonia,definitely present
+1088569656443683,generated,atelectasis,,,uncertain
+1088569656443683,generated,pneumonia,,,uncertain
+1088569656443683,generated,effusion,pleural,,definitely absent
+1088569656443683,generated,pneumothorax,,,definitely absent
+1088569656443683,generated,normal,heart size,,definitely present
+1026887754103072,generated,improvement edema,pulmonary,,definitely present
+1026887754103072,generated,clear,lungs otherwise,,definitely present
+1026887754103072,generated,pneumothorax,,,definitely absent
+1026887754103072,generated,effusion,pleural,,definitely absent
+1026887754103072,generated,unchanged,hilar contours; cardiomediastinal contours,,definitely present
+1026887754103072,generated,endotracheal tube,5 cm,,definitely present
+1026887754103072,generated,line,left internal jugular central venous; mid svc,,definitely present
+1026887754103072,generated,feeding tube,stomach,,definitely present
+1071547759170987,generated,endotracheal,,,definitely present
+1071547759170987,generated,endotracheal tube,4 . 5 cm above,,definitely present
+1071547759170987,generated,catheter,mid svc,,definitely present
+1071547759170987,generated,enteric tube tip not included in this examination,below diaphragm,,uncertain
+1071547759170987,generated,pneumothorax,,,definitely absent
+1071547759170987,generated,focal consolidation,,,definitely absent
+1071547759170987,generated,effusion,pleural,,definitely absent
+1071547759170987,generated,mild congestion,pulmonary vascular,,definitely present
+1071547759170987,generated,mild edema,interstitial,,definitely present
+1071547759170987,generated,enlarged,heart,,definitely present
+1105293550367895,generated,new region consolidation,left upper lobe,,definitely present
+1105293550367895,generated,new opacity obscuring,left lung base,,definitely present
+1105293550367895,generated,clear,right lung,,definitely present
+1105293550367895,generated,within normal limits,cardiomediastinal silhouette,,definitely present
+1105293550367895,generated,acute abnormality,osseous,,definitely absent
+1026887759301985,generated,tracheostomy tube appropriate position,,,definitely present
+1026887759301985,generated,large hazy opacity overlying,right lung,opacity suggestive of effusion,definitely present
+1026887759301985,generated,layering effusion,,,uncertain
+1026887759301985,generated,pneumothorax,,,definitely absent
+1026887759301985,generated,clear,left lung,,definitely present
+1026887759301985,generated,enlarged unchanged,cardiomediastinal silhouette,,definitely present
+1026887759301985,generated,peg tube,upper abdomen,,definitely present
+1101693551683155,generated,clear,lungs,,definitely present
+1101693551683155,generated,focal consolidation,lungs,,definitely absent
+1101693551683155,generated,effusion,pleural,,definitely absent
+1101693551683155,generated,pneumothorax,,,definitely absent
+1101693551683155,generated,unremarkable,cardiac and mediastinal silhouettes,,definitely present
+1101693551683155,generated,median sternotomy wires intact well aligned,,,definitely present
+1101693551683155,generated,replacement,aortic valve,,definitely present
+1101693551683155,generated,vertebroplasty,lower thoracic vertebral body,,definitely present
+1075418456625924,generated,pacemaker leads,left - sided,,definitely present
+1075418456625924,generated,clear,lungs,,definitely present
+1075418456625924,generated,consolidation,lungs,,definitely absent
+1075418456625924,generated,edema,lungs,,definitely absent
+1075418456625924,generated,effusion,pleural,,definitely absent
+1075418456625924,generated,pneumothorax,,,definitely absent
+1075418456625924,generated,small effusion,right pleural,,definitely present
+1075418456625924,generated,normal,cardiomediastinal silhouette,,definitely present
+1053232651742525,generated,ng tube side port,stomach,,definitely present
+1053232651742525,generated,low,lung volumes,,definitely present
+1053232651742525,generated,atelectasis,bibasilar,,definitely present
+1053232651742525,generated,pneumothorax,,,definitely absent
+1053232651742525,generated,effusion,pleural,,definitely absent
+1053232651742525,generated,unchanged,mediastinal contour; cardiac contour,,definitely present
+1102224552391187,generated,port - a - cath,right,,definitely present
+1102224552391187,generated,median sternotomy wires intact,,,definitely present
+1102224552391187,generated,low,lung volumes,,definitely present
+1102224552391187,generated,increased opacity,left basilar,,definitely present
+1102224552391187,generated,opacity improved,right basilar,,definitely present
+1102224552391187,generated,pneumothorax,,,definitely absent
+1102224552391187,generated,similar,cardiomediastinal silhouette,,definitely present
+1041064159980986,generated,pigtails,bilateral; upper abdomen,,definitely present
+1041064159980986,generated,moderate pneumothorax smaller,left,,definitely present
+1041064159980986,generated,small effusion,left,,definitely present
+1041064159980986,generated,nodular opacity,,,definitely present
+1041064159980986,generated,opacity,,,definitely present
+1041064159980986,generated,clear,upper lungs,,definitely present
+1026887757765703,generated,tracheostomy tube,,,definitely present
+1026887757765703,generated,unchanged,,,definitely present
+1026887757765703,generated,low,lung volumes,,definitely present
+1026887757765703,generated,increased opacity,lung zone,opacity suggestive of edema,definitely present
+1026887757765703,generated,asymmetric edema,pulmonary,,uncertain
+1026887757765703,generated,increased opacity,left lower lung zone,opacity suggestive of atelectasis; opacity suggestive of pneumonia,definitely present
+1026887757765703,generated,atelectasis,,,uncertain
+1026887757765703,generated,pneumonia,,,uncertain
+1026887757765703,generated,pneumothorax,,,definitely absent
+1026887757765703,generated,stable,cardiomediastinal silhouette,,definitely present
+1088569652937462,generated,lobectomy chain sutures,left upper,,definitely present
+1088569652937462,generated,volume loss,,,definitely present
+1088569652937462,generated,loss,volume,,definitely present
+1088569652937462,generated,small effusion,left pleural,,definitely present
+1088569652937462,generated,small effusion,right pleural,,definitely present
+1088569652937462,generated,focal consolidation,,,definitely absent
+1088569652937462,generated,pneumothorax,,,definitely absent
+1088569652937462,generated,normal,cardiomediastinal silhouette,,definitely present
+1088569652937462,generated,free air,under diaphragm,,definitely absent
+1088636254849848,generated,intubated,,,definitely present
+1088636254849848,generated,line,left - sided internal jugular,,definitely present
+1088636254849848,generated,permanent pacer,left anterior axillary position,,definitely present
+1088636254849848,generated,two electrodes one,intracavitary,,definitely present
+1088636254849848,generated,unchanged,,,definitely present
+1088636254849848,generated,sternotomy,,,definitely present
+1088636254849848,generated,row wires unchanged,sternal,,definitely present
+1088636254849848,generated,unaltered,heart size; pulmonary vasculature bilaterally,,definitely present
+1088636254849848,generated,effusion obliterates blunts,pleural,,definitely present
+1088636254849848,generated,effusion,left - sided pleural,,definitely present
+1093360950290463,generated,hypoinflated,lungs,,definitely present
+1093360950290463,generated,reticular opacities,bilateral,,definitely present
+1093360950290463,generated,more confluent,,,definitely present
+1093360950290463,generated,more confluent opacity,right suprahilar region,,definitely present
+1093360950290463,generated,opacity,right suprahilar region,,definitely present
+1093360950290463,generated,effusion,pleural,,definitely absent
+1093360950290463,generated,pneumothorax,,,definitely absent
+1093360950290463,generated,normal,heart size,,definitely present
+1093360950290463,generated,unremarkable,mediastinal contours,,definitely present
+1093360950290463,generated,small free air,right hemidiaphragm,,definitely present
+1093360950290463,generated,filter,ivc,,definitely present
+1075418454594848,generated,pacemaker two leads appropriate position,left - sided,,definitely present
+1075418454594848,generated,mildly enlarged,heart,,definitely present
+1075418454594848,generated,stable,mediastinal and hilar contours,,definitely present
+1075418454594848,generated,edema,pulmonary,,definitely absent
+1075418454594848,generated,multiple nodular densities,lungs bases,,definitely present
+1075418454594848,generated,metastatic,,,definitely present
+1075418454594848,generated,effusion,pleural,,definitely absent
+1075418454594848,generated,pneumothorax,,,definitely absent
+1095905450128467,generated,pneumothorax,,,definitely absent
+1095905450128467,generated,small effusion,right pleural,,definitely present
+1095905450128467,generated,consolidation,,,definitely absent
+1095905450128467,generated,edema,pulmonary,,definitely absent
+1095905450128467,generated,normal,heart size,,definitely present
+1095905453881360,generated,relatively low,lung volumes,,definitely present
+1095905453881360,generated,persistent blunting,,blunting suggestive of effusions,definitely present
+1095905453881360,generated,small effusions,pleural,,definitely present
+1095905453881360,generated,overlying opacity,base,opacity suggestive of effusion; opacity suggestive of atelectasis,definitely present
+1095905453881360,generated,effusion,pleural,,uncertain
+1095905453881360,generated,atelectasis,,,uncertain
+1095905453881360,generated,consolidation,,consolidation suggestive of infection; consolidation suggestive of aspiration,uncertain
+1095905453881360,generated,infection,,,uncertain
+1095905453881360,generated,aspiration,,,uncertain
+1095905453881360,generated,patchy opacity,retrocardiac,,definitely present
+1095905453881360,generated,stable,cardiac silhouettes; mediastinal silhouettes,,definitely present
+1095905453881360,generated,pneumothorax,,,definitely absent
+1041064156031350,generated,moderate small effusions,right left pleural,,definitely present
+1041064156031350,generated,pneumothorax,,,definitely absent
+1041064156031350,generated,clear,upper lung fields,,definitely present
+1041064156031350,generated,unchanged,heart contours; mediastinal contours,,definitely present
+1075418456348027,generated,dual lead pacing device,wall,,definitely present
+1075418456348027,generated,clear,lungs,,definitely present
+1075418456348027,generated,focal consolidation,lungs,,definitely absent
+1075418456348027,generated,effusion,lungs,,definitely absent
+1075418456348027,generated,edema,lungs,,definitely absent
+1075418456348027,generated,moderate cardiomegaly,,,definitely present
+1075418456348027,generated,tortuosity,,,definitely present
+1075418456348027,generated,acute abnormalities,osseous,,definitely absent
+1093360955438657,generated,well - expanded,lungs,,definitely present
+1093360955438657,generated,infiltrates,bilateral perihilar,infiltrates suggestive of pneumonia,definitely present
+1093360955438657,generated,multifocal pneumonia,,,definitely present
+1093360955438657,generated,pneumothorax,,,definitely absent
+1093360955438657,generated,effusion,pleural,,definitely absent
+1093360955438657,generated,unremarkable,cardiomediastinal silhouette,,definitely present
+1093360955438657,generated,unremarkable,osseous structures,,definitely present
+1040237250879902,generated,newly opacity,parenchymal,,definitely present
+1040237250879902,generated,opacity ill - defined multiple air bronchograms,,opacity suggestive of pneumonia,definitely present
+1040237250879902,generated,pneumonia,,,uncertain
+1040237250879902,generated,nasogastric tube unchanged position,,,definitely present
+1040237250879902,generated,unchanged,cardiac silhouette,,definitely present
+1040237250879902,generated,effusions,pleural,,definitely absent
+1040237250879902,generated,edema,pulmonary,,definitely absent
+1086720251723789,generated,low,lung volumes,,definitely present
+1086720251723789,generated,increased opacity,bilaterally,opacity suggestive of disease; opacity suggestive of edema; opacity suggestive of infection,definitely present
+1086720251723789,generated,worsening disease,interstitial,,uncertain
+1086720251723789,generated,edema,,,uncertain
+1086720251723789,generated,infection,,,uncertain
+1086720251723789,generated,large effusion,pleural,,definitely absent
+1086720251723789,generated,pneumothorax,,,definitely absent
+1086720251723789,generated,atherosclerotic calcifications,aortic arch,,definitely present
+1086720251723789,generated,enlarged,heart,,definitely present
+1093360957629869,generated,patchy opacities lesser,left upper lobe,,definitely present
+1093360957629869,generated,effusion,pleural,,definitely absent
+1093360957629869,generated,pneumothorax,,,definitely absent
+1093360957629869,generated,normal,cardiac contours; mediastinal contours; hilar contours,,definitely present
+1093360957629869,generated,acute abnormality,osseous,,definitely absent
+1043978156140154,generated,port - a - cath,left - sided,,definitely present
+1043978156140154,generated,stable moderate cardiomegaly,,,definitely present
+1043978156140154,generated,normal,mediastinal contours; hilar contours,,definitely present
+1043978156140154,generated,normal,pleural surfaces,,definitely present
+1043978156140154,generated,abnormality unchanged,interstitial,abnormality suggestive of emphysema,definitely present
+1043978156140154,generated,emphysema,,,uncertain
+1043978156140154,generated,edema,pulmonary,,definitely absent
+1004616650051329,generated,low,lung volumes,,definitely present
+1004616650051329,generated,crowding,bronchovascular,,definitely present
+1004616650051329,generated,focal opacities,,,definitely absent
+1004616650051329,generated,unremarkable,cardiomediastinal contours; hilar contours,,definitely present
+1004616650051329,generated,effusion,pleural,,definitely absent
+1004616650051329,generated,pneumothorax,,,definitely absent
+1004616650051329,generated,sternotomy wires intact,,,definitely present
+1004616650051329,generated,clips,mediastinum,,definitely present
+1004616653492798,generated,1 . 6 cm nodular opacity stable new,right lower lung,,definitely present
+1004616653492798,generated,clear,lungs,,definitely present
+1004616653492798,generated,focal consolidation,,,definitely absent
+1004616653492798,generated,effusion,pleural,,definitely absent
+1004616653492798,generated,pneumothorax,,,definitely absent
+1004616653492798,generated,engorged,pulmonary vasculature,,definitely absent
+1004616653492798,generated,normal,cardiac silhouette size,,definitely present
+1004616653492798,generated,normal limits,mediastinal contours; hilar contours,,definitely present
+1004616653492798,generated,status post median sternotomy,,,definitely present
+1004616653492798,generated,multiple intact wires,sternal,,definitely present
+1004616653492798,generated,moderately calcified,thoracic aorta,,definitely present
+1004616653492798,generated,multilevel degenerative changes,thoracic spine,,definitely present
+1026887753452091,generated,unchanged,cardiomediastinal silhouette,,definitely present
+1026887753452091,generated,tracheostomy tube unchanged position,,,definitely present
+1026887753452091,generated,low,lung volumes,,definitely present
+1026887753452091,generated,increased opacity,right hemithorax,opacity suggestive of effusion,definitely present
+1026887753452091,generated,layering effusion,pleural,,uncertain
+1026887753452091,generated,opacity unchanged,retrocardiac,,definitely present
+1026887753452091,generated,pneumothorax,,,definitely absent
+1026887753452091,generated,displaced fractures,rib,,definitely absent
+1004616657379357,reference,findings,,findings suggestive of pneumonia,definitely absent
+1004616657379357,reference,pneumonia,,,definitely absent
+1026887750239281,reference,left picc,,,definitely present
+1026887750239281,reference,tip,distal left brachiocephalic vein,,definitely present
+1026887750239281,reference,mild congestion,pulmonary vascular,,definitely present
+1026887750239281,reference,aeration,lung bases,,definitely present
+1026887750239281,reference,residual streaky opacity,lung bases,residual streaky opacity suggestive of atelectasis,definitely present
+1026887750239281,reference,atelectasis,,,uncertain
+1026887750239281,reference,effusion,left pleural,,definitely absent
+1026887751513702,reference,acute process,cardiopulmonary,,definitely absent
+1026887751513702,reference,enlarged,,,definitely present
+1026887754137212,reference,congestion,pulmonary vascular,,definitely present
+1026887754137212,reference,opacities,bibasilar,opacities suggestive of atelectasis; opacities suggestive of infection,definitely present
+1026887754137212,reference,atelectasis,,,uncertain
+1026887754137212,reference,infection,,,uncertain
+1026887757976739,reference,mild residual opacification,retrocardiac,opacification suggestive of pneumonia; opacification suggestive of atelectasis,definitely present
+1026887757976739,reference,pneumonia,,,uncertain
+1026887757976739,reference,atelectasis,,,uncertain
+1040237251966612,reference,acute process,cardiopulmonary,,definitely absent
+1040237256446284,reference,bronchiectasis,bilateral lower lobe,,definitely present
+1040237256446284,reference,improved consolidation,peribronchial,,definitely present
+1040237259239338,reference,severe bronchiectasis,,,definitely present
+1040237259239338,reference,severe emphysema,,,definitely present
+1041064153850317,reference,large effusion,right - sided pleural,,definitely present
+1041064153850317,reference,atelectasis,middle lower lobes,,definitely present
+1041064153850317,reference,consolidation,middle lower lobes,,uncertain
+1041064153850317,reference,small effusion,left - sided pleural,,definitely present
+1041064156839020,reference,moderate effusions,bilateral pleural,,definitely present
+1041064156839020,reference,underlying,,,uncertain
+1041064156839020,reference,disease,airspace,,uncertain
+1043978150501762,reference,new abnormalities,pulmonary parenchymal,abnormalities suggestive of edema; abnormalities suggestive of Infection,definitely present
+1043978150501762,reference,chronic fibrosis,pulmonary,fibrosis suggestive of edema,definitely present
+1043978150501762,reference,edema,pulmonary,,uncertain
+1043978150501762,reference,infection,,,uncertain
+1043978151129150,reference,superimposed edema,pulmonary,,definitely present
+1043978151129150,reference,fibrosis,pulmonary,,definitely present
+1043978151129150,reference,low,volumes,,definitely present
+1043978151129150,reference,consolidation,basilar,,uncertain
+1043978155725911,reference,some,,,definitely present
+1043978155725911,reference,improvement,,,definitely present
+1043978155725911,reference,prominent congestion,pulmonary vascular,,definitely present
+1043978155811525,reference,edema,pulmonary,,definitely present
+1043978155811525,reference,fibrosis,lung,,definitely present
+1043978156498272,reference,mild edema,pulmonary,,definitely present
+1043978156498272,reference,fibrosis,lung,,definitely present
+1043978156498272,reference,severe,,,definitely present
+1043978156498272,reference,chronic,,,definitely present
+1043978156498272,reference,cardiomegaly,,,definitely present
+1043978156498272,reference,hypertension,pulmonary,,definitely present
+1043978156498272,reference,displaced,,,definitely absent
+1043978156498272,reference,fracture,rib,,definitely absent
+1043978156498272,reference,multiple vertebroplasties,,,definitely present
+1043978156925922,reference,acute,,,definitely absent
+1043978156925922,reference,acute disease,,,definitely absent
+1043978156925922,reference,disease,,,definitely absent
+1043978156925922,reference,severe fibrosis,pulmonary,,definitely present
+1044929752837403,reference,acute process,intrathoracic,,definitely absent
+1044929754773340,reference,edema,pulmonary,,definitely absent
+1052372556078456,reference,acute process,cardiopulmonary,,definitely absent
+1071547752467293,reference,stable cardiomegaly,,,definitely present
+1071547752467293,reference,pneumonia,,,definitely absent
+1071547752467293,reference,chf,,,definitely absent
+1086720251707133,reference,fibrosis,pulmonary,,definitely present
+1086720251707133,reference,superimposed edema,,,uncertain
+1086720251707133,reference,infection,,,uncertain
+1086720253652133,reference,persistent opacities,right lobe; left lung base; left perihilar,,definitely present
+1086720253652133,reference,chronic disease,interstitial,,definitely present
+1086720253652133,reference,more,,,definitely present
+1086720253652133,reference,focal,,,definitely present
+1086720253652133,reference,opacities,,opacities suggestive of disease; opacities suggestive of infection,definitely present
+1086720253652133,reference,chronic disease,interstitial lung,,uncertain
+1086720253652133,reference,acute exacerbation disease,interstitial,,uncertain
+1086720253652133,reference,infection,,,uncertain
+1086720257761141,reference,chronic disease,interstitial,,definitely present
+1086720259071382,reference,multifocal opacities,,opacities suggestive of disease,definitely present
+1086720259071382,reference,pneumonia superimposed,,,uncertain
+1086720259071382,reference,severe disease,interstitial,,uncertain
+1086720259071382,reference,chronic disease,lung,,uncertain
+1086720259071382,reference,acute superimposed pneumonia,,,uncertain
+1086720259535316,reference,fibrosis,pulmonary,,definitely present
+1086720259535316,reference,superimposed,,,definitely absent
+1086720259535316,reference,acute,,,definitely absent
+1088569659532499,reference,opacity silhouetting,right basilar,opacity suggestive of effusion; opacity suggestive of atelectasis,definitely present
+1088569659532499,reference,effusion,,,uncertain
+1088569659532499,reference,atelectasis,,,uncertain
+1088569659532499,reference,consolidation,,,uncertain
+1088636256034024,reference,worsening chf,,,definitely present
+1093360950205123,reference,chronic fibrotic changes,,,definitely present
+1093360950205123,reference,low,volumes,,definitely present
+1093360950205123,reference,atelectasis,bibasilar,,uncertain
+1093360950205123,reference,infection,,,uncertain
+1093360950205123,reference,aspiration,,,uncertain
+1093360950205123,reference,small effusion,,,definitely present
+1093360950289849,reference,greater opacities,bilateral upper lobe,opacities suggestive of infectious process,definitely present
+1093360950289849,reference,infectious process superimposed on chronic changes,,,uncertain
+1093360950636786,reference,standard positions endotracheal and orogastric tubes,,,definitely present
+1093360950636786,reference,focal,,,definitely present
+1093360950636786,reference,linear,,,definitely present
+1093360950636786,reference,chronic process,interstitial,,uncertain
+1093360950636786,reference,aspiration,,,uncertain
+1093360950636786,reference,infection,,,uncertain
+1093360950636786,reference,mild congestion,pulmonary vascular,,definitely present
+1093360950636786,reference,low,lung,,definitely present
+1093360951002383,reference,scarring superimposed acute process,bilateral upper lobe,,definitely absent
+1093360951816597,reference,acute aspiration,,,uncertain
+1093360951816597,reference,sarcoid,,,uncertain
+1093360951816597,reference,granulomatous,,,uncertain
+1093360951816597,reference,granulomatous process,,,uncertain
+1093360952624179,reference,acute process,cardiopulmonary,,definitely absent
+1093360952624179,reference,fibrotic,upper lungs,,definitely present
+1093360952935265,reference,resolving,,,definitely present
+1093360952935265,reference,pneumonia,,,definitely present
+1093360953512860,reference,aspiration,,,definitely present
+1093360953512860,reference,some clearing pneumonia,,,definitely present
+1093360954300688,reference,stable,chest,,definitely present
+1093360954422699,reference,new consolidation,right upper lobe,consolidation suggestive of infection,definitely present
+1093360954422699,reference,infection,,,uncertain
+1093360954422699,reference,scarring,,,definitely present
+1093360954694185,reference,non - resolving pneumonia,right upper lobe,,definitely present
+1093360954694185,reference,scarring,bilateral juxtahilar,scarring suggestive of sarcoid,definitely present
+1093360954694185,reference,tb,,,uncertain
+1093360954694185,reference,sarcoid,,,uncertain
+1093360954870311,reference,scarring,upper lung,,definitely present
+1093360954870311,reference,subtle opacity,right lower lung,opacity suggestive of crowding,definitely present
+1093360954870311,reference,crowding,bronchovasculature,,uncertain
+1093360954870311,reference,bronchovasculature,,,uncertain
+1093360955447530,reference,scarring,upper lungs,,definitely present
+1093360955447530,reference,subtle opacity,left lower lobe,,definitely present
+1093360955646831,reference,stable,,,definitely present
+1093360955646831,reference,fibrotic,,,definitely present
+1093360955646831,reference,new opacity,left mid - to - lower lung,opacity suggestive of infectious process; opacity suggestive of asymmetric edema; opacity suggestive of edema,definitely present
+1093360955646831,reference,infectious process,,,uncertain
+1093360955646831,reference,asymmetric,,,uncertain
+1093360955646831,reference,asymmetric edema,,,uncertain
+1093360955646831,reference,edema,,,uncertain
+1093360955736427,reference,worsening,,,definitely present
+1093360955736427,reference,multifocal,,,definitely present
+1093360955736427,reference,opacities,,opacities suggestive of pneumonia,definitely present
+1093360955736427,reference,pneumonia,,,definitely present
+1093360955736427,reference,mild congestion,vascular,,uncertain
+1093360955736427,reference,low,lung volumes,,definitely present
+1093360956535476,reference,scarring,,scarring suggestive of sarcoidosis,definitely present
+1093360956535476,reference,upward retraction,hila,retraction suggestive of sarcoidosis; retraction suggestive of prior tuberculosis,definitely present
+1093360956535476,reference,sarcoidosis,,,uncertain
+1093360956535476,reference,prior tuberculosis,,,uncertain
+1093360956535476,reference,patchy opacity,right lung base,opacity suggestive of atelectasis; opacity suggestive of infection,definitely present
+1093360956535476,reference,atelectasis,,,uncertain
+1093360956535476,reference,infection,,,uncertain
+1093360957290683,reference,fibrosis,biapical,,definitely present
+1093360957290683,reference,acute,,,definitely absent
+1093360957290683,reference,superimposed consolidation,,,definitely absent
+1093360957695180,reference,improving pneumonia,,,definitely present
+1093360957695180,reference,increasing opacity,left lung,opacity suggestive of pneumonia,definitely present
+1093360957695180,reference,worsening new pneumonia,,,uncertain
+1093360958929044,reference,opacity,right upper lobe,,definitely present
+1093360958929044,reference,chronic scarring,upper lobe,,definitely present
+1093360958929044,reference,infectious,,,uncertain
+1093360959225625,reference,multifocal consolidation,,consolidation suggestive of pneumonia,definitely present
+1093360959225625,reference,pneumonia,,,definitely present
+1097544651473674,reference,stable findings,,,definitely present
+1097544651473674,reference,mild,,,definitely present
+1097544651473674,reference,congestion,,,definitely present
+1097544659969148,reference,mild congestion,vascular,,definitely present
+1097544659969148,reference,focal patchy opacities,right upper lobe; left infrahilar,opacities suggestive of atelectasis; opacities suggestive of scarring,definitely present
+1097544659969148,reference,atelectasis,,,uncertain
+1097544659969148,reference,scarring,,,uncertain
+1102224550078440,reference,opacity,airspace,opacity suggestive of pneumonia,definitely present
+1102224550078440,reference,pneumonia,lobar,,definitely present
+1102224550078440,reference,nodular opacity,,,definitely present
+1102224550078440,reference,moderate cardiomegaly,,,definitely present
+1102224550146341,reference,lines in place,,,definitely present
+1102224550146341,reference,tubes in place,,,definitely present
+1102224550146341,reference,increased edema,pulmonary,,definitely present
+1102224550146341,reference,consolidations,right upper lobe; bibasilar,,definitely present
+1105227354389393,reference,congestion,vascular,,definitely present
+1105227354389393,reference,small effusions,,,definitely present
+1105227354389393,reference,fluid,right fissure,,uncertain
+1088569657959841,reference,post lobectomy,left upper,,definitely present
+1088569657959841,reference,changes,,,definitely present
+1088569657959841,reference,superimposed acute process,intrathoracic,,definitely absent
+1105227353702175,reference,moderate cardiomegaly,,,definitely present
+1105227353702175,reference,mild edema,pulmonary,,definitely present
+1105227353702175,reference,small effusions,pleural,,definitely present
+1105227353702175,reference,chf,,,definitely present
+1093360952402828,reference,improved aeration,left lobe,aeration suggestive of pneumonia,definitely present
+1093360952402828,reference,resolving pneumonia,,,definitely present
+1065000155609649,reference,mild edema,pulmonary,,definitely present
+1065000155609649,reference,small,,,uncertain
+1065000155609649,reference,effusion,pleural,,uncertain
+1086720257163975,reference,new picc,right,,definitely present
+1086720257163975,reference,improvement effusions,bilateral,,definitely present
+1086720257163975,reference,improvement opacities,bilateral,,definitely present
+1086720257163975,reference,stable markings,interstitial,markings suggestive of fibrosis,definitely present
+1086720257163975,reference,chronic fibrosis,pulmonary,,definitely present
+1105227353537165,reference,congestive failure,heart,,definitely absent
+1105227353537165,reference,patchy streaky opacity,right lung base,opacity suggestive of atelectasis; opacity suggestive of infection,definitely present
+1105227353537165,reference,atelectasis,,,uncertain
+1105227353537165,reference,infection,,,uncertain
+1102224553978610,reference,more conspicuous opacity,,opacity suggestive of pneumonia; opacity suggestive of septic embolus,definitely present
+1102224553978610,reference,developing,,,uncertain
+1102224553978610,reference,pneumonia,,,uncertain
+1102224553978610,reference,septic embolus,,,uncertain
+1102224553978610,reference,improved small effusion,left pleural,,definitely present
+1102224553978610,reference,greater atelectasis,left right bibasilar,,definitely present
+1102224558274962,reference,opacities,bilateral mid lung,opacities suggestive of infectious process,definitely present
+1102224558274962,reference,infectious process,,,uncertain
+1102224558274962,reference,greater,left,,definitely present
+1102224558274962,reference,effusion,left right pleural,,definitely present
+1102224558274962,reference,atelectasis,,,definitely present
+1093360959885828,reference,marked improvement,pulmonary,,definitely present
+1093360959885828,reference,small,,,definitely present
+1093360959885828,reference,effusion,left pleural,,definitely absent
+1105227359032183,reference,acute process,intrathoracic,,definitely absent
+1027414559166131,reference,mild improvement congestion,pulmonary vascular,,definitely present
+1027414559166131,reference,less opacification,right lower,,definitely present
+1027414559166131,reference,pneumonia,,,definitely absent
+1044929756486000,reference,frontal,,,definitely present
+1088636252555178,reference,cardiomegaly,,,definitely present
+1088636252555178,reference,congestion,venous,,definitely present
+1093360956058164,reference,opacity,lower lobe,opacity suggestive of pneumonia; opacity suggestive of aspiration,definitely present
+1093360956058164,reference,pneumonia,,,uncertain
+1093360956058164,reference,aspiration,,,uncertain
+1027414553356050,reference,faint increased opacification,left mid lung,opacification suggestive of infectious,definitely present
+1027414553356050,reference,infectious process,,,uncertain
+1040237258736291,reference,stable,,,definitely present
+1040237258736291,reference,acute change,,,definitely absent
+1093360951115198,reference,moderate effusion,left pleural,,definitely present
+1093360951115198,reference,worsening pneumonia,left lung,,definitely present
+1102224550126222,reference,slight improvement mild edema,pulmonary,,definitely present
+1102224550126222,reference,patchy opacities,lung bases,Patchy opacities suggestive of atelectasis; Patchy opacities suggestive of infection,definitely present
+1102224550126222,reference,atelectasis,,,uncertain
+1102224550126222,reference,infection,left lung base,,uncertain
+1052372559223989,reference,acute process,cardiopulmonary,,definitely absent
+1053232652195893,reference,mild edema,pulmonary,,definitely present
+1053232652195893,reference,moderate effusion,right pleural,,definitely present
+1053232652195893,reference,opacity,right basilar,opacity suggestive of atelectasis; opacity suggestive of infection,definitely present
+1053232652195893,reference,atelectasis,,,uncertain
+1053232652195893,reference,infection,,,uncertain
+1102224558402174,reference,increasing atelectasis,,,definitely present
+1102224558402174,reference,mild congestion,vascular,,uncertain
+1027414556140866,reference,consolidation,right base,Consolidation suggestive of pneumonia,definitely present
+1027414556140866,reference,pneumonia,,,definitely present
+1086720250482798,reference,diffuse chronic disease,lung,,definitely present
+1086720250482798,reference,new focal consolidation,,,definitely absent
+1093360959243134,reference,new focal opacities,,,definitely absent
+1093360959243134,reference,consolidation,right upper lobe,consolidation suggestive of old pneumonia; consolidation suggestive of chronic changes,definitely present
+1093360959243134,reference,old pneumonia,,,uncertain
+1093360959243134,reference,chronic changes,,,uncertain
+1093360959243134,reference,low,,,definitely present
+1102224555490259,reference,increasing atelectasis,,,definitely present
+1095905459281953,reference,layering,,,definitely present
+1095905459281953,reference,moderate effusion,right pleural,,definitely present
+1095905459281953,reference,mild,,,definitely present
+1095905459281953,reference,improvement atelectasis,right basilar,,definitely present
+1102224551656138,reference,decreased edema,pulmonary,,definitely present
+1102224551656138,reference,opacities more prominent,parenchymal,opacities suggestive of pneumonia,definitely present
+1102224551656138,reference,pneumonia,,,uncertain
+1102224551656138,reference,lines standard position,,,definitely present
+1102224551656138,reference,tubes standard position,,,definitely present
+1027414558307391,reference,acute process,intrathoracic,,definitely absent
+1088569656443683,reference,pneumonia,right lower lobe,,definitely present
+1088569656443683,reference,small effusion,right pleural,,definitely present
+1026887754103072,reference,mild chronic congestive failure,heart,,definitely present
+1026887754103072,reference,trace edema,pulmonary,,definitely present
+1026887754103072,reference,atelectasis,bibasilar,,definitely present
+1071547759170987,reference,mild,,,definitely present
+1071547759170987,reference,acute,,,definitely present
+1071547759170987,reference,congestive,,,definitely present
+1071547759170987,reference,failure,,,definitely present
+1105293550367895,reference,pneumonia,left lobe,,definitely present
+1026887759301985,reference,hazy opacity,right upper mid lungs,opacity suggestive of infectious; opacity suggestive of atelectasis; opacity suggestive of artifact,definitely present
+1026887759301985,reference,infectious,,,uncertain
+1026887759301985,reference,atelectasis,,,uncertain
+1026887759301985,reference,artifact,,,uncertain
+1101693551683155,reference,acute process,intrathoracic,,definitely absent
+1075418456625924,reference,small effusion,right pleural,,definitely present
+1075418456625924,reference,pneumonia,,,definitely absent
+1075418456625924,reference,change,,,definitely absent
+1075418456625924,reference,mild cardiomegaly stable,,,definitely present
+1053232651742525,reference,nasogastric tube adequate position,,,definitely present
+1053232651742525,reference,resolution distention,gastric,,definitely absent
+1102224552391187,reference,change opacity,airspace,,definitely absent
+1102224552391187,reference,opacity,airspace,,definitely present
+1041064159980986,reference,mild,,,definitely present
+1041064159980986,reference,moderate,,,definitely present
+1041064159980986,reference,new pneumothorax,left,,definitely present
+1041064159980986,reference,mild rightward shift,mediastinum,,definitely present
+1041064159980986,reference,stable pneumothorax,right,,definitely present
+1041064159980986,reference,moderate effusion,left pleural,,definitely present
+1026887757765703,reference,unchanged opacities,bibasilar,opacities suggestive of atelectasis; opacities suggestive of consolidation; opacities suggestive of pneumonia,definitely present
+1026887757765703,reference,atelectasis,,,uncertain
+1026887757765703,reference,consolidation,,,uncertain
+1026887757765703,reference,pneumonia,,,uncertain
+1026887757765703,reference,improved edema,pulmonary,,definitely present
+1088569652937462,reference,opacity,right lobe volume,opacity suggestive of atelectasis,definitely present
+1088569652937462,reference,loss,volume,,definitely present
+1088569652937462,reference,atelectasis,,,uncertain
+1088636254849848,reference,changes,,,definitely absent
+1088636254849848,reference,postoperative status,,,definitely present
+1088636254849848,reference,chf,,,definitely present
+1088636254849848,reference,effusion,pleural,,definitely present
+1088636254849848,reference,balloon pump device in place,intra - aortic,,definitely present
+1093360950290463,reference,improving consolidation,right upper lobe,,definitely present
+1093360950290463,reference,mild failure,heart,,definitely present
+1093360950290463,reference,chronic disease,lung,disease suggestive of sarcoidosis,definitely present
+1093360950290463,reference,sarcoidosis,,,uncertain
+1075418454594848,reference,new multifocal opacities,parenchymal,opacities suggestive of infectious; opacities suggestive of processes; opacities suggestive of pneumonia,definitely present
+1075418454594848,reference,infectious processes,,,uncertain
+1075418454594848,reference,organizing pneumonia,,,uncertain
+1095905450128467,reference,pneumothorax,,,definitely absent
+1095905450128467,reference,little change subpulmonic effusion,right pleural,,definitely present
+1095905453881360,reference,increased opacity,right hemithorax,opacity suggestive of effusion; opacity suggestive of atelectasis,definitely present
+1095905453881360,reference,increased effusion,right pleural,,uncertain
+1095905453881360,reference,overlying atelectasis,,,uncertain
+1095905453881360,reference,infectious,,,uncertain
+1041064156031350,reference,stable large effusion,right pleural,,definitely present
+1041064156031350,reference,increasing effusion,left pleural,,definitely present
+1075418456348027,reference,cardiomegaly,,,definitely present
+1075418456348027,reference,acute process,,,definitely absent
+1093360955438657,reference,persistent consolidations,bilateral peribronchial,consolidations suggestive of fibrosis; consolidations suggestive of inflammation; consolidations suggestive of pneumonia; consolidations suggestive of infection,definitely present
+1093360955438657,reference,post - pneumonic fibrosis,,,uncertain
+1093360955438657,reference,inflammation,,,uncertain
+1093360955438657,reference,organizing pneumonia,,,uncertain
+1093360955438657,reference,infection,,,uncertain
+1040237250879902,reference,pneumonia,,,uncertain
+1086720251723789,reference,minimally,,,definitely present
+1086720251723789,reference,increased,,,definitely present
+1086720251723789,reference,opacification,lung,opacification suggestive of edema,definitely present
+1086720251723789,reference,mild edema,,,uncertain
+1086720251723789,reference,chronic severe disease,interstitial,,uncertain
+1093360957629869,reference,acute process,cardiopulmonary,,definitely absent
+1043978156140154,reference,improved mild - to - moderate edema,pulmonary,,definitely present
+1004616650051329,reference,acute process,cardiopulmonary,,definitely absent
+1004616653492798,reference,acute process,cardiopulmonary,,definitely absent
+1026887753452091,reference,hazy opacity,right lung,opacity suggestive of aspiration; opacity suggestive of effusion; opacity suggestive of hemorrhage,definitely present
+1026887753452091,reference,aspiration,,,uncertain
+1026887753452091,reference,effusion,pleural,,uncertain
+1026887753452091,reference,hemorrhage,,,uncertain
+1026887753452091,reference,mild edema,pulmonary,,definitely present
+1026887753452091,reference,displaced fractures,rib,,definitely absent

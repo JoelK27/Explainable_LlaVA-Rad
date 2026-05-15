@@ -1,0 +1,63 @@
+RadGraph analysis summary
+================================================================================
+Cases analyzed: 272
+Mean generated observation count: 7.581
+Mean reference observation count: 2.897
+Mean shared observation count: 0.294
+Mean generated-only observation count: 7.287
+Mean reference-only observation count: 2.603
+Mean observation precision: 0.036
+Mean observation recall: 0.092
+Mean observation F1: 0.196
+Mean observation Jaccard: 0.027
+
+Top missing observations:
+- acute process: 41
+- pneumonia: 37
+- atelectasis: 28
+- infection: 17
+- edema: 14
+- consolidation: 13
+- opacity: 11
+- cardiomegaly: 11
+- mild: 11
+- scarring: 10
+- aspiration: 10
+- acute: 10
+- mild edema: 9
+- effusion: 8
+- congestion: 8
+
+Top extra observations:
+- pneumothorax: 175
+- effusion: 131
+- clear: 58
+- normal: 56
+- focal consolidation: 52
+- unchanged: 48
+- unremarkable: 45
+- atelectasis: 37
+- large effusion: 34
+- edema: 32
+- stable: 32
+- low: 31
+- acute abnormalities: 30
+- congestion: 26
+- mildly enlarged: 22
+
+Top shared observations:
+- atelectasis: 14
+- pneumonia: 9
+- effusion: 7
+- low: 7
+- pneumothorax: 6
+- small effusion: 4
+- edema: 4
+- infection: 3
+- elevation: 2
+- opacity: 2
+- large effusion: 1
+- patchy opacities: 1
+- et tube: 1
+- endotracheal tube: 1
+- linear opacities: 1

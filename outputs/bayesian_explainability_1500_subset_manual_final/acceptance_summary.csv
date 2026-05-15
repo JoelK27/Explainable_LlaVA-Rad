@@ -1,0 +1,2 @@
+score_divergences,score_max_rhat_main,score_max_rhat_E,score_ppc_pass,strict_count_divergences,strict_count_max_rhat,lenient_count_divergences,lenient_count_max_rhat,strict_binary_divergences,strict_binary_max_rhat,p_beta1_negative_strict_count,p_gamma1_negative_lenient_count,p_delta1_negative_strict_binary,overall_minimum_acceptance
+0,1.02,1.02,1,0,1.0,0,1.0,0,1.0,0.13608333333333333,0.9988333333333334,0.05175,0

@@ -1,0 +1,2 @@
+selected_model,observed_h_mean,observed_h_sd,pp_h_mean_mean,pp_h_mean_p05,pp_h_mean_p95,pp_h_sd_mean,pp_h_sd_p05,pp_h_sd_p95,posterior_prob_beta1_negative
+model_A_reduced,1.1219095827791055e-15,0.9999999999999998,-0.0004281498363027338,-0.05575330594829668,0.05522839820611107,0.9986993197427734,0.9462771135918734,1.0535212052478884,1.0

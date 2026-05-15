@@ -1,0 +1,834 @@
+observation,generated_count,reference_count,count_diff_generated_minus_reference
+pneumonia,31,46,-15
+atelectasis,52,42,10
+acute process,0,41,-41
+infection,11,20,-9
+edema,36,18,18
+effusion,139,15,124
+low,41,14,27
+consolidation,16,13,3
+opacity,9,13,-4
+scarring,9,12,-3
+cardiomegaly,2,11,-9
+mild,1,11,-10
+aspiration,6,10,-4
+acute,0,10,-10
+small effusion,20,9,11
+mild edema,9,9,0
+congestion,26,8,18
+mild congestion,17,8,9
+small effusions,11,8,3
+moderate cardiomegaly,4,8,-4
+stable,33,7,26
+fibrosis,0,7,-7
+pneumothorax,183,6,177
+opacities,4,6,-2
+acute disease,3,6,-3
+chronic changes,0,6,-6
+moderate effusion,5,5,0
+chronic disease,2,5,-3
+chf,1,5,-4
+small,1,5,-4
+mild cardiomegaly,4,4,0
+infectious,1,4,-3
+superimposed,0,4,-4
+acute abnormality,18,3,15
+free air,9,3,6
+opacification,2,3,-1
+tube,2,3,-1
+infectious process,1,3,-2
+acute findings,0,3,-3
+severe emphysema,0,3,-3
+focal consolidation,53,2,51
+unchanged,51,2,49
+enlarged,14,2,12
+effusions,10,2,8
+elevation,5,2,3
+patchy opacity,5,2,3
+increased markings,4,2,2
+new consolidation,3,2,1
+new opacity,3,2,1
+changes,2,2,0
+findings,2,2,0
+focal,2,2,0
+large mass,2,2,0
+orogastric tube,2,2,0
+tip,2,2,0
+et tube,1,2,-1
+moderate,1,2,-1
+new,1,2,-1
+new acute infiltrates,1,2,-1
+stable cardiomegaly,1,2,-1
+streaky opacities,1,2,-1
+subtle opacity,1,2,-1
+appearance,0,2,-2
+bronchiectasis,0,2,-2
+chronic fibrosis,0,2,-2
+dilated,0,2,-2
+disease,0,2,-2
+fibrotic,0,2,-2
+fluid,0,2,-2
+fracture,0,2,-2
+hazy opacity,0,2,-2
+ill - defined patchy opacities,0,2,-2
+increasing atelectasis,0,2,-2
+interval change,0,2,-2
+moderate edema,0,2,-2
+mucous plugging,0,2,-2
+new opacities,0,2,-2
+organizing pneumonia,0,2,-2
+radiation fibrosis,0,2,-2
+radiograph,0,2,-2
+residual opacity,0,2,-2
+sarcoid,0,2,-2
+sarcoidosis,0,2,-2
+stable mild cardiomegaly,0,2,-2
+superimposed acute process,0,2,-2
+superimposed edema,0,2,-2
+clear,58,1,57
+large effusion,35,1,34
+linear opacities,13,1,12
+increased opacity,12,1,11
+endotracheal tube,9,1,8
+change,5,1,4
+loss,5,1,4
+patchy opacities,5,1,4
+copd,4,1,3
+crowding,4,1,3
+linear atelectasis,4,1,3
+mild atelectasis,4,1,3
+emphysema,3,1,2
+focal opacity,3,1,2
+malignancy,3,1,2
+new abnormalities,3,1,2
+picc,3,1,2
+congestive failure,2,1,1
+focal consolidations,2,1,1
+hemorrhage,2,1,1
+improvement edema,2,1,1
+increased,2,1,1
+indistinctness,2,1,1
+overlying atelectasis,2,1,1
+stable effusion,2,1,1
+stable scarring,2,1,1
+thickening,2,1,1
+trace effusions,2,1,1
+asymmetric,1,1,0
+asymmetric edema,1,1,0
+chronic,1,1,0
+chronic scarring,1,1,0
+congestive,1,1,0
+displaced fractures,1,1,0
+greater,1,1,0
+increased edema,1,1,0
+left picc,1,1,0
+mild - to - moderate edema,1,1,0
+mild rightward shift,1,1,0
+minor atelectasis,1,1,0
+moderate small effusions,1,1,0
+new focal consolidation,1,1,0
+nodular opacity,1,1,0
+nodule,1,1,0
+opacity silhouetting,1,1,0
+overt edema,1,1,0
+persistent opacities,1,1,0
+persistent opacity,1,1,0
+picc line,1,1,0
+superimposed consolidation,1,1,0
+trace effusion,1,1,0
+trace effusion unchanged,1,1,0
+13 mm nodule,0,1,-1
+abnormalities,0,1,-1
+acute aspiration,0,1,-1
+acute change,0,1,-1
+acute exacerbation chf,0,1,-1
+acute exacerbation disease,0,1,-1
+acute pneumonia,0,1,-1
+acute superimposed pneumonia,0,1,-1
+adjacent,0,1,-1
+aeration,0,1,-1
+airspace,0,1,-1
+appropriately,0,1,-1
+artifact,0,1,-1
+atelectasis improved,0,1,-1
+atypical infection,0,1,-1
+balloon pump device in place,0,1,-1
+bronchovasculature,0,1,-1
+cardiogenic,0,1,-1
+cardiomyopathy,0,1,-1
+change opacity,0,1,-1
+chest tube proper positions,0,1,-1
+chronic fibrotic changes,0,1,-1
+chronic nonunion,0,1,-1
+chronic process,0,1,-1
+chronic severe disease,0,1,-1
+collapse,0,1,-1
+configuration,0,1,-1
+considerable interval increase,0,1,-1
+consolidations,0,1,-1
+correlate,0,1,-1
+decreased edema,0,1,-1
+dependent atelectasis,0,1,-1
+developing,0,1,-1
+diffuse abnormalities,0,1,-1
+diffuse abnormalities progression,0,1,-1
+diffuse chronic disease,0,1,-1
+diffusely increased hazy opacification,0,1,-1
+displaced,0,1,-1
+dual - chamber pacemaker,0,1,-1
+early pneumonia,0,1,-1
+edema improving,0,1,-1
+endotracheal tube appropriately positioned,0,1,-1
+endotracheal tube proper positions,0,1,-1
+endotracheal tube standard positions,0,1,-1
+enteric tubes standard positions,0,1,-1
+et,0,1,-1
+evaluation,0,1,-1
+extensive atelectasis,0,1,-1
+extensive patchy opacities,0,1,-1
+failure,0,1,-1
+faint increased opacification,0,1,-1
+fiducial seeds slightly less prominent,0,1,-1
+focal patchy opacities,0,1,-1
+fractured misaligned median sternotomy wires,0,1,-1
+fractures,0,1,-1
+frontal,0,1,-1
+granulomatous,0,1,-1
+granulomatous process,0,1,-1
+greater atelectasis,0,1,-1
+greater opacities,0,1,-1
+hemodialysis catheter placement tip,0,1,-1
+hypertension,0,1,-1
+ill - defined opacity,0,1,-1
+improved aeration,0,1,-1
+improved asymmetric edema,0,1,-1
+improved consolidation,0,1,-1
+improved edema,0,1,-1
+improved mild - to - moderate edema,0,1,-1
+improved mild edema,0,1,-1
+improved small effusion,0,1,-1
+improvement,0,1,-1
+improvement atelectasis,0,1,-1
+improvement decompensated congestive failure,0,1,-1
+improvement effusions,0,1,-1
+improvement opacities,0,1,-1
+improving consolidation,0,1,-1
+improving pneumonia,0,1,-1
+increase in opacity nonspecific,0,1,-1
+increased atelectasis,0,1,-1
+increased effusion,0,1,-1
+increased lymphadenopathy,0,1,-1
+increased small effusion,0,1,-1
+increasing effusion,0,1,-1
+increasing opacity,0,1,-1
+infarction,0,1,-1
+infectious process superimposed on chronic changes,0,1,-1
+infectious processes,0,1,-1
+inflammation,0,1,-1
+ingested food contents,0,1,-1
+interval,0,1,-1
+layering,0,1,-1
+lead appropriate position,0,1,-1
+lesion,0,1,-1
+less opacification,0,1,-1
+less prominent,0,1,-1
+linear,0,1,-1
+lines in place,0,1,-1
+lines standard position,0,1,-1
+little change subpulmonic effusion,0,1,-1
+lobectomy,0,1,-1
+loculated,0,1,-1
+loculated effusion stable,0,1,-1
+lymphangiomyomatosis,0,1,-1
+marked,0,1,-1
+marked improvement,0,1,-1
+maturing,0,1,-1
+metastases,0,1,-1
+mild - to - moderate effusions,0,1,-1
+mild cardiomegaly stable,0,1,-1
+mild chronic congestive failure,0,1,-1
+mild effusion,0,1,-1
+mild enlargement unchanged,0,1,-1
+mild failure,0,1,-1
+mild improvement congestion,0,1,-1
+mild increase edema,0,1,-1
+mild increase prominence,0,1,-1
+mild opacities,0,1,-1
+mild residual opacification,0,1,-1
+minimal edema,0,1,-1
+minimal worsening atelectasis,0,1,-1
+minimal worsening effusion,0,1,-1
+minimally,0,1,-1
+moderate copd,0,1,-1
+moderate effusions,0,1,-1
+moderate greater effusions,0,1,-1
+more,0,1,-1
+more conspicuous opacity,0,1,-1
+multifocal,0,1,-1
+multifocal consolidation,0,1,-1
+multifocal opacities,0,1,-1
+multiple pacer wires unchanged,0,1,-1
+multiple vertebroplasties,0,1,-1
+nasogastric tube adequate position,0,1,-1
+new diffuse opacities,0,1,-1
+new focal opacities,0,1,-1
+new mass,0,1,-1
+new mild edema,0,1,-1
+new multifocal opacities,0,1,-1
+new picc,0,1,-1
+new pneumothorax,0,1,-1
+nodules progression,0,1,-1
+non - resolving pneumonia,0,1,-1
+normal radiograph,0,1,-1
+old pneumonia,0,1,-1
+opacities more prominent,0,1,-1
+opacity linear,0,1,-1
+opacity more prominent,0,1,-1
+opacity slightly less prominent,0,1,-1
+overt,0,1,-1
+patchy streaky opacity,0,1,-1
+persistent consolidations,0,1,-1
+persistent opacification,0,1,-1
+persistently,0,1,-1
+placed,0,1,-1
+plate - like atelectasis,0,1,-1
+pneumomediastinum,0,1,-1
+pneumonectomy,0,1,-1
+pneumonia superimposed,0,1,-1
+post - obstructive pneumonia,0,1,-1
+post - pneumonic fibrosis,0,1,-1
+post lobectomy,0,1,-1
+postoperative status,0,1,-1
+predominant emphysema,0,1,-1
+prior tuberculosis,0,1,-1
+process,0,1,-1
+progressive loss,0,1,-1
+prominent congestion,0,1,-1
+residual streaky opacity,0,1,-1
+resolution distention,0,1,-1
+resolution edema,0,1,-1
+resolving,0,1,-1
+resolving pneumonia,0,1,-1
+rupture,0,1,-1
+scaring,0,1,-1
+scarring superimposed acute process,0,1,-1
+septic embolus,0,1,-1
+severe,0,1,-1
+severe bronchiectasis,0,1,-1
+severe disease,0,1,-1
+severe edema,0,1,-1
+severe fibrosis,0,1,-1
+shadow,0,1,-1
+side port,0,1,-1
+slight improvement,0,1,-1
+slight improvement mild edema,0,1,-1
+slightly more prominent,0,1,-1
+small - to - moderate effusions,0,1,-1
+small atelectasis,0,1,-1
+small focal opacity,0,1,-1
+small hydropneumothorax,0,1,-1
+small pneumothoraces,0,1,-1
+some,0,1,-1
+some clearing pneumonia,0,1,-1
+stable chronic disease,0,1,-1
+stable deformity,0,1,-1
+stable findings,0,1,-1
+stable large effusion,0,1,-1
+stable loss,0,1,-1
+stable markings,0,1,-1
+stable pneumothorax,0,1,-1
+stable post - operative findings,0,1,-1
+stable postoperative changes lobectomy,0,1,-1
+stable prominence,0,1,-1
+stable radiographs,0,1,-1
+stable small effusions,0,1,-1
+stable small moderate effusion,0,1,-1
+standard positions endotracheal and orogastric tubes,0,1,-1
+stellate,0,1,-1
+stent placement,0,1,-1
+streaky atelectasis,0,1,-1
+superimposed pneumonia,0,1,-1
+superimposed process,0,1,-1
+swan - ganz catheter proper positions,0,1,-1
+tb,0,1,-1
+temporary pacemaker,0,1,-1
+temporary pacemaker appropriate position,0,1,-1
+thickening stable,0,1,-1
+tiny,0,1,-1
+trace edema,0,1,-1
+tubes in place,0,1,-1
+tubes standard position,0,1,-1
+unchanged effusion,0,1,-1
+unchanged lead positions,0,1,-1
+unchanged opacities,0,1,-1
+unchanged pneumothorax,0,1,-1
+underlying,0,1,-1
+upward retraction,0,1,-1
+worsening,0,1,-1
+worsening chf,0,1,-1
+worsening mild - to - moderate edema,0,1,-1
+worsening new pneumonia,0,1,-1
+worsening pneumonia,0,1,-1
+normal,67,0,67
+unremarkable,46,0,46
+acute abnormalities,30,0,30
+mildly enlarged,22,0,22
+within normal limits,19,0,19
+intact,18,0,18
+normal limits,16,0,16
+relatively low,16,0,16
+calcified,14,0,14
+clips,14,0,14
+hyperinflated,11,0,11
+calcified lymph nodes,10,0,10
+port - a - cath,10,0,10
+port catheter tip,10,0,10
+surgical clips,10,0,10
+sternotomy wires,9,0,9
+well expanded,9,0,9
+top normal,8,0,8
+enlargement,7,0,7
+tortuous,7,0,7
+acute focal pneumonia,6,0,6
+cabg,6,0,6
+confluent consolidation,6,0,6
+degenerative changes,6,0,6
+median sternotomy,6,0,6
+median sternotomy wires,6,0,6
+pacemaker leads,6,0,6
+port - a - cath catheter tip,6,0,6
+atherosclerotic calcifications,5,0,5
+large confluent consolidation,5,0,5
+midline sternotomy wires,5,0,5
+port - a - cath tip,5,0,5
+prominence,5,0,5
+blunting,4,0,4
+compressive atelectasis,4,0,4
+demineralized,4,0,4
+diffusely calcified,4,0,4
+grossly unremarkable,4,0,4
+little change,4,0,4
+moderate cardiomegaly unchanged,4,0,4
+picc tip,4,0,4
+post cabg,4,0,4
+post median sternotomy,4,0,4
+stable moderate cardiomegaly,4,0,4
+supervening pneumonia,4,0,4
+calcified granulomas,3,0,3
+calcified nodes,3,0,3
+catheter,3,0,3
+dual - lead pacing device,3,0,3
+elevated pressure,3,0,3
+engorged,3,0,3
+extremely low,3,0,3
+faint opacification,3,0,3
+layering effusion,3,0,3
+line,3,0,3
+little overall change,3,0,3
+lower,3,0,3
+median,3,0,3
+mild abnormality,3,0,3
+moderate effusion unchanged,3,0,3
+moderately enlarged,3,0,3
+monitoring support devices in place,3,0,3
+opacity unchanged,3,0,3
+patchy regions consolidation notably,3,0,3
+picc line tip,3,0,3
+replacement,3,0,3
+similar,3,0,3
+size,3,0,3
+suture material,3,0,3
+tracheostomy tube,3,0,3
+vertebroplasty,3,0,3
+acute fractures,2,0,2
+aicd leads,2,0,2
+calcified node,2,0,2
+cannot be assessed,2,0,2
+central catheter in place,2,0,2
+cholecystectomy,2,0,2
+congested,2,0,2
+decreased,2,0,2
+difficult to assess,2,0,2
+diffuse abnormality,2,0,2
+diffuse opacities,2,0,2
+drainage tube,2,0,2
+dual - chamber,2,0,2
+dual - lead pacemaker leads,2,0,2
+emphysematous,2,0,2
+endotracheal tube tip,2,0,2
+engorgement,2,0,2
+enlarged stable,2,0,2
+enlarged unchanged,2,0,2
+enteric tube tip,2,0,2
+flattening,2,0,2
+focal opacities,2,0,2
+grossly stable,2,0,2
+hardware,2,0,2
+hyperexpanded,2,0,2
+hyperexpansion,2,0,2
+ij catheter,2,0,2
+increased infiltrate,2,0,2
+increased opacification,2,0,2
+indistinct,2,0,2
+large,2,0,2
+leads,2,0,2
+local thickenings regressed,2,0,2
+median sternotomy wires intact,2,0,2
+midline,2,0,2
+mild degenerative changes,2,0,2
+mild moderately enlarged,2,0,2
+mild prominence markings,2,0,2
+mildly tortuous,2,0,2
+moderate abnormality,2,0,2
+multifocal pneumonia,2,0,2
+multiple old fractures,2,0,2
+multiple old healed fractures,2,0,2
+new focal opacity,2,0,2
+ng tube,2,0,2
+pacing device,2,0,2
+port,2,0,2
+post - surgical,2,0,2
+severe compression stable,2,0,2
+slightly enlarged,2,0,2
+slightly low,2,0,2
+sternotomy wires intact,2,0,2
+subtle patchy opacity,2,0,2
+tube unchanged position,2,0,2
+typical configurational abnormality,2,0,2
+upper limits normal,2,0,2
+vertebroplasty changes,2,0,2
+within,2,0,2
+1 . 6 cm nodular opacity stable new,1,0,1
+abnormality unchanged,1,0,1
+accentuate markings,1,0,1
+accentuated,1,0,1
+accentuation,1,0,1
+acute changes,1,0,1
+acute component,1,0,1
+aicd unchanged,1,0,1
+aligned,1,0,1
+anchor,1,0,1
+anchors,1,0,1
+area consolidation,1,0,1
+areas of consolidation,1,0,1
+asymmetry in opacification,1,0,1
+atelectasis increased,1,0,1
+atelectasis severe,1,0,1
+atelectasis similar to prior,1,0,1
+atelectasis unchanged,1,0,1
+atelectatic,1,0,1
+atelectatic changes,1,0,1
+better,1,0,1
+better inspiration,1,0,1
+better ventilated,1,0,1
+bypass graft surgery,1,0,1
+calcification,1,0,1
+calcified granuloma,1,0,1
+calcified granuloma stable,1,0,1
+calcified granuloma unchanged,1,0,1
+calcified granulomas unchanged,1,0,1
+calcified granulomata,1,0,1
+calcium deposits,1,0,1
+catheter unchanged,1,0,1
+catheter unchanged position tip,1,0,1
+catheters,1,0,1
+cavitary lesion,1,0,1
+central catheter tip,1,0,1
+central congestion worse,1,0,1
+central venous,1,0,1
+central venous catheter,1,0,1
+chest tube,1,0,1
+cholecystectomy clips,1,0,1
+chronic thickening,1,0,1
+chronic underlying process,1,0,1
+clips stable,1,0,1
+coarse markings,1,0,1
+coiling,1,0,1
+compression deformity,1,0,1
+confluent opacification,1,0,1
+confluent opacity,1,0,1
+convex opacity,1,0,1
+course tube unremarkable,1,0,1
+decreased in severity,1,0,1
+deformities chronic,1,0,1
+deformity,1,0,1
+degenerative changes along,1,0,1
+dense atherosclerotic calcifications,1,0,1
+dense calcified granulomas,1,0,1
+dense calcified lymph nodes,1,0,1
+dense opacity,1,0,1
+density unchanged,1,0,1
+dialysis catheter tip,1,0,1
+diffuse edema,1,0,1
+diffuse increase markings,1,0,1
+diffuse increased,1,0,1
+diffuse opacifications prominent,1,0,1
+diffuse opacities non - specific,1,0,1
+diffuse opacities predominantly worsened,1,0,1
+diffusely increased markings,1,0,1
+drain,1,0,1
+dual - channel central venous catheter,1,0,1
+dual lead pacemaker tips,1,0,1
+dual lead pacing device,1,0,1
+early infection,1,0,1
+early infectious process,1,0,1
+effusion decreased,1,0,1
+effusion obliterates blunts,1,0,1
+effusion size,1,0,1
+effusions greater,1,0,1
+effusions prominent,1,0,1
+elevation pressure,1,0,1
+emphysematous pronounced,1,0,1
+endotracheal,1,0,1
+endotracheal tube appropriate,1,0,1
+enlarged stable configuration,1,0,1
+enteric tube,1,0,1
+enteric tube tip not included in this examination,1,0,1
+essentially clear,1,0,1
+et tube standard placement,1,0,1
+et tube unchanged,1,0,1
+exaggeration,1,0,1
+extensive consolidation unchanged,1,0,1
+extensive emphysema,1,0,1
+face mask overlying,1,0,1
+feeding tube,1,0,1
+filter,1,0,1
+focal new opacity nonspecific,1,0,1
+focal opacification,1,0,1
+fracture old,1,0,1
+fractures old,1,0,1
+free,1,0,1
+fusion device,1,0,1
+granuloma,1,0,1
+grossly clear,1,0,1
+haze,1,0,1
+hemodialysis catheter in place,1,0,1
+hypoinflated,1,0,1
+icd,1,0,1
+icd leads appropriate position,1,0,1
+icd stable position,1,0,1
+ill - defined opacities unchanged,1,0,1
+improved congestion,1,0,1
+improvement acute process,1,0,1
+increased density,1,0,1
+increased markings similar to prior,1,0,1
+increased opacification asymmetry,1,0,1
+increased opacification silhouetting,1,0,1
+increased prominence,1,0,1
+increased radiodensity,1,0,1
+indeterminate age age indeterminate,1,0,1
+infiltrates,1,0,1
+intact sternal wires,1,0,1
+introducer catheter,1,0,1
+intubated,1,0,1
+large area consolidation,1,0,1
+large effusions,1,0,1
+large effusions greater,1,0,1
+large hazy opacity overlying,1,0,1
+large hiatal hernia,1,0,1
+large hydropneumothorax substantial air component,1,0,1
+lead,1,0,1
+lead fracture,1,0,1
+limits assessment,1,0,1
+line unchanged position,1,0,1
+linear opacity,1,0,1
+little,1,0,1
+little change opacification,1,0,1
+lobectomy chain sutures,1,0,1
+local thickening,1,0,1
+loculated hydropneumothorax unchanged,1,0,1
+lymphadenopathy,1,0,1
+magnified,1,0,1
+marked opacification,1,0,1
+mass,1,0,1
+median sternotomy wires intact well aligned,1,0,1
+mild - to - moderate abnormality,1,0,1
+mild - to - moderate compression stable,1,0,1
+mild - to - moderate degenerative,1,0,1
+mild blunting,1,0,1
+mild cardiomegaly changed,1,0,1
+mild degenerative,1,0,1
+mild edema new,1,0,1
+mild edema unchanged,1,0,1
+mild engorgement,1,0,1
+mild flattening,1,0,1
+mild hyperexpansion,1,0,1
+mild leftward shift,1,0,1
+mild moderate edema,1,0,1
+mild moderate edema worse,1,0,1
+mild process,1,0,1
+mild scarring,1,0,1
+mildly engorged,1,0,1
+minimally decreased,1,0,1
+moderate - sized pneumothorax,1,0,1
+moderate - sized pneumothorax unchanged size,1,0,1
+moderate - to - severe cardiomegaly,1,0,1
+moderate cardiomegaly stable,1,0,1
+moderate edema unchanged,1,0,1
+moderate edema worse,1,0,1
+moderate effusion increased,1,0,1
+moderate pneumothorax smaller,1,0,1
+moderate severely enlarged,1,0,1
+moderate small effusions similar to prior,1,0,1
+moderately calcified,1,0,1
+moderately enlarged similar to prior,1,0,1
+monitoring support devices constant,1,0,1
+more confluent,1,0,1
+more confluent opacity,1,0,1
+more focal opacities,1,0,1
+multifocal consolidations,1,0,1
+multilevel degenerative changes,1,0,1
+multiple calcified lymph nodes,1,0,1
+multiple intact wires,1,0,1
+multiple surgical clips,1,0,1
+nasogastric,1,0,1
+nasogastric tube,1,0,1
+nasogastric tube unchanged position,1,0,1
+new area increased opacity,1,0,1
+new catheter,1,0,1
+new indistinctness markings,1,0,1
+new infiltrate,1,0,1
+new opacity obscuring,1,0,1
+new region consolidation,1,0,1
+newly opacity,1,0,1
+ng tube side port,1,0,1
+ng tube tip,1,0,1
+ng tube unchanged,1,0,1
+old fracture,1,0,1
+old granulomatous infections,1,0,1
+opacifications,1,0,1
+opacifications decreasing,1,0,1
+opacities improved,1,0,1
+opacities increased,1,0,1
+opacities slightly worse,1,0,1
+opacity ill - defined multiple air bronchograms,1,0,1
+opacity improved,1,0,1
+opacity less extensive,1,0,1
+opacity lucency,1,0,1
+opacity new,1,0,1
+ordinary,1,0,1
+other abnormalities,1,0,1
+over expected locations,1,0,1
+overlying opacities,1,0,1
+overlying opacity,1,0,1
+pacemaker leads unchanged,1,0,1
+pacemaker unchanged dual leads,1,0,1
+pacer leads,1,0,1
+pacer leads appropriate position,1,0,1
+partial calcification,1,0,1
+partial obliteration unchanged,1,0,1
+patchy ill - defined opacities,1,0,1
+patchy ill - defined opacity,1,0,1
+patchy opacities lesser,1,0,1
+patchy opacity decreased,1,0,1
+patchy regions consolidation,1,0,1
+patient rotated,1,0,1
+patient rotated to the right,1,0,1
+patient slightly inspiration,1,0,1
+peg tube,1,0,1
+permanent pacer,1,0,1
+persistent blunting,1,0,1
+persistent loss,1,0,1
+pigtail,1,0,1
+pigtails,1,0,1
+pneumothoraces,1,0,1
+port - a - cath changed,1,0,1
+port - a - cath in place,1,0,1
+post,1,0,1
+post - radiation changes,1,0,1
+post - surgical changes,1,0,1
+pre - existing effusion decreased in extent,1,0,1
+pre - existing opacity,1,0,1
+pre - existing opacity unchanged,1,0,1
+pre - existing pneumonia,1,0,1
+prior pneumonia,1,0,1
+prior surgery,1,0,1
+pseudoaneurysm,1,0,1
+radiopaque foreign body,1,0,1
+re - distribution,1,0,1
+redistribution,1,0,1
+relatively,1,0,1
+remaining catheter,1,0,1
+residual mild edema,1,0,1
+reticular opacities,1,0,1
+right picc,1,0,1
+row wires unchanged,1,0,1
+secondary crowding,1,0,1
+severe emphysematous changes,1,0,1
+severity,1,0,1
+similar pattern fibrosis,1,0,1
+similar pattern opacity,1,0,1
+single - lead aicd lead,1,0,1
+single - lead pacer intact lead,1,0,1
+slight blunting,1,0,1
+slight engorgement,1,0,1
+slight improvement atelectasis,1,0,1
+slight increase opacity,1,0,1
+slight patchy opacity,1,0,1
+slight prominence,1,0,1
+slightly,1,0,1
+small - to - moderate effusion unchanged,1,0,1
+small effusions unchanged,1,0,1
+small eventration,1,0,1
+small free air,1,0,1
+small pneumothorax,1,0,1
+stable atelectasis,1,0,1
+stable hyperinflation,1,0,1
+stable opacity,1,0,1
+status post median sternotomy,1,0,1
+sternotomy,1,0,1
+sternotomy sutures midline intact,1,0,1
+sternotomy wires stable,1,0,1
+streaks atelectasis,1,0,1
+streaky,1,0,1
+streaky opacification less prominent,1,0,1
+streaky opacity,1,0,1
+substantial loss,1,0,1
+substantially atelectatic,1,0,1
+subtle opacities,1,0,1
+superimposed infection,1,0,1
+superimposed infectious process,1,0,1
+supervening aspiration,1,0,1
+support devices unchanged positions,1,0,1
+surgical,1,0,1
+surgical anchor,1,0,1
+surgical anchors,1,0,1
+suture anchors,1,0,1
+symmetrically expanded,1,0,1
+temporary pacemaker in place tip,1,0,1
+thickened,1,0,1
+tiny effusion,1,0,1
+tiny pneumothorax,1,0,1
+tip not included in the image,1,0,1
+top - normal,1,0,1
+top normal size,1,0,1
+tortuosity,1,0,1
+tracheobronchomalacia stent placement,1,0,1
+tracheostomy tube appropriate position,1,0,1
+tracheostomy tube unchanged position,1,0,1
+triple - lead aicd leads,1,0,1
+triple - lead pacemaker tips,1,0,1
+two electrodes one,1,0,1
+unaltered,1,0,1
+unchanged atelectasis,1,0,1
+unchanged extent,1,0,1
+unchanged moderate cardiomegaly,1,0,1
+unchanged moderate effusion,1,0,1
+unchanged position,1,0,1
+unchanged tracheostomy tube position,1,0,1
+underlying consolidation,1,0,1
+underlying nodules,1,0,1
+upper,1,0,1
+upper limit normal variation,1,0,1
+vague opacity,1,0,1
+ventilation,1,0,1
+volume loss,1,0,1
+vp shunt catheter,1,0,1
+well - expanded,1,0,1
+well aerated,1,0,1
+widespread mild abnormality,1,0,1
+wire fractured,1,0,1
+wires,1,0,1
+wires intact,1,0,1
+worsening disease,1,0,1
+worsening edema moderate,1,0,1
